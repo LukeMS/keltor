@@ -1,5 +1,7 @@
 @ECHO OFF
 
+copy LICENSE.rst rst/LICENSE.rst
+
 pushd %~dp0
 
 REM Command file for Sphinx documentation
