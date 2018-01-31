@@ -1,0 +1,20 @@
+language: python
+
+install:
+  - pip install sphinx
+
+script:
+  - make html
+
+after_success:
+  - cd $TRAVIS_BUILD_DIR
+
+# Deploy using travis builtin GitHub Pages support
+deploy:
+  provider: pages
+  # target_branch: gh-pages # Branch to force push to, defaults to gh-pages
+  skip_cleanup: true
+  local_dir: build/html
+  github_token: $GITHUB_API_KEY
+  on:
+    branch: master
