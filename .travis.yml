@@ -6,10 +6,8 @@ install:
   - pip install sphinx
 
 script:
-  - make html
-
-after_success:
   - cd $TRAVIS_BUILD_DIR
+  - make html
 
 # Deploy using travis builtin GitHub Pages support
 deploy:
