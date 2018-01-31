@@ -7,15 +7,20 @@
 The Middle Lands of Keltor
 ###########################
 
-Created by `William R. Gibson <mailto:will.gbn@gmail.com>`_, May, 2011.
-
 *Release: The Middle Lands of Keltor (OGC) v1.0*.
 
- Thanks to William for creating this beautiful world and sharing it with us, in details, trough this campaign setting.
+The Middle Lands of Keltor is a campaign setting (compatible with famous RPGs released under the `Open Game License`_), created by `William R. Gibson <mailto:will.gbn@gmail.com>`_ on May, 2011.
 
- *May Bantus bless him and may he live forever for also allowing it to be released under the Open Game License.*
+*Thanks to William for creating this great campaign setting, sharing it with us (in details), and allowing its use under the `Open Game License`_*.
 
-**Note**: This version contains `modifications <changes_jan_30_2018_>`_ that were required to comply with the terms of the `Open Game License`_. If you're looking for the original, unmodified, version of *The Middle Lands of Keltor*, you can find it at William's `rpg stash <http://www.unicornbacon.com/leezard/rpg_listing.html>`_ page, with links to all of the pdfs, or at `his website <http://www.unicornbacon.com/leezard/rpg_listing.html>`_.
+
+Open Game Content Release
+**************************
+
+This project is an Open Game Content conversion of the The Middle Lands of Keltor.
+A few `modifications <changes_jan_30_2018_>`_ were required in order to achieve that, such as removing or replacing creatures and names that are not open content.
+
+The original Middle Lands of Keltor campaign setting can be found at the William's `rpg stash <http://www.unicornbacon.com/leezard/rpg_listing.html>`_ page, in pdf format, or at `his website <http://www.unicornbacon.com/leezard/rpg_listing.html>`_.
 
 
 Table of Contents
