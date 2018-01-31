@@ -1,13 +1,8 @@
-sample_few_rst/
-html/
-cache/
 git-commit.bat
-rst/*.rst
 *.html
 *.log
 *.lnk
 *.bz2p
-soup_tests.py
 *.sublime-project
 *.sublime-workspace
 

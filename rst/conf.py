@@ -112,7 +112,7 @@ html_sidebars = {}
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'TheMiddleLandsofKeltorCampaignSetting'
+htmlhelp_basename = 'TheMiddleLandsofKeltorCampaignSettingdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -155,7 +155,8 @@ man_pages = [
     (master_doc,
      'themiddlelandsofkeltorcampaignsetting',
      'The Middle Lands of Keltor Campaign Setting',
-     [author], 1)
+     [author],
+     1)
 ]
 
 
@@ -166,7 +167,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc,
-     'themiddlelandsofkeltorcampaignsetting',
+     'TheMiddleLandsofKeltorCampaignSetting',
      'The Middle Lands of Keltor Campaign Setting',
      author,
      'TheMiddleLandsofKeltorCampaignSetting',
