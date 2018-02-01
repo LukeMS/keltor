@@ -49,9 +49,7 @@ Having played a variety of role-playing games (RPG's) over the years, both pen a
 
 * limited demi-human population (allows for rebuilding relations)
 
-I see these limitations as giving me, and the players, room to grow the world as time passes. By no means do I seek to limit players with these, but rather I give them the chance to affect the world in a greater way. Think of them more as design parameters and not hard limits to the world once play begins.
-If players take actions that I deem will affect these baselines then the world will change over time and I let them see this and know that they are responsible for it. As far as plot goes, sometimes it's a good thing and other times not so good, meaning PCs can be publicly vilified as easily as applauded.
-Regardless, this can pull players in and invest them in the world around them. Which, in my experience, makes the game more enjoyable. Playing off what the players do gives me more material then any other source.
+I see these limitations as giving me, and the players, room to grow the world as time passes. By no means do I seek to limit players with these, but rather I give them the chance to affect the world in a greater way. Think of them more as design parameters and not hard limits to the world once play begins. If players take actions that I deem will affect these baselines then the world will change over time and I let them see this and know that they are responsible for it. As far as plot goes, sometimes it's a good thing and other times not so good, meaning PCs can be publicly vilified as easily as applauded. Regardless, this can pull players in and invest them in the world around them. Which, in my experience, makes the game more enjoyable. Playing off what the players do gives me more material then any other source.
 
 *I give special thanks to my wife for her insight and anthropological expertise. Without which the social structure of many peoples of this world would lack the depth they have now.*
 
@@ -122,9 +120,7 @@ About the Maps
 
 The color overland maps are a graphical representation of the land.  While coastlines and rivers are fairly exact, the trees, mountain, hill and swamp markers are  representative of the  most common terrain features in the area covered by the marker.  So if you were to zoom in on a 400 square mile area showing only swamp you may find that only 250 square miles are swamp and the rest is forest and hills, for example.  This effect is most prevalent in respect to islands.  At the current level of magnification not all the islands can be seen.  The markers used on all the maps are explained in the following table.
 
-The city maps are more impressionistic.  For the most part, they show the location of groups of buildings
-rather than individual structures.  In this way they remain open enough for the GM to do as they need to
-while still showing the basic structure of the city.  All maps have been made by me.
+The city maps are more impressionistic. For the most part, they show the location of groups of buildings rather than individual structures. In this way they remain open enough for the GM to do as they need to while still showing the basic structure of the city.  All maps have been made by me.
 
 The Scrolls of Beginnings
 ##########################
@@ -132,7 +128,7 @@ The Scrolls of Beginnings
 The scrolls date back over six-thousand years. They were found inscribed on clay tablets in a cave located in the north west mountains adjacent to the `Great Desert`_, called the Rasfenie Mountains. The author is unknown. These scrolls are the only known documents to pre-date the Savage Time. They were discovered by a Trellmock expedition in the year 331 MLE. Translation by Scholar Surian Lagrade, 340 MLE. Lagrade believed there was at least one missing scroll.
 
 +------------------------------------+----------------------------------+------------------------------------+----------------------------------+
-| | The First Scroll                 | | The Second Scroll              | | The Third Scroll                 | | The Second Scroll              |
+| | The First Scroll                 | | The Second Scroll              | | The Third Scroll                 | | The Fourth Scroll              |
 +====================================+==================================+====================================+==================================+
 | |                                  | |                                | |                                  | |                                |
 | | In the time long past,           | | War raged across the Sky       | | The Dragon was alone,            | | Finally the Dragon's breath    |
@@ -176,9 +172,9 @@ A World View
    :alt: A World View
    :align: center
 
-There are four main land masses in the World. The largest, Keltor, the smallest, Unetor, and the other two, Rektor in the north and Soltor in the south. Keltor will be the focus here, in particular the area known as the Middle Lands or the Artisan Kingdoms.
+There are four main land masses in the World. The largest, Keltor, the smallest, `Unetor`_, and the other two, `Rektor`_ in the north and `Soltor`_ in the south. `Keltor`_ will be the focus here, in particular the area known as the `Middle Lands  or the Artisan Kingdoms <Middle Lands_>`_.
 
-To the east is the Vast Sea, called the Beyond Sea in the Middle Lands. To the west is the Sea of Storms, also called the Wild Sea or the Sea of Pain. In the south is the Summer Sea or the Wind Sea also called simply the South Sea. The North Sea is also known as the Ice Sea or the Grief Sea. Running between the main land masses is the Inner Sea, a.k.a. the Narrow Sea or the Calm Sea. As a side note, sailors think it bad luck to call it the Calm Sea. This is a near universal superstition.
+To the east is the Vast Sea, called the Beyond Sea in the `Middle Lands`_. To the west is the `Sea of Storms`_, also called the Wild Sea or the Sea of Pain. In the south is the Summer Sea or the Wind Sea also called simply the South Sea. The North Sea is also known as the Ice Sea or the Grief Sea. Running between the main land masses is the `Inner Sea`_, a.k.a. the Narrow Sea or the Calm Sea. As a side note, sailors think it bad luck to call it the Calm Sea. This is a near universal superstition.
 
 Keltor and the Middle Land Empire
 ##################################
@@ -188,17 +184,18 @@ Keltor and the Middle Land Empire
    :target: _static/img/map_middle_lands(big).jpg
    :align: center
 
+.. _`Middle Lands`:
+
 The Middle Lands
 ******************
 
 *a.k.a. The Mid Kingdoms or The Artisan Kingdoms*
 
-Technically an empire (the Middle Land Empire), the Middle Lands are made up of the kingdoms of Argos, Celyd, `Fellice`_, Mostor and Sulkor.  Each has sworn an oath to the Imperial Throne.  This oath is renewed when a new leader takes charge.
+Technically an empire (the Middle Land Empire), the Middle Lands are made up of the kingdoms of `Argos`_, `Celyd`_, `Fellice`_, `Mostor`_ and `Sulkor`_.  Each has sworn an oath to the Imperial Throne.  This oath is renewed when a new leader takes charge.
 
-While they are called kingdoms the structure of government varies from the traditional kingdom's monarchy system (seen in Argos, `Fellice`_ and Sulkor) to a counsel of noble blood (in Mostor) and a republic (in Celyd). There have been no major conflicts between the kingdoms for over three-hundred years. Most conflict is with the inhabitants of the north and, on rare occasion, the kingdoms of the south. Conflict also comes from the wilderness within the Empire's borders. There are an abundance of orc, gnoll, bugbear, goblin, and troglodyte hoards which will strike out against settlements from time to time.
+While they are called kingdoms the structure of government varies from the traditional kingdom's monarchy system (seen in `Argos`_, `Fellice`_ and `Sulkor`_) to a counsel of noble blood (in `Mostor`_) and a republic (in `Celyd`_). There have been no major conflicts between the kingdoms for over three-hundred years. Most conflict is with the inhabitants of the north and, on rare occasion, the kingdoms of the south. Conflict also comes from the wilderness within the Empire's borders. There are an abundance of orc, gnoll, bugbear, goblin, and troglodyte hoards which will strike out against settlements from time to time.
 
-The world outside sees life in the Middle Lands as easy. The land is fertile, water plentiful, the forests are thick and weather is generally mild. There is still much unclaimed wilderness and hence room for growth within the Middle Lands. Freeholds in these wilderness areas are common and are largely left alone. Most fail within a few years. The ones that do not are eventually absorbed by the closest kingdom. This can
-happen peacefully (by oath) or by conflict but it always happens.
+The world outside sees life in the Middle Lands as easy. The land is fertile, water plentiful, the forests are thick and weather is generally mild. There is still much unclaimed wilderness and hence room for growth within the Middle Lands. Freeholds in these wilderness areas are common and are largely left alone. Most fail within a few years. The ones that do not are eventually absorbed by the closest kingdom. This can happen peacefully (by oath) or by conflict but it always happens.
 
 
 .. _`Great Desert`:
@@ -208,7 +205,7 @@ The Great Desert
 
 *a.k.a. The Southern Waste or The South Desert*
 
-The `Great Desert`_ is just that, a huge desert that stretches between two mountain ranges (Nojala Mountains in the east and Rasfenie Mountains to the west). It runs along the southern border of the Middle Lands and separates the Middle Lands from the Spice Kingdoms to the far south. There are tribal people that inhabit the desert and run trade routes between the north and south lands. Some of these tribes are friendly, others are very hostile. Care should be used when entering the territory of such tribes.
+The `Great Desert`_ is just that, a huge desert that stretches between two mountain ranges (Nojala Mountains in the east and Rasfenie Mountains to the west). It runs along the southern border of the `Middle Lands`_ and separates the `Middle Lands`_ from the Spice Kingdoms to the far south. There are tribal people that inhabit the desert and run trade routes between the north and south lands. Some of these tribes are friendly, others are very hostile. Care should be used when entering the territory of such tribes.
 
 Heat and thirst kill here, so water is worth more than gems or gold. In addition to hostile desert tribes, there are terrible creatures living in the deep desert. Also, there are ruins. Some say the sands have swallowed whole cities and even kingdoms. Scholars dream of expeditions into this hot and unforgiving land to discover lost civilizations and knowledge of the ancients.
 
@@ -220,12 +217,14 @@ The Northern Wilds
 
 *a.k.a. The Cold Lands or The Frozen Waste or The Ice Kingdom or The Last Frontier*
 
-The Northern Wilds are blocked from the Middle Lands by the `Winter Wall`_.
+The Northern Wilds are blocked from the `Middle Lands`_ by the `Winter Wall`_.
 
-Little is known of the Northern Wilds by most residents of the Middle Lands. Rumor says that hoards of barbarians and frost giants roam north of the `Winter Wall`_; all of which eye the Middle Lands hungrily. As members of the Winter Guard rarely go south of the `Winter Wall`_ these rumors are considered by most to be just that, rumors. Some call the idea of frost giants out right fantasy.
+Little is known of the Northern Wilds by most residents of the `Middle Lands`_. Rumor says that hoards of barbarians and frost giants roam north of the `Winter Wall`_; all of which eye the `Middle Lands`_ hungrily. As members of the Winter Guard rarely go south of the `Winter Wall`_ these rumors are considered by most to be just that, rumors. Some call the idea of frost giants out right fantasy.
 
 These are harsh lands that breed hard people. With all the wild beast and fantastic creatures that roam the Cold Lands its most dangerous inhabitant is by far the weather. Even the high summer sees snow and the deep winter will take the unwary a piece at a time, killing before half the night is done. Any who roam these lands do so at great personal risk.
 
+
+.. _`Inner Sea`:
 
 The Inner Sea
 **************
@@ -236,6 +235,8 @@ The Inner Sea is a fairly placid body of water over which trade flows between th
 
 While the Inner Sea is a major conduit for trade it is also home to a variety of creatures. The massive beast of the deep ocean are very rare here but the population of shallow water tribal creatures is higher. There are even rumors of the elusive aqua-elves having settlements somewhere in the Inner Sea.
 
+
+.. _`Sea of Storms`:
 
 The Sea of Storms
 ******************
@@ -253,8 +254,7 @@ Kingdoms of the Middle Lands
    :target: _static/img/map_kingdoms(big).jpg
    :align: right
 
-This map shows the boundaries of each kingdom as laid out by the Imperial Throne. The areas include both civilized and wilderness lands. Populations tend toward higher density in coastal regions and along rivers. This leaves the vast open lands largely under populated, even unpopulated. At its widest point the land mass is about 1500 miles by 1000 miles, roughly 1,160,000 square miles. Having a population
-estimated at 30,000,000 there is a great deal of room for growth in the Middle Lands.
+This map shows the boundaries of each kingdom as laid out by the Imperial Throne. The areas include both civilized and wilderness lands. Populations tend toward higher density in coastal regions and along rivers. This leaves the vast open lands largely under populated, even unpopulated. At its widest point the land mass is about 1500 miles by 1000 miles, roughly 1,160,000 square miles. Having a population estimated at 30,000,000 there is a great deal of room for growth in the `Middle Lands`_.
 
 The Imperial Throne has erected a series of stone obelisk that mark the boarders of all the kingdoms. Each obelisk is clearly marked, showing what kingdom is being entered, and numbered with an Imperial address number. They are spaced about one half mile apart which makes their line easy to see. There are roughly 10,000 of these stones. All are uniformed in make, being hard stone with a 5 ft base, 10 ft tall, weighting over 12 tons and having a hexagonal column configuration that tapers to about 2 ft at the top. Two of the six sides are engraved, showing the kingdom that will be entered, the Imperial identifying number of the obelisk and the Imperial Seal. Also engraved, in several languages on the other four faces, is a copy of the Imperial law that outlines the penalty for moving, removing or otherwise tampering with one of these obelisk. That punishment is to be drawn and quartered. Luckily this does not happen often as the stones are very hard to move. Each stone is inspected every two years.
 
@@ -267,7 +267,7 @@ Argos
    :target: _static/img/map_argos(big).jpg
    :align: right
 
-The largest kingdom of the Middle Lands, Argos is also the seat of the Imperial Throne. Argos is not, however, a puppet of the Imperial Throne. Queen Melina Delan Dorell is the current ruler. Day to day business of the kingdom is left to the queen and her court. She is loved by her subjects and her court is not as prone to the political intrigue, plots and backstabbing that most royal courts of the Middle Lands endure. That is not to say such things don't happen.
+The largest kingdom of the `Middle Lands`_, Argos is also the seat of the Imperial Throne. Argos is not, however, a puppet of the Imperial Throne. Queen Melina Delan Dorell is the current ruler. Day to day business of the kingdom is left to the queen and her court. She is loved by her subjects and her court is not as prone to the political intrigue, plots and backstabbing that most royal courts of the `Middle Lands`_ endure. That is not to say such things don't happen.
 
 Culture, tradition and stability are key characteristics for this kingdom and its people. This is something that filters down into every aspect of life in Argos. So much so, that when spots of tyranny do spring up, the contrast makes them blindingly obvious. It also makes them a target.
 
@@ -287,8 +287,7 @@ Celyd
    :target: _static/img/map_celyd(big).jpg
    :align: right
 
-The site of a revolution nearly sixty years ago; the outcome of which was the fall of House Arrnas and the creation of the Celyd Republic. Celyd is one of the most progressive of countries of the Middle Lands and the only one to have public schools
-open to all citizens. Gaining citizenship can be problematic for immigrants. It is possible to be a resident yet not a citizen. Immigrants seeking citizenship must offer two years of public service and pass an exam covering knowledge of Celyd and its history OR offer eight years of public service with no exam. Public service is by trade or profession and wages are fixed.
+The site of a revolution nearly sixty years ago; the outcome of which was the fall of House Arrnas and the creation of the Celyd Republic. Celyd is one of the most progressive of countries of the `Middle Lands`_ and the only one to have public schools open to all citizens. Gaining citizenship can be problematic for immigrants. It is possible to be a resident yet not a citizen. Immigrants seeking citizenship must offer two years of public service and pass an exam covering knowledge of Celyd and its history OR offer eight years of public service with no exam. Public service is by trade or profession and wages are fixed.
 
 As to the republic's structure of government, most high level elected representatives of the republic are of noble birth. While it is not unknown for a commoner to be elected to such a position it is still noticeably rare. The land is divided into districts, each of which has a local council elected by the populace. These council members are just as readily of common birth as noble. In turn, these people will elect someone, not a council member and often a noble, to represent the district's interest in the senate. The senate governs the country as a whole. They vote on petitions and create laws and appoint judges to the High Bar. High Bar appointments are lifetime appointments. Each senator serves a three year term and then another election is held. Each district has the right to impose term limits on their senator. A few have put in place lifetime limits of three to five terms. Some have a limit of two consecutive terms with no lifetime limit. There are 35 districts and each is allowed one seat on the senate. An act of the senate is needed to repartition one or more districts and High Bar approval is required before the reconfigured districts can be implemented. In addition, the Regent has a seat on the senate but only votes in the event of a tie. The Regent is a lifetime appointment of the senate and is currently Cen Almos Nentus. Beyond tie breaking the Regent sees that Senate meetings follow procedure and are lawfully maintained. The Regent has influence and some power.
 
@@ -303,7 +302,7 @@ Fellice
    :target: _static/img/map_fellice(big).jpg
    :align: right
 
-The northern most kingdom in the Middle Lands is ruled by king Markus Davren Borsheen. The people of Fellice think of themselves as the guardians of the `Winter Wall`_ and many of the youth aspire to join the Winter Guard. The warrior culture of Fellice is evident in all aspects of the kingdom. The king sponsors several tournaments each year. The young nobles spend time between tournaments hunting a variety of monsters in the wilderness. Dueling is not uncommon, but frivolous duels are looked upon unfavorably, as are duels to the death. Outsiders see most people of Fellice as hot blooded ogres.
+The northern most kingdom in the `Middle Lands`_ is ruled by king Markus Davren Borsheen. The people of Fellice think of themselves as the guardians of the `Winter Wall`_ and many of the youth aspire to join the Winter Guard. The warrior culture of Fellice is evident in all aspects of the kingdom. The king sponsors several tournaments each year. The young nobles spend time between tournaments hunting a variety of monsters in the wilderness. Dueling is not uncommon, but frivolous duels are looked upon unfavorably, as are duels to the death. Outsiders see most people of Fellice as hot blooded ogres.
 
 Most inhabitants of Fellice live on the shores of one of its rivers, the Danchu and the Nocmal, or in the Cold Plains along one of the Imperial Roads. Journey beyond these areas and one quickly enters wilderness lands. It is a harsh and unforgiving land, full of menacing beast, tribes of orcs, marauding trolls and ogres. The mountains and deep forest are even more dangerous.
 
@@ -339,9 +338,9 @@ This land is governed by a council of nobles and is renown for it's libraries. T
 
 Mostor is known as "the wellspring of deceit" due to the seemingly unending stream of plots employed by council members to achieve their respective ends. This very rarely devolves to the point of out right assassination but it still gets more then a little "under handed" from time to time. Nothing is sacred in these battles.
 
-For all the talk of subterfuge, one of the most trusted and prestigious orders in all the Middle Lands is based in Mostor, the Prime Order. The Order has called Sapreen home for more than six-hundred years. It is a very influential group within Mostor, indeed, due to the role of the Prime Advisors the Order has notable influence in every part of the empire.
+For all the talk of subterfuge, one of the most trusted and prestigious orders in all the `Middle Lands`_ is based in Mostor, the Prime Order. The Order has called `Sapreen`_ home for more than six-hundred years. It is a very influential group within Mostor, indeed, due to the role of the Prime Advisors the Order has notable influence in every part of the empire.
 
-Coastal trade is the life's blood of the kingdom. The greatest threat to that is piracy. The Inner Sea has many unpopulated and/or uncharted islands; they seem to spring up and sink beneath waves like magic. The pirates make good use of these islands. So much so that it is a full time job for Mostor's navy to patrol the shipping lanes. Even with all their work, pirates still attack trade vessels and make off with valuable cargo. In the past century, some of Mostor's coastal nobles have taken to issuing Letters of Marque and Reprisal to privateers. Some believe the privateers and pirates are just the latest proxies in the game of power nobles have been playing since the second noble was crowned.
+Coastal trade is the life's blood of the kingdom. The greatest threat to that is piracy. The `Inner Sea`_ has many unpopulated and/or uncharted islands; they seem to spring up and sink beneath waves like magic. The pirates make good use of these islands. So much so that it is a full time job for Mostor's navy to patrol the shipping lanes. Even with all their work, pirates still attack trade vessels and make off with valuable cargo. In the past century, some of Mostor's coastal nobles have taken to issuing Letters of Marque and Reprisal to privateers. Some believe the privateers and pirates are just the latest proxies in the game of power nobles have been playing since the second noble was crowned.
 
 The vast majority of Mostor's citizens live within 60 miles of the coast. The plains of western Mostor are host to a variety of creatures, both humanoid and not. There are some human and elven tribals out there as well. Some trade with the freeholds others war against them.
 
@@ -364,12 +363,12 @@ Until about one-hundred-sixty years ago Sulkor had no southern border. The White
 
 Trade is very important, the trade routes are well patrolled and protected. Most of them run along roads that are fully paved and well maintained. This accounts for the speed of these land routes and why they are still relevant even in the face of the sea routes. Rumor has it that the navy of Sulkor has at times turned a blind eye to pirates that "operate within certain parameters". King Roesoon's idea of justice for caravan bandits is both swift and brutal.
 
-The Wessroth Company has a small keep just north of the East Trade Road about a half day from the Argos border.
+The Wessroth Company has a small keep just north of the East Trade Road about a half day from the `Argos`_ border.
 
 Noble Houses of the Middle Lands
 #################################
 
-The noble houses are the basis of all governments in the Middle Lands. Houses are divided into four categories: major, minor, new and fallen. While all members of such a House are nobles not all nobles are members of a House. This just proves that at the end of the day it is blood that makes a noble. Nobles not in a House are most often minor nobles having little in the way of title or wealth and their crest will not be graced by the Imperial Leaf which is worked into the standard of all true Houses.
+The noble houses are the basis of all governments in the `Middle Lands`_. Houses are divided into four categories: major, minor, new and fallen. While all members of such a House are nobles not all nobles are members of a House. This just proves that at the end of the day it is blood that makes a noble. Nobles not in a House are most often minor nobles having little in the way of title or wealth and their crest will not be graced by the Imperial Leaf which is worked into the standard of all true Houses.
 
 Major Houses
 *************
@@ -387,7 +386,7 @@ Borsheen
 
 **House Head**: King Markus Davren Borsheen
 
-**Power Base**: Murath in `Fellice`_
+**Power Base**: `Murath`_ in `Fellice`_
 
 The honor of House Borsheen is without tarnish and their victories can not be easily counted. On the field of battle they are among the most feared of opponents, not only for their fierce ability and martial skill but for their many layered strategies. Borsheen is the only Major House to lack significant land holds in more then one country. Also, they are the only House to hold all the major land holds in one country; `Fellice`_ is unquestionably their land.
 
@@ -402,9 +401,9 @@ Canitus
 
 **House Head**: Duke Rychar Starcrest Canitus
 
-**Power Base**: Foamrest in Mostor
+**Power Base**: `Foamrest`_ in `Mostor`_
 
-While few members of this House excel at anything they are at least competent. They are the least powerful of the Major Houses and the oldest one still in existence, next to House Kalistic. Canitus has been around just over four hundred years. Strong land holds are maintained in northern Mostor and north-eastern Argos.
+While few members of this House excel at anything they are at least competent. They are the least powerful of the Major Houses and the oldest one still in existence, next to House Kalistic. Canitus has been around just over four hundred years. Strong land holds are maintained in northern `Mostor`_ and north-eastern `Argos`_.
 
 
 Dorell
@@ -417,9 +416,9 @@ Dorell
 
 **House Head**: Queen Melina Delan Dorell
 
-**Power Base**: Balashar in Argos
+**Power Base**: `Balashar`_ in `Argos`_
 
-They are known as fair rulers of a mind to care for their subjects and an excellent understanding of the relationship between commoners and nobles. Tradition is valued by House Dorell. They have the majority of the major land holds in Argos and some in southern Mostor as well. Of all the Major Houses, Dorell has the largest military force.
+They are known as fair rulers of a mind to care for their subjects and an excellent understanding of the relationship between commoners and nobles. Tradition is valued by House Dorell. They have the majority of the major land holds in `Argos`_ and some in southern `Mostor`_ as well. Of all the Major Houses, Dorell has the largest military force.
 
 
 Morgain
@@ -432,9 +431,9 @@ Morgain
 
 **House Head**: Duke Sezral Tal Morgain
 
-**Power Base**: Rocrest in Argos
+**Power Base**: `Rocrest`_ in `Argos`_
 
-The black sheep of the Major Houses, House Morgain's near legendary skills in carousing and womanizing are second only to their shrewd business sense and diplomatic faculties. Significant land holdings are maintained in eastern Sulkor, southern Celyd and western Argos.
+The black sheep of the Major Houses, House Morgain's near legendary skills in carousing and womanizing are second only to their shrewd business sense and diplomatic faculties. Significant land holdings are maintained in eastern `Sulkor`_, southern `Celyd`_ and western `Argos`_.
 
 
 Nentus
@@ -447,7 +446,9 @@ Nentus
 
 **House Head**: Regent Cen Almos Nentus
 
-**Power Base**: Southflo in Celyd They are a well rounded House with members know for a variety of skills and faults. The extent of their role in the fall of House Arrnas, while not know to all, was great. They benefited from that, gaining substantial Arrnas holdings by imperial decree. It is widely know that they were instrumental in establishing the republic although many nobles of slow wit question the wisdom of that. House Nentus has moderate sized land holds in Argos, Mostor and Sulkor.
+**Power Base**: `Southflo`_ in `Celyd`_
+
+They are a well rounded House with members know for a variety of skills and faults. The extent of their role in the fall of House Arrnas, while not know to all, was great. They benefited from that, gaining substantial Arrnas holdings by imperial decree. It is widely know that they were instrumental in establishing the republic although many nobles of slow wit question the wisdom of that. House Nentus has moderate sized land holds in `Argos`_, `Mostor`_ and `Sulkor`_.
 
 
 Roesoon
@@ -460,9 +461,9 @@ Roesoon
 
 **House Head**: King Justin Almir Roesoon
 
-**Power Base**: Ahlabim in Sulkor
+**Power Base**: `Ahlabim`_ in `Sulkor`_
 
-They are know for a harsh sense of justice and duty. Their wealth is substantial and their cavalry is known and respected across the Middle Lands. House Roesoon controls most of Sulkor, in addition they have land holds in southern Celyd and minor holds in both Argos and Mostor.
+They are know for a harsh sense of justice and duty. Their wealth is substantial and their cavalry is known and respected across the `Middle Lands`_. House Roesoon controls most of `Sulkor`_, in addition they have land holds in southern `Celyd`_ and minor holds in both `Argos`_ and `Mostor`_.
 
 
 Trellmock
@@ -475,9 +476,9 @@ Trellmock
 
 **House Head**: Archduchess Clarise Vashee Trellmock
 
-**Power Base**: Sapreen in Mostor
+**Power Base**: `Sapreen`_ in `Mostor`_
 
-One of the most powerful Houses of Mostor, they are known for both a love of lore and a thirst for current information. It is said they take in scheming with their mother's milk. Significant land holds in Mostor are under control of House Trellmok as well as some in Argos.
+One of the most powerful Houses of `Mostor`_, they are known for both a love of lore and a thirst for current information. It is said they take in scheming with their mother's milk. Significant land holds in `Mostor`_ are under control of House Trellmok as well as some in `Argos`_.
 
 
 
@@ -497,7 +498,7 @@ Dosren
 
 **House Head**: Count Jular Dosren
 
-**Power Base**: Holdings split between Argos, Mostor
+**Power Base**: Holdings split between `Argos`_, `Mostor`_
 
 House Dosren is not known for planning, they tend to act with an alarming immediacy. This has led to more than one borderland conflict with other Houses. Most often smaller Houses but at times their rashness has led to conflict with far stronger opponents. Just in the past hundred years scholars can point to three such instances and a few even speculate that had better actions been chosen in those times House Dosren would have substantially higher standing. They have strong ties to House Trellmock.
 
@@ -512,7 +513,7 @@ Gantu
 
 **House Head**: Countess Mailyn Gantu
 
-**Power Base**: Most holdings in Celyd
+**Power Base**: Most holdings in `Celyd`_
 
 House Gantu is remembered for its founder's stubborn streak. A common saying being, "Old man Gantu could out wet water if he set his mind to it." Guston Gantu, the House's founder, has at least a half dozen well recorded historical references of his fierce nature. While his line has learned to be more prudent, they have not totally escaped Guston's shadow. They are firmly tied to House Nentus.
 
@@ -527,9 +528,9 @@ Helot
 
 **House Head**: Count Fularrd Soson Helot
 
-**Power Base**: Most holdings in Mostor
+**Power Base**: Most holdings in `Mostor`_
 
-The Helot line is one of the few Houses that has a strong streak of arcane magic in its family tree. This has been as much of a detriment as not. While there are some excellent advantages to being a mage, too many people still associate magic with the Savage Time. As a result, Helot has difficulty expanding their influence much beyond Mostor. Both House Roesoon and House Morgain have some influence with Helot but they have managed to avoid formal oaths of allegiance to either.
+The Helot line is one of the few Houses that has a strong streak of arcane magic in its family tree. This has been as much of a detriment as not. While there are some excellent advantages to being a mage, too many people still associate magic with the Savage Time. As a result, Helot has difficulty expanding their influence much beyond `Mostor`_. Both House Roesoon and House Morgain have some influence with Helot but they have managed to avoid formal oaths of allegiance to either.
 
 
 Kuntarr
@@ -542,7 +543,7 @@ Kuntarr
 
 **House Head**: Count Dirk Heny Kuntarr
 
-**Power Base**: Holdings split between Sulkor, Celyd
+**Power Base**: Holdings split between `Sulkor`_, `Celyd`_
 
 Founded during the Wild Hills Rebellion of 191MLE in which Sir Phillip Hend Kuntarr battled rebel forces in a three day holding action which allowed Imperial reinforcements to arrive and put the rebellion down. House Kuntarr has seen many ups and downs over the years but they have endured. There have been times when it looked like they would achieve Major House status and other times during which it looked like they would lose everything. Some say House Kuntarr fights a perpetual holding action against life and success. They are tied solely to House Kalistic and that is where their allegiance is placed.
 
@@ -557,9 +558,9 @@ Lunaz
 
 **House Head**: Baroness Helen Kysta Lunaz
 
-**Power Base**: Holdings split between Argos, `Fellice`_
+**Power Base**: Holdings split between `Argos`_, `Fellice`_
 
-Members of House Lunaz always seem to be looking for an angle, they don't approach things head on. In addition they are an opportunistic lot. House Lunaz is heavily involved in commerce. This has been the main method of their rise in power. As they are rather successful in these business endeavors they are a fairly wealthy House. It is often said they should move to Mostor as they would fit in better there. House Dorell holds major influence over Lunaz.
+Members of House Lunaz always seem to be looking for an angle, they don't approach things head on. In addition they are an opportunistic lot. House Lunaz is heavily involved in commerce. This has been the main method of their rise in power. As they are rather successful in these business endeavors they are a fairly wealthy House. It is often said they should move to `Mostor`_ as they would fit in better there. House Dorell holds major influence over Lunaz.
 
 
 Orcrest
@@ -587,7 +588,7 @@ Pentell
 
 **House Head**: Countess Josephine Pentell
 
-**Power Base**: Most holdings in Argos
+**Power Base**: Most holdings in `Argos`_
 
 The members of Pentell are a long lived House, many living to ages over 100. It is rumored they have elven blood. The general consensus is that while they are often a level headed and open minded lot they are still prone to the occasional flight of fancy. Pentell sponsors more New Houses than most of their peers. They, themselves, have strong ties of allegiance to House Canitus.
 
@@ -628,7 +629,7 @@ Indorn
 
 **House Head**: Baroness Charlotte Indorn
 
-**Power Base**: The Red Mountain freehold in Celyd
+**Power Base**: The Red Mountain freehold in `Celyd`_
 
 The Baroness is first of her line and founded the freehold, ruling for the past thirty-six years. She has no husband and seven children, all adopted. Only two of the children are of Charlotte's bloodline, they were her sister's children. House Indorn's review would be more difficult if Charlotte named a child not of her bloodline as heir. This is a question she is wrestling with currently, she wants the best child to be heir. At this point that is Sheldon Indorn, not of her bloodline and a half-orc, but also an excellent warrior and priest of Rakthor. The adopted children, all orphaned by orc raiders, are devoted to her and her plan to rid the land of orc tribes. The nearby mountains provide no shortage of orcs. The freehold has one settlement, a large walled town. It sees at least one sizable orc raid every two or three years.
 
@@ -643,7 +644,7 @@ Murktan
 
 **House Head**: Baron Darius Wyse Murktan
 
-**Power Base**: The Clear Water freehold in Sulkor
+**Power Base**: The Clear Water freehold in `Sulkor`_
 
 House Murktan is up for Imperial review in less than four years. At this point it is hard to say if they will pass it. While House Murktan has performed well over the past seventy-eight years, Darius' eldest son is proving to be less than an ideal example of nobility. This jeopardizes the review. Should the boy continue to act as he is the Emperor may decide the Murktan bloodline is not a noble line and move to dissolve their House. Darius must gain control of his son or pass him over as heir in favor of a child that is better suited to the noble image in general. Such problems are among the reasons so few New Houses survive the Imperial review. The freehold has three settlements, one large coastal town and two fishing villages.
 
@@ -658,7 +659,7 @@ Urgains
 
 **House Head**: Baron Flint Seth Urgains
 
-**Power Base**: The Deep Clay Hills freehold in Mostor
+**Power Base**: The Deep Clay Hills freehold in `Mostor`_
 
 Flint is the second member of the House to hold the title of Baron. He inherited the title eighteen years ago. His eldest, Elizabeth Hope Urgains, has shown herself to be an exceptional heir. The freehold is one of the few with a major export and this is largely due to her efforts. The high quality clay found in the area makes excellent pottery and brick. It is shipped out in its raw form and as pottery or brick. As it stands now only an increase in the local goblin activity could cause major issues for House Urgains. The freehold currently has two settlements, a large walled town and a hamlet.
 
@@ -673,7 +674,7 @@ Welldown
 
 **House Head**: Baron Temalo Rix Welldown
 
-**Power Base**: The Manticore Wood freehold in Argos
+**Power Base**: The Manticore Wood freehold in `Argos`_
 
 House Welldown is in its twenty-third year and Temalo has only just inherited his father's title and power. This makes Temalo the second Welldown to hold the title. Whoever is next, be it Temalo's yet to be born heir or his sister Iris, will have ten years before the Imperial review of their House standing. House Welldown has had success in their campaigns against local hobgoblin and bugbear tribes. The biggest news in the freehold is Temalo's search for a bride. He has been more active, socially speaking, then he has over past years. The rumors are flying as to which young maiden is most likely to catch his eye. Political motivations will most likely be a factor in the union, some say more than love or looks. The freehold currently has three settlements, two villages and a small walled town.
 
@@ -685,7 +686,7 @@ While noble houses will come and go, it takes more than that to become known as 
 
 These houses have lost practically everything. At best such a house may maintain a minor holding such as a manor house. Most, however, are destitute and don't even have retainers. Surviving members of a Fallen House seek a return to better days and the power that goes with those days. It is not uncommon for the bloodline of these houses to have a very unflattering nickname attached to them, such as "Kin- slayers" or "Forked-tongues" as is fitting for the deed that toppled their house.
 
-The four known across the Middle Lands are Arrnas, Endun, Fortess and Ricdon. There are a few others that, while not as universally recognized, are still seen as members of this category. Still others have been lost to antiquity as their bloodlines died out or otherwise faded into obscurity. This is the main reason that the current four are from the past seventy-five years, the memory is still "fresh".
+The four known across the `Middle Lands`_ are Arrnas, Endun, Fortess and Ricdon. There are a few others that, while not as universally recognized, are still seen as members of this category. Still others have been lost to antiquity as their bloodlines died out or otherwise faded into obscurity. This is the main reason that the current four are from the past seventy-five years, the memory is still "fresh".
 
 Arrnas
 =======
@@ -693,7 +694,7 @@ Arrnas
 .. figure:: _static/img/standard_arrnas.jpg
    :align: right
 
-House Arrnas held the crown of Celyd before it became a republic. Many of them were involved in a plot against the Imperial Throne to seize power. Now known as "Blackhearts" for the actions of Bartimus Arrnas, a rather cruel king and the devious mastermind of the plot for power. The remaining members of this bloodline are mostly penniless and without honor in the eyes of the other Houses. A few of those, directly involved in the plot, escaped execution by fleeing to far away lands; Bartimus and his sons were not among these "lucky" few. Some 60 years later those that remain in the Middle Lands without imperial warrants hanging over them do so as a reminder of the cost of rebellion. The Arrnas standard was a blue crescent moon over a great axe on a light grey background.
+House Arrnas held the crown of `Celyd`_ before it became a republic. Many of them were involved in a plot against the Imperial Throne to seize power. Now known as "Blackhearts" for the actions of Bartimus Arrnas, a rather cruel king and the devious mastermind of the plot for power. The remaining members of this bloodline are mostly penniless and without honor in the eyes of the other Houses. A few of those, directly involved in the plot, escaped execution by fleeing to far away lands; Bartimus and his sons were not among these "lucky" few. Some 60 years later those that remain in the `Middle Lands`_ without imperial warrants hanging over them do so as a reminder of the cost of rebellion. The Arrnas standard was a blue crescent moon over a great axe on a light grey background.
 
 
 Endun
@@ -735,7 +736,7 @@ The Imperial House, Kalistic
 
 **Power Base**: The Middle Land Empire
 
-From the time of the Empire's founding, 540+ years ago, House Kalistic has held the Imperial Throne. It has not been an easy road, from assassination attempts to out right rebellion House Kalistic has faced and won over all challenges. They are masterful adaptors and manipulators who have shown the ability to use force as needed in order to maintain control over the Middle Lands. As a whole, the members of this House have proven time and again to possess the qualities needed to rule. One-hundred-twenty-three noble families (called Houses) have sworn oath to the Imperial Throne. Ten percent of all tax collected goes to the Imperial House.
+From the time of the Empire's founding, 540+ years ago, House Kalistic has held the Imperial Throne. It has not been an easy road, from assassination attempts to out right rebellion House Kalistic has faced and won over all challenges. They are masterful adaptors and manipulators who have shown the ability to use force as needed in order to maintain control over the `Middle Lands`_. As a whole, the members of this House have proven time and again to possess the qualities needed to rule. One-hundred-twenty-three noble families (called Houses) have sworn oath to the Imperial Throne. Ten percent of all tax collected goes to the Imperial House.
 
 The responsibility of granting noble status falls mainly on the Imperial Throne. There are three activities involved in this process. First is granting a title to someone not of a noble bloodline. Second is elevating a bloodline to noble status, thereby making a New House. Finally, reviewing a bloodline's claim of nobility which is done ten years after a New House has its third head of house. While many high ranking nobles can grant a title, a noble house can only be created or destroyed by decree of the Imperial Throne.
 
@@ -802,7 +803,7 @@ This is one who holds a royal crown and rules a vast kingdom populated by millio
 Emperor/Empress
 ****************
 
-The ultimate symbol of the Empire, the one who sits upon the Imperial Throne, and the highest power in the Middle Lands. Trade and relations between the kingdoms are regulated by the Throne as are relations and treaties with countries outside the Middle Lands. The Imperial Throne also controls the most powerful standing army in the empire. Over thirty million people are subject to imperial rule. While things work a little differently for nobles at lower levels in Celyd, still, it is very similar. These nobles have taken on the role of military commanders and spend most of their time dealing with peacekeeping and protection. They do not collect taxes or make law, instead tax collection is the responsibility of the local council and a portion of this money is turned over to the local noble in exchange for maintaining the standing army. The council makes the laws and the noble's guard enforces them. Judging those that transgress the law is also the domain of the local noble who sits in judgment with two others appointed by the council. Sometimes this same noble sits on the local council as well. The senate is chiefly made up of high ranking nobles, Counts, Dukes and Archdukes. Some scholars call the entire arrangement in Celyd a hoax on the commoners rather then a republic.
+The ultimate symbol of the Empire, the one who sits upon the Imperial Throne, and the highest power in the `Middle Lands`_. Trade and relations between the kingdoms are regulated by the Throne as are relations and treaties with countries outside the `Middle Lands`_. The Imperial Throne also controls the most powerful standing army in the empire. Over thirty million people are subject to imperial rule. While things work a little differently for nobles at lower levels in `Celyd`_, still, it is very similar. These nobles have taken on the role of military commanders and spend most of their time dealing with peacekeeping and protection. They do not collect taxes or make law, instead tax collection is the responsibility of the local council and a portion of this money is turned over to the local noble in exchange for maintaining the standing army. The council makes the laws and the noble's guard enforces them. Judging those that transgress the law is also the domain of the local noble who sits in judgment with two others appointed by the council. Sometimes this same noble sits on the local council as well. The senate is chiefly made up of high ranking nobles, Counts, Dukes and Archdukes. Some scholars call the entire arrangement in `Celyd`_ a hoax on the commoners rather then a republic.
 
  On a side note, in the old tongue the same word, tor, is used for land, blood and family.
 
@@ -810,48 +811,45 @@ The ultimate symbol of the Empire, the one who sits upon the Imperial Throne, an
 People of the Middle Lands
 ###########################
 
-The people of the Middle Lands are diverse. As such it is not a simple matter to describe them. Some are harsh, others kind. Some are creative while others are drones. Some are kings and more are beggars. Some cheat and others have honor. In short, they are a great deal like we are, just people.
+The people of the `Middle Lands`_ are diverse. As such it is not a simple matter to describe them. Some are harsh, others kind. Some are creative while others are drones. Some are kings and more are beggars. Some cheat and others have honor. In short, they are a great deal like we are, just people.
 
 Population Distribution
 ************************
 
-The estimated 30 million people calling the Middle Lands home are spread out along rivers and coastlines and imperial roads and the farmland adjacent to them. This map shows low (yellow), medium (orange), and high (violet) population density. That is not to say no one lives in the other areas but they are so underpopulated as to be considered unsettled wilderness lands. The vast majority of people do not live in a city but in the smaller villages and hamlets spread across the countryside. Around 1.3 million people do live in the major cities. Another one and a half million or so live in the numerous mid and small sized cities. Leaving a bit over 27 million other inhabitants spread out in towns and villages of various sizes across the Middle Lands. A small number of citizens live in isolated dwellings, meaning they are outside of any settlement's boundaries. Sources of food and fresh water are large factors in population distribution as is safety and trade route accessibility. The majority of cities and towns are very close to 100% human. Because most non-humans living in the Middle Lands have their own villages and small towns, the average small town human could go years without seeing one. In a few areas it's possible for a person to go their entire life without seeing someone not of their own race.
+The estimated 30 million people calling the `Middle Lands`_ home are spread out along rivers and coastlines and imperial roads and the farmland adjacent to them. This map shows low (yellow), medium (orange), and high (violet) population density. That is not to say no one lives in the other areas but they are so underpopulated as to be considered unsettled wilderness lands. The vast majority of people do not live in a city but in the smaller villages and hamlets spread across the countryside. Around 1.3 million people do live in the major cities. Another one and a half million or so live in the numerous mid and small sized cities. Leaving a bit over 27 million other inhabitants spread out in towns and villages of various sizes across the `Middle Lands`_. A small number of citizens live in isolated dwellings, meaning they are outside of any settlement's boundaries. Sources of food and fresh water are large factors in population distribution as is safety and trade route accessibility. The majority of cities and towns are very close to 100% human. Because most non-humans living in the `Middle Lands`_ have their own villages and small towns, the average small town human could go years without seeing one. In a few areas it's possible for a person to go their entire life without seeing someone not of their own race.
 
 Common Life
 ************
 
-How do the common folk of the Middle Lands live? There is no easy answer to this, it depends on where they live, what they do, who rules the area, and so on. On the whole, the average untrained worker in a rural area will make about five gold coins in a week. This will be enough to comfortably support the worker should the local economy be inline with base wages (5gp/week in this case). Furthermore, they will be be able to provide a very modest lifestyle for a family. This income will cover food, a home, clothing, taxes and so on. Base wages will tend to rise with cost of living but at a pace that is not as responsive to changes. In other words, it will take a little more time for wages to rise than it took for prices to rise. Urban area wages and cost will be a bit higher than their rural area counterparts.
+How do the common folk of the `Middle Lands`_ live? There is no easy answer to this, it depends on where they live, what they do, who rules the area, and so on. On the whole, the average untrained worker in a rural area will make about five gold coins in a week. This will be enough to comfortably support the worker should the local economy be inline with base wages (5gp/week in this case). Furthermore, they will be be able to provide a very modest lifestyle for a family. This income will cover food, a home, clothing, taxes and so on. Base wages will tend to rise with cost of living but at a pace that is not as responsive to changes. In other words, it will take a little more time for wages to rise than it took for prices to rise. Urban area wages and cost will be a bit higher than their rural area counterparts.
 
 General Living Conditions
 ==========================
 
 What follows is an overview of different living conditions, referred to as GLC. It is meant to be a way of generalizing socioeconomic factors and condensing it into meaningful labels for your use.
 
-* Destitute: a horrible existence. No home or income (or very little income) is had by a person at this level. Starvation is a real and present danger. Virtually no belongs beyond the rags they wear are accumulated. Theft and/or survival skills are required daily. Payment of tax is impossible but there is very little for such a person to pay tax on.
+* **Destitute**: a horrible existence. No home or income (or very little income) is had by a person at this level. Starvation is a real and present danger. Virtually no belongs beyond the rags they wear are accumulated. Theft and/or survival skills are required daily. Payment of tax is impossible but there is very little for such a person to pay tax on.
 
-* Poor: a hard life. Small scale farmers, unskilled labor, and the elderly often find themselves in this group. Such people are often underemployed or have an exceedingly large family to support. They are not often a home/land owner. Normal shelter for such people is a single room shack/apartment or a tent. The cheapest possible food is acquired, be that purchased or grown/raised/foraged and shortages are common. Belongings are spartan, often homemade, and repaired far more often than replaced. It is a struggle to pay taxes and they are in near constant danger of losing everything to the taxman. Extra coin seems a fiction to these people.
+* **Poor**: a hard life. Small scale farmers, unskilled labor, and the elderly often find themselves in this group. Such people are often underemployed or have an exceedingly large family to support. They are not often a home/land owner. Normal shelter for such people is a single room shack/apartment or a tent. The cheapest possible food is acquired, be that purchased or grown/raised/foraged and shortages are common. Belongings are spartan, often homemade, and repaired far more often than replaced. It is a struggle to pay taxes and they are in near constant danger of losing everything to the taxman. Extra coin seems a fiction to these people.
 
-* Below Average: a very modest lifestyle. Farmers and unskilled (or low-skilled) labor and the elderly often find themselves in this group. Additionally, they are sometimes underemployed or receive subpar pay or have a family to support. Food is often what is cheaply available but shortages are rare. It is not unknown for such people to own their home but it is far less common in urban areas as opposed to rural areas. The common domicile is a small, simple house or apartment. Belongings are not abundant and often repaired/patched. Taxes are a burden that sucks-up all the "spare" coin such people have. It is very hard for these folks to save.
+* **Below Average**: a very modest lifestyle. Farmers and unskilled (or low-skilled) labor and the elderly often find themselves in this group. Additionally, they are sometimes underemployed or receive subpar pay or have a family to support. Food is often what is cheaply available but shortages are rare. It is not unknown for such people to own their home but it is far less common in urban areas as opposed to rural areas. The common domicile is a small, simple house or apartment. Belongings are not abundant and often repaired/patched. Taxes are a burden that sucks-up all the "spare" coin such people have. It is very hard for these folks to save.
 
-* Average: basic needs are accommodated. This group includes successful farmers and full time workers (newly skilled or unskilled), sometimes having a small family. Soldiers often fall into this category. Food is of decent quality and quantity. Home ownership is common, yet more so in rural areas. Such a home is often a comfortable small or mid-sized house/apartment. Belongings are adequate and in decent condition, not often new but well maintained. Taxes take a sizable portion of income. Saving is possible when care is used to manage expenses.
+* **Average**: basic needs are accommodated. This group includes successful farmers and full time workers (newly skilled or unskilled), sometimes having a small family. Soldiers often fall into this category. Food is of decent quality and quantity. Home ownership is common, yet more so in rural areas. Such a home is often a comfortable small or mid-sized house/apartment. Belongings are adequate and in decent condition, not often new but well maintained. Taxes take a sizable portion of income. Saving is possible when care is used to manage expenses.
 
-* Above Average: has just a little more than most. Established artisans and merchants, mid-level government officials, military officers, or highly skilled workers. Food is readily available and of good quality. The home is most often owned and commonly a mid-sized house/townhouse. Belongings are of good quality (often new) and abundant. Taxes take a sizable portion of income. Saving and even making small investments are possible for such people.
+* **Above Average**: has just a little more than most. Established artisans and merchants, mid-level government officials, military officers, or highly skilled workers. Food is readily available and of good quality. The home is most often owned and commonly a mid-sized house/townhouse. Belongings are of good quality (often new) and abundant. Taxes take a sizable portion of income. Saving and even making small investments are possible for such people.
 
-* Wealthy: well-off and with few material worries. Money lenders, high-end merchants, top level government officials, low-level nobles. Food is plentiful and of excellent quality. Homes are owned and are often a family estate with lands and servants and a wide range of amenities. More than one dwelling is very possible. Belongings are of fine quality and excellent condition and exceedingly abundant. Taxes are not a burden. Saving and investing are simple matters.
+* **Wealthy**: well-off and with few material worries. Money lenders, high-end merchants, top level government officials, low-level nobles. Food is plentiful and of excellent quality. Homes are owned and are often a family estate with lands and servants and a wide range of amenities. More than one dwelling is very possible. Belongings are of fine quality and excellent condition and exceedingly abundant. Taxes are not a burden. Saving and investing are simple matters.
 
-* Extravagant: little that can be had with gold is beyond reach. Nobles and other lucky people fall into this category. Commonly, food is both excessive and exotic. Multiple homes/estates (fully outfitted and complete with servants) are owned. Large swathes of land and several businesses are owned. Belongings are plentiful, exotic and perfectly maintained. Taxes are not a burden. Saving and investing are exceedingly trivial matters.
+* **Extravagant**: little that can be had with gold is beyond reach. Nobles and other lucky people fall into this category. Commonly, food is both excessive and exotic. Multiple homes/estates (fully outfitted and complete with servants) are owned. Large swathes of land and several businesses are owned. Belongings are plentiful, exotic and perfectly maintained. Taxes are not a burden. Saving and investing are exceedingly trivial matters.
 
 Avg. Living Condition Cost vs Base Wage (ALCC/BW)
 ==================================================
 
 This is meant to be an indicator of a region's economic viability. In essence, it is the ratio of the base wage of an area vs the cost of an average living condition, that being the "average" GLC. Both the wage and cost are fluid, average, values and should not be taken as gospel. They exist only as a tool to help the GM by giving them an idea of local conditions so they can convey that idea to the PC's.
 
-The base wage is the weekly salary of an unskilled worker. In an average town with an average economy
-(average supply/demand) that is about 5gp a week. In the same case, cost should be 5gp (or just a bit less than 5gp) a week. This is the theoretical ideal. So, in this case, ALCC/BW is expressed as 5gp/5gp. In practice, because so few cases are covered by that ideal, the numbers will be larger or smaller as dictated by local economic factors. Things like tax rate, supply chains, customer base, worker saturation, job availability, and so on will directly affect the numbers. In the end, there is no formula to calculate these numbers, it is a GM's judgment call.
+The base wage is the weekly salary of an unskilled worker. In an average town with an average economy (average supply/demand) that is about 5gp a week. In the same case, cost should be 5gp (or just a bit less than 5gp) a week. This is the theoretical ideal. So, in this case, ALCC/BW is expressed as 5gp/5gp. In practice, because so few cases are covered by that ideal, the numbers will be larger or smaller as dictated by local economic factors. Things like tax rate, supply chains, customer base, worker saturation, job availability, and so on will directly affect the numbers. In the end, there is no formula to calculate these numbers, it is a GM's judgment call.
 
-The relationship between the GLC categories, a person's income and the ALCC/BW is relatively straightforward. The closer a person's income is to the cost in ALCC/BW the closer they are to having an
-"average" living condition. The ALCC/BW shows the general tendency of the local economy to be a
-"favorable" worker environment. Generally, the cost (first number) should be a bit less than the base wage (second number). But as long as they are close the common folk will not suffer too greatly and the general population will drift toward "average" GLC. As the base wage and cost drift farther apart the general population will drift away from an "average" GLC as dictated by the direction of the shift. Higher cost makes the drift move toward "poor" GLC. Likewise, a higher base wage would make the drift move toward "wealthy" GLC. Neither case is desirable, as both show an unhealthy or unsustainable economy.
+The relationship between the GLC categories, a person's income and the ALCC/BW is relatively straightforward. The closer a person's income is to the cost in ALCC/BW the closer they are to having an "average" living condition. The ALCC/BW shows the general tendency of the local economy to be a "favorable" worker environment. Generally, the cost (first number) should be a bit less than the base wage (second number). But as long as they are close the common folk will not suffer too greatly and the general population will drift toward "average" GLC. As the base wage and cost drift farther apart the general population will drift away from an "average" GLC as dictated by the direction of the shift. Higher cost makes the drift move toward "poor" GLC. Likewise, a higher base wage would make the drift move toward "wealthy" GLC. Neither case is desirable, as both show an unhealthy or unsustainable economy.
 
 A good rule of thumb is that a well managed economy will stabilize with cost between 99 and 101 percent of wages. To be clear, having a cost that is higher than base wages does not mean that everyone is automatically operating with a weekly deficit of funds. It means that cost is such that people have to be more frugal and cannot always afford everything they need and will have to settle for a cheaper alternative in those cases.
 
@@ -953,6 +951,7 @@ Keeping Time
 What the average commoner does to make a living is important. When they do it also matters. The wheel of the year, the calendar, drives when many of these needful things are done.
 
 Food production is just about the most important activity in the Empire. So many citizens are a part of agricultural work that it drives, not only the commoners, but the Empire as a whole. Hence the calendar is based around planting, growing, and harvesting. This is the way it has been for most of recorded time.
+
 There are four seasons in a year. Each of the four seasons are divided into three sections called months. This makes twelve months in a calendar year. Each month is 30 or 32 days long. A year is 368 days long.
 
 While there is a "standard" name for each month in the Empire, some tribals have their own names. Foreigners, also have other names for the months. Regardless, the times are marked by the stars and phases of the moon and the movement of the sun. So, whatever name is given to it, the month is still what it is.
@@ -989,22 +988,21 @@ The noble's life is full of power games and plots and fear. This is not a life f
 Non-Humans in the Empire
 *************************
 
-The Middle Lands have a fairly sizable population of elves, dwarves, gnomes, halflings, and so on. It is, however, not commonplace for all of these races to share settlements. Even the major cities will have only a small number of non-humans, often less than 2% of the total population. The noteworthy exceptions being Balashar, Brazhale, Ghuntos, Hilldale, Mischihoon, and Vesral. Of those, only Balashar, Ghuntos, and Hilldale are part of the Empire. Non-humans count for 26% of the population of Balashar.
+The `Middle Lands`_ have a fairly sizable population of elves, dwarves, gnomes, halflings, and so on. It is, however, not commonplace for all of these races to share settlements. Even the major cities will have only a small number of non-humans, often less than 2% of the total population. The noteworthy exceptions being `Balashar`_, `Brazhale`_, `Ghuntos`_, `Hilldale`_, `Mischihoon`_, and `Vesral`_. Of those, only `Balashar`_, `Ghuntos`_, and `Hilldale`_ are part of the Empire. Non-humans count for 26% of the population of `Balashar`_.
 
-The smaller cities and towns are often, but not always, as lacking in diversity. Most non-humans living in the Middle Lands have there own villages and small towns. Because of this the average small town human could go years without seeing another race. In a few areas it's possible for a person to go their entire life without seeing another race. The most common contacts for humans are with gnomes and halflings.
+The smaller cities and towns are often, but not always, as lacking in diversity. Most non-humans living in the `Middle Lands`_ have there own villages and small towns. Because of this the average small town human could go years without seeing another race. In a few areas it's possible for a person to go their entire life without seeing another race. The most common contacts for humans are with gnomes and halflings.
 
 The lack of diversity has had some detrimental effects on the Empire's citizens. One of these being a very insular mindset. This is more common in the smaller settlements that lack any contact with non-humans. In these places non-humans can easily be the focus of curiosity or hostility. It is another question as to if those feelings are openly expressed.
 
 Dwarves have underground cities in every mountain range of the Empire. These settlements are large as the underworld is a dangerous place. Having a population between five-thousand and twenty-thousand, they are often located in mineral rich areas with access to water. While they are less inclined to seek out trade, their wares are highly desirable. Arms and armor of dwarven make are in high demand across the Empire. Due to this, human towns actively seek trade opportunities with any nearby dwarven cities.
 
-Elves have settlements all over the Middle Lands, on the rolling plains, in the forests, among the hills, along the seaside, and by the rivers. These settlements commonly trade with any friendly nearby communities, human or otherwise. Some will produce all manner of elven wares for trade but many are not that concerned with commerce and just trade for essential items. Most have a population less than a few thousand yet there are rumors of larger elven cities in the deep unexplored forest areas. In the major cities of the Empire, elves are often the smallest non-human population. Human cities tend to be too
-"turbulent" for the average elf. Half-elves are more common than elves in human areas.
+Elves have settlements all over the `Middle Lands`_, on the rolling plains, in the forests, among the hills, along the seaside, and by the rivers. These settlements commonly trade with any friendly nearby communities, human or otherwise. Some will produce all manner of elven wares for trade but many are not that concerned with commerce and just trade for essential items. Most have a population less than a few thousand yet there are rumors of larger elven cities in the deep unexplored forest areas. In the major cities of the Empire, elves are often the smallest non-human population. Human cities tend to be too "turbulent" for the average elf. Half-elves are more common than elves in human areas.
 
-Gnomes are one of the races that actively seek out and join human settlements. They are also one of the least numerous of the non-human races in the Empire. A fifth of all gnomes live in human settlements. By far, Hilldale has the largest percentage of gnomes in the Empire's major cities. They do have their own smaller gnome only communities scattered in the hills of the Empire. The population of such towns is on average two or three thousand gnomes and they tend to actively trade with their neighbors.
+Gnomes are one of the races that actively seek out and join human settlements. They are also one of the least numerous of the non-human races in the Empire. A fifth of all gnomes live in human settlements. By far, `Hilldale`_ has the largest percentage of gnomes in the Empire's major cities. They do have their own smaller gnome only communities scattered in the hills of the Empire. The population of such towns is on average two or three thousand gnomes and they tend to actively trade with their neighbors.
 
 Halflings love their communities, yet are attracted to the human settlements. They are often one of the larger segments of non-human population in the Empire's major cities. Their own settlements tend to be in remote yet serene areas, often in the forest or among hills. Their settlements' population is on average at least a thousand and they maintain good trade relationships with neighboring friendly communities.
 
-Orcs are one of the most numerous of the "evil" races found in the Empire. While they normally settle in hills and mountainous regions, the tribes of the Middle Lands are not that picky. They can just as easily be found in any borderland region, on the plains, in the forest, and along the coastline. They actively prey on any neighboring settlement, human or otherwise. Raids and slavery are how they survive. Sometimes they do more than raid and as a result the population of half-orcs in the Middle Lands is alarmingly high. Some of the larger border towns have hundreds of half-orcs among their population. They are not often well treated in their home village but many find success in military service.
+Orcs are one of the most numerous of the "evil" races found in the Empire. While they normally settle in hills and mountainous regions, the tribes of the `Middle Lands`_ are not that picky. They can just as easily be found in any borderland region, on the plains, in the forest, and along the coastline. They actively prey on any neighboring settlement, human or otherwise. Raids and slavery are how they survive. Sometimes they do more than raid and as a result the population of half-orcs in the `Middle Lands`_ is alarmingly high. Some of the larger border towns have hundreds of half-orcs among their population. They are not often well treated in their home village but many find success in military service.
 
 Outside of the borderland freeholds, the occupants of the human civilized areas generally don't believe in the more exotic monsters. While many will accept the existence of the common monsters such as orcs, goblins, hobgoblins, troglodytes, bugbears, gnolls, and kobolds. These same people will balk at the idea of frost giants, or dragons, or phrenic scourges, or any other beast not commonly found in their own metaphorical backyard. These are looked at as bard tales told to entertain children and frighten folk into staying close to home. This attitude is lessened in the borderlands but not totally dispelled.
 
@@ -1234,7 +1232,7 @@ Worked stone block builds are very strong but the labor required to mine, transp
 Wood
 =====
 
-Wooden structures are some of the most varied in the Middle Lands. They can be rough and crude split logs, or fancy and finely worked planks, it all depends on the skill of the builders and the coin spent. Found in all climates, they are only limited by the supply of local trees. While they can easily reach three stories, it is rare that they go higher than four without a master builder to design and oversee construction. All but the largest of cities don't normally build wooden structures so tall. The vast majority being three or fewer stories. The size of rooms and the number also vary greatly. This makes wood the most common choice for non-dwelling buildings in settlements across the Empire.
+Wooden structures are some of the most varied in the `Middle Lands`_. They can be rough and crude split logs, or fancy and finely worked planks, it all depends on the skill of the builders and the coin spent. Found in all climates, they are only limited by the supply of local trees. While they can easily reach three stories, it is rare that they go higher than four without a master builder to design and oversee construction. All but the largest of cities don't normally build wooden structures so tall. The vast majority being three or fewer stories. The size of rooms and the number also vary greatly. This makes wood the most common choice for non-dwelling buildings in settlements across the Empire.
 
 
 Basement
@@ -1321,7 +1319,7 @@ How large a settlement is influences many of its aspects such as wealth and the 
 
 .. [#setsiz3] Yearly Taxes is a guide used to give an idea of how much tax a city might collect over the course of a year. It could be more or less depending on factors such as overall economic strength, number/amount of taxes assessed, vigilance of the collectors, sneakiness of the citizens and so on. Taxes are paid in goods more often than coin, especially in smaller settlements.
 
-Examples of special industry include the apothecaries of Rocrest, the canneries of Covehaven and the lens crafters of Foamrest. What makes these special is the fact that they are both rare and renown so traders come from across the Middle Lands for their wares.
+Examples of special industry include the apothecaries of `Rocrest`_, the canneries of `Covehaven`_ and the lens crafters of `Foamrest`_. What makes these special is the fact that they are both rare and renown so traders come from across the `Middle Lands`_ for their wares.
 
 Examples of special resources include precious metals, gemstones, spices and silk. Anything that is both rare and valued is a special resource. That is assuming the settlement is harvesting it. Examples of poor conditions include famine, plague, war or anything else that would affect the working populations' ability to produce. Poor conditions that persist will lead to outbound migration.
 
@@ -1594,7 +1592,7 @@ Nearly every settlement has some facility for drying and/or smoking meats. The s
 
 Most grains are dried. If kept dry then they can be stored for months that way. In addition to drying, some are also milled, or ground into a fine powder. The resulting flour is more compact and hence easier to store and ship. Flours made from barley, corn, millet, oats, rice, rye, or wheat are the most common food source in the Empire. Everyone eats something, often many things, made from a flour every day. If kept dry, flour can last for many months. In a sealed barrel, or other vessel, it can be stored for a year.
 
-Canning is trickier, it requires some special equipment, greater consistency and precision. When canning, in the simplest terms, the vessel is filled with food, sometimes a brine or an oil is added to displace any air, then it is heated to just under the boiling point of water. Hot enough to kill anything that would spoil the food. While still hot the vessel is given an air tight seal. As it cools, the temperature change creates a vacuum which offers additional protection from future spoiling. If not done correctly, the food spoils in the container. For this reason as well as the process being more demanding and complex, canning is not used as often as smoking, drying, and salting. A notable exception being the Covehaven canneries. They have the process down to a science with a failure rate of less than 1 can in 10,000. The canneries produce both individual serving and multiple serving cans. Most are meats. In smaller volume, they also make cans of vegetables and cans of fruits and cans of dried biscuits and cans of stew. These cans are shipped all over the Empire where they are sold as trail rations. They are commonly used to feed military forces while on the move. Sailors love them as they keep better on a ship than most other trail rations.
+Canning is trickier, it requires some special equipment, greater consistency and precision. When canning, in the simplest terms, the vessel is filled with food, sometimes a brine or an oil is added to displace any air, then it is heated to just under the boiling point of water. Hot enough to kill anything that would spoil the food. While still hot the vessel is given an air tight seal. As it cools, the temperature change creates a vacuum which offers additional protection from future spoiling. If not done correctly, the food spoils in the container. For this reason as well as the process being more demanding and complex, canning is not used as often as smoking, drying, and salting. A notable exception being the `Covehaven`_ canneries. They have the process down to a science with a failure rate of less than 1 can in 10,000. The canneries produce both individual serving and multiple serving cans. Most are meats. In smaller volume, they also make cans of vegetables and cans of fruits and cans of dried biscuits and cans of stew. These cans are shipped all over the Empire where they are sold as trail rations. They are commonly used to feed military forces while on the move. Sailors love them as they keep better on a ship than most other trail rations.
 
 Another common method of dealing with excess food production is fermentation/distilling. Commonly, a portion of the grains, fruits, and vegetables grown are used to make spirits, beers, and wines. The scale depends, mostly, on the supply of raw materials. Otherwise, the production of alcoholic beverages is widespread, happening in many settlements even if only on a small scale. Both wine and spirits often take years to age. Beer and ale are not commonly aged like that. Aged or not, these products can be stored for use later or sold.
 
@@ -1620,7 +1618,7 @@ Noble attire gets more elaborate as rank and wealth increase. This is largely a 
 Customs
 ********
 
-The customs of the Middle Lands are much more diverse than one may think, considering that it is all one empire. While there are several universally celebrated aspects, there are also pockets of local and/or regional traditions. Below is some information about ceremonies, holidays, festivals, traditions, and superstitions found in the Middle Land Empire. On average, every settlement has between 10 and 20 events (ceremonies, festivals, holidays) each year. This doesn't count births, name days, marriages, and funerals. All of these events are social activities that serve to bind a community together.
+The customs of the `Middle Lands`_ are much more diverse than one may think, considering that it is all one empire. While there are several universally celebrated aspects, there are also pockets of local and/or regional traditions. Below is some information about ceremonies, holidays, festivals, traditions, and superstitions found in the Middle Land Empire. On average, every settlement has between 10 and 20 events (ceremonies, festivals, holidays) each year. This doesn't count births, name days, marriages, and funerals. All of these events are social activities that serve to bind a community together.
 
 Births
 =======
@@ -1635,7 +1633,7 @@ Non-humans have their own rites and deities for birth. Elven ceremonies are the 
 Festivals
 ==========
 
-A festival is a celebration that will involve most, if not all of the local residents. While some have a religious basis, it is not necessary that religion be a factor. Each settlement may well have a festival or two that is unique to them. Perhaps based on some local bit of history, a great deed or a battle or some beloved local resource. There are, however, a few common festivals related to the Empire and celebrated on the same day in every settlement across the Middle Lands. There is no religious context to these celebrations but the predominate deities of the area may be honored, or not, according to local custom.
+A festival is a celebration that will involve most, if not all of the local residents. While some have a religious basis, it is not necessary that religion be a factor. Each settlement may well have a festival or two that is unique to them. Perhaps based on some local bit of history, a great deed or a battle or some beloved local resource. There are, however, a few common festivals related to the Empire and celebrated on the same day in every settlement across the `Middle Lands`_. There is no religious context to these celebrations but the predominate deities of the area may be honored, or not, according to local custom.
 
 * Father's Day – (1 st of Ty'Set) A day devoted to the memory of all those who died for the Empire. Beginning with Lord Loran Kalistic, who's death started his son's, Tazral, lifelong quest for justice and led to his forming the Empire. To a degree, every soldier who has served the Empire is honored. Families are encouraged to remember their kin lost in battle and know the sacrifice they made was important to all citizens. A common practice is making rings of local flowers to put on the graves of soldiers and any local battle memorial monument/site. Some citizens take part in a pilgrimage to the town of Father's Rest, located on the shores of the Danchu river just north of the Dothmas hills. Once there, they visit the memorial erected by Tazral to his father, Loran.
 
@@ -1646,10 +1644,9 @@ A festival is a celebration that will involve most, if not all of the local resi
 Funerals
 =========
 
-The majority of humans in the Middle Lands follow the New Gods. Which means their funeral rites are predominately those of Nisvaloon. Basically, the body is cleaned, wrapped in cloth and burned during the daylight hours when the smoke of the fire can carry the deceased's spirit into the portal of the sun and on to the next world. Passing from one fire, the funeral pyre, to the next, the sun.
+The majority of humans in the `Middle Lands`_ follow the New Gods. Which means their funeral rites are predominately those of Nisvaloon. Basically, the body is cleaned, wrapped in cloth and burned during the daylight hours when the smoke of the fire can carry the deceased's spirit into the portal of the sun and on to the next world. Passing from one fire, the funeral pyre, to the next, the sun.
 
-There are prayers that would be spoken during the burning, local tradition often makes its way into which prayers and/or how they are presented. In some places the body is burned to ash. In other places, it is burned till only bone remains. Whatever is leftover, be that ash or ash and bone, is interred according to local tradition. In some places this means a grave, or a crypt (if the person was wealthy or important), or being released to the sea, or the elements, or buried under a tree. There are many possibilities, not all of which are listed here. These rites are done so that the dead find peace and can freely move on. There are many who do not follow the New Gods. For this reason funeral rites vary as well. Some bury their dead. Others offer the body to nature, where it is consumed. A few send the body out to sea. Still others wrap the body in herb solution soaked cloth and leave it in the hot sand until it mummifies, after which it is interred. Finally, there are those for whom the body is irrelevant and gets no special rites or treatment. Regardless of what rites are observed, a vast majority of the dead are handled by a group known as the Caretakers. Found in almost every city in the Empire, they act as undertakers. When a Caretaker is not available, like in a small village, the family of the deceased will take and prepare the body. They will also perform any rites that are needed in the event that a religious figure is not available.
-In addition to burial rites, there is often some social gathering involved with the death. Many places will have a funeral precession. Family and friends walk the deceased to their final rest. Sometimes, there is music. Often the home of the deceased is opened up for the living to gather and mourn. When and for how long depends on local custom. In a few places the gatherings are very upbeat and the life of the person is celebrated more than their passing is mourned. These social events are for the living.
+There are prayers that would be spoken during the burning, local tradition often makes its way into which prayers and/or how they are presented. In some places the body is burned to ash. In other places, it is burned till only bone remains. Whatever is leftover, be that ash or ash and bone, is interred according to local tradition. In some places this means a grave, or a crypt (if the person was wealthy or important), or being released to the sea, or the elements, or buried under a tree. There are many possibilities, not all of which are listed here. These rites are done so that the dead find peace and can freely move on. There are many who do not follow the New Gods. For this reason funeral rites vary as well. Some bury their dead. Others offer the body to nature, where it is consumed. A few send the body out to sea. Still others wrap the body in herb solution soaked cloth and leave it in the hot sand until it mummifies, after which it is interred. Finally, there are those for whom the body is irrelevant and gets no special rites or treatment. Regardless of what rites are observed, a vast majority of the dead are handled by a group known as the Caretakers. Found in almost every city in the Empire, they act as undertakers. When a Caretaker is not available, like in a small village, the family of the deceased will take and prepare the body. They will also perform any rites that are needed in the event that a religious figure is not available. In addition to burial rites, there is often some social gathering involved with the death. Many places will have a funeral precession. Family and friends walk the deceased to their final rest. Sometimes, there is music. Often the home of the deceased is opened up for the living to gather and mourn. When and for how long depends on local custom. In a few places the gatherings are very upbeat and the life of the person is celebrated more than their passing is mourned. These social events are for the living.
 
 Holidays
 =========
@@ -1665,10 +1662,10 @@ What follows is a bit of detail about things that happen in the life of the aver
 * Fer'Ko - Mating season for other animals continues during Fer'Ko. Early in the month, hens begin to lay eggs. By the middle of this month most farmers will have planted their crop. This is the month of the trickster. If not placated, the trickster will bring a late frost to spoil the newly planted seeds. Many of the festivities in this month are aimed at pleasing whatever trickster deity the locals favor. As example, Iturr or Tanjoom or even Corhov. Other ceremonies are in relation to the early hunting season, which begins this month.
 
 
-* Ty'Ko - By this point everyone, from the people in the cold plains of `Fellice`_, to the folks farming in the dry plains of southern Sulkor, will have their crop in the ground. Any last minute repair/maintenance of irrigation systems is done, this includes things like digging new ditches or clearing old ones of debris and weeds. The deities of sky, rain, and/or growth are commonly honored during this month. The first farm animal births are beginning during this month, mostly rabbits and the chickens. Bantus is often honored at this time.
+* Ty'Ko - By this point everyone, from the people in the cold plains of `Fellice`_, to the folks farming in the dry plains of southern `Sulkor`_, will have their crop in the ground. Any last minute repair/maintenance of irrigation systems is done, this includes things like digging new ditches or clearing old ones of debris and weeds. The deities of sky, rain, and/or growth are commonly honored during this month. The first farm animal births are beginning during this month, mostly rabbits and the chickens. Bantus is often honored at this time.
 
 
-* Mo'Rae - Festivals of Summer's Night are common during this month. In many inland areas of the Middle Lands this is the first constantly dry time of the year. Irrigation is vital for crops in such places. Often the first crop of hay, used as animal feed, is harvested at this time. Ploughing of any fallow fields take place during this month. Sheep are sheared, taking their winter coat, and the first piglets are born. Deities of growth, rain, and perseverance are often honored during this month.
+* Mo'Rae - Festivals of Summer's Night are common during this month. In many inland areas of the `Middle Lands`_ this is the first constantly dry time of the year. Irrigation is vital for crops in such places. Often the first crop of hay, used as animal feed, is harvested at this time. Ploughing of any fallow fields take place during this month. Sheep are sheared, taking their winter coat, and the first piglets are born. Deities of growth, rain, and perseverance are often honored during this month.
 
 
 * Fer'Rae - Regardless of location, this tends to be a dry month. In places that are lucky enough to have a long growing season, this is also the month of their first harvest. The fields are then readied for a second crop with more ploughing and manure. Fallow fields are treated to another ploughing. Sheep and goat birthing season begins. Deities of the hunt and/or birth are commonly celebrated during this time. Bohtan is very popular this time of year, even with non-elves.
@@ -1686,7 +1683,7 @@ What follows is a bit of detail about things that happen in the life of the aver
 * Ty'Set - The ploughing of any remaining fields is done. The final big hunts of the year begin. The game animals taken are smoked or salted or otherwise preserved. Most areas see the beginning of their rainy season during this month. As things die and the land sleeps, many people take this time to honor the dead. Tashrune and/or Hethrize are given homage. The northern lands see their first frost which comes late in the month.
 
 
-* Mo'Helt - The time of preparation begins. Tools are mended or replaced and other general upkeep is done. Across the Middle Lands the general weather gets wetter. The warmest of southern lands get their first frost by the middle of the month. In the north, some snow is already falling. This is one of the busiest times for the northern people. They have the least time before heavy snow falls and makes any work they haven't gotten to all but impossible. This is also the time of year that some of the livestock are slaughtered and preserved for later. This is the month of celebrating and giving thanks for hearth and home. This is the time of year calves are born.
+* Mo'Helt - The time of preparation begins. Tools are mended or replaced and other general upkeep is done. Across the `Middle Lands`_ the general weather gets wetter. The warmest of southern lands get their first frost by the middle of the month. In the north, some snow is already falling. This is one of the busiest times for the northern people. They have the least time before heavy snow falls and makes any work they haven't gotten to all but impossible. This is also the time of year that some of the livestock are slaughtered and preserved for later. This is the month of celebrating and giving thanks for hearth and home. This is the time of year calves are born.
 
 
 * Fer'Helt - For many, this is the coldest darkest time of the year. Hens stop, or at least slow down, their egg laying. What work that can be done indoors, by the fire, is done. Any other, nonessential, work can wait for better weather. During this, the darkest month, both Gravston and Hethrize are commonly honored. With the shortest days upon them, people look forward to the longer, warmer days to come. Both rain and snow are common all month.
@@ -1700,9 +1697,9 @@ While the details vary from region to region there are four main holidays, each 
 Marriages
 ==========
 
-In the Middle Lands, the purpose of any marriage is to join people together and create a family of some kind. All types of unions are possible but not all types are fully accepted in every place. As example, the Jute Rhone of the northern lands practice group marriages. While they are not the only ones, they are a minority. For them, it is normal to have three or more people, all of whom are married to each other. Many people, not of this minority, see it as odd. Some others do not, even if they don't practice the same customs. It is accepted because all recognize the importance of protecting diversity of customs and respecting one another.
+In the `Middle Lands`_, the purpose of any marriage is to join people together and create a family of some kind. All types of unions are possible but not all types are fully accepted in every place. As example, the Jute Rhone of the northern lands practice group marriages. While they are not the only ones, they are a minority. For them, it is normal to have three or more people, all of whom are married to each other. Many people, not of this minority, see it as odd. Some others do not, even if they don't practice the same customs. It is accepted because all recognize the importance of protecting diversity of customs and respecting one another.
 
-The reason(s) behind a marriage can be based on love or gain. Generally speaking, when the motivation of the participants are the dominate factors, love wins out as the reason to get married. However, when their parents control matters, gain has more to do with marriage than love. For nobles, it is rare that they are allowed to marry for love. While commoners do marry for love it is still not as widespread as it could be. The fact is that marriage for gain is the dominate reason because arranged marriages are the most common type of marriage in the Middle Lands.
+The reason(s) behind a marriage can be based on love or gain. Generally speaking, when the motivation of the participants are the dominate factors, love wins out as the reason to get married. However, when their parents control matters, gain has more to do with marriage than love. For nobles, it is rare that they are allowed to marry for love. While commoners do marry for love it is still not as widespread as it could be. The fact is that marriage for gain is the dominate reason because arranged marriages are the most common type of marriage in the `Middle Lands`_.
 
 Marriage rites very widely from place to place and by religion. It is common that someone officiate the ceremony. While this is often a religious figure, it could be a village elder, it could be the local noble or a proxy of the noble. Witnesses are another commonality. At the very least, each party in the marriage has a witness, often family. More commonly, it is an event for most, if not the whole village to come see.
 
@@ -1727,13 +1724,13 @@ In a few tribes the child is not named by the parents at all. The elder or wise 
 Naming Things
 **************
 
-Names have power. They define a thing as well as identify it. In the Middle Lands, names are given with care. In most places a child is not named until it has lived for a year. In this way, the parents get to know the child and the naming is believed to be more "accurate" to the person the child will become. Naming a place is not a small matter. Some believe that the future of the land can be influenced, if not dictated, by it's name. It is, therefore, common to name a place based on geographical features rather than by other ephemeral factors. Using old languages is another common practice when giving a name. It adds a level of insulation that allows the name giver to be more bold than they may otherwise be.
+Names have power. They define a thing as well as identify it. In the `Middle Lands`_, names are given with care. In most places a child is not named until it has lived for a year. In this way, the parents get to know the child and the naming is believed to be more "accurate" to the person the child will become. Naming a place is not a small matter. Some believe that the future of the land can be influenced, if not dictated, by it's name. It is, therefore, common to name a place based on geographical features rather than by other ephemeral factors. Using old languages is another common practice when giving a name. It adds a level of insulation that allows the name giver to be more bold than they may otherwise be.
 
 
 Naming a Person
 =================
 
-Not everyone has a "family" name. In the Middle Lands, easily half of all commoners do not. Those that do, get them one of a few ways. Those being hometown, profession, parents, and being a descendant of a failed noble house.
+Not everyone has a "family" name. In the `Middle Lands`_, easily half of all commoners do not. Those that do, get them one of a few ways. Those being hometown, profession, parents, and being a descendant of a failed noble house.
 
 The hometown is a common option for people from rural areas. Such places have small populations. Hence calling someone Olivia of Ash Ridge would be enough to identify her when the next nearest person named Olivia is two villages over.
 
@@ -1751,7 +1748,7 @@ As a final note on the names of people, from time to time a child is born with q
 Naming a Settlement
 =====================
 
-Either local ties, culture, or history is often the basis of a settlement's name. So, if a battle was fought there, or near there, the newly formed village could be named for that. In some cases they are named for a founder, especially if that person made some great sacrifice for the settlement. Naming a place for what it produces is also common. Geographical features are another theme for naming places. A few examples of names include things like, the Village of Kara's Fate, the Town of Twin Tree Hill, or the City of Ash Cove. Additionally, old languages can add an extra flair. Examples include, Balashar which means "good harbor" in one of the old tongues and Mostor which means "plentiful land".
+Either local ties, culture, or history is often the basis of a settlement's name. So, if a battle was fought there, or near there, the newly formed village could be named for that. In some cases they are named for a founder, especially if that person made some great sacrifice for the settlement. Naming a place for what it produces is also common. Geographical features are another theme for naming places. A few examples of names include things like, the Village of Kara's Fate, the Town of Twin Tree Hill, or the City of Ash Cove. Additionally, old languages can add an extra flair. Examples include, `Balashar`_ which means "good harbor" in one of the old tongues and `Mostor`_ which means "plentiful land".
 
 Use the following table for quick settlement names. Roll or pick one entry from both the resource and location columns, use of the descriptor column is optional.
 
@@ -1849,7 +1846,7 @@ Use the following table for quick settlement names. Roll or pick one entry from 
 Naming a Tavern/Inn
 =====================
 
-Taverns in the Middle Lands have a tradition of sporting a playful, fun name. While it is not a hard rule it is very common in settlements with more than a few taverns. The more taverns there are the more interesting the names get. As a result the old established taverns, the ones that have been around for generations, will have plain names while the new ones have witty names that try to stick in ones head.
+Taverns in the `Middle Lands`_ have a tradition of sporting a playful, fun name. While it is not a hard rule it is very common in settlements with more than a few taverns. The more taverns there are the more interesting the names get. As a result the old established taverns, the ones that have been around for generations, will have plain names while the new ones have witty names that try to stick in ones head.
 
 The table below is given for times when a name is needed quickly. Roll or pick one from both the adjective column and the noun column. If desired, an entry from the prefix column can be used to add extra spice to the name.
 
@@ -2097,9 +2094,9 @@ In simplified terms, the basic mandates of Imperial law requires the following o
 
 Beyond this very basic outline, courts, laws, judgment, punishment, and the methods used to arbitrate vary from place to place. So much depends on the local noble as they are charged with the task of delivering justice, but how they carry that out is up to them. The Imperial Throne gives them much latitude in how courts are setup and the process of dispensing justice.
 
-Some places have an enlightened judicial system while others are down right draconian. The courts of Mostor and Celyd are, generally speaking, known for having more complex and bureaucratic systems. `Fellice`_ and Sulkor courts are known as the most brutal courts, with a few exceptions. Argos is widely seen as the most enlightened and fair courts in the Empire. Regardless of which kingdom one is talking about, the more backwater regions often have a simpler court system and a harsher standards of punishment.
+Some places have an enlightened judicial system while others are down right draconian. The courts of `Mostor`_ and `Celyd`_ are, generally speaking, known for having more complex and bureaucratic systems. `Fellice`_ and `Sulkor`_ courts are known as the most brutal courts, with a few exceptions. `Argos`_ is widely seen as the most enlightened and fair courts in the Empire. Regardless of which kingdom one is talking about, the more backwater regions often have a simpler court system and a harsher standards of punishment.
 
-What is considered a crime is largely well defined across the Empire. The big ones being murder, theft, assault, destruction of property, and bearing false witness. There are some things that are regional crimes, as example, in some parts of Sulkor damming a stream is a crime. When a crime is committed the town guard is obligated to take the suspected offender into custody and hold them until judgment can be made. This takes longer in some places than others. In general, the larger settlements will have a longer wait time during which the accused is held in a jail of some sort.
+What is considered a crime is largely well defined across the Empire. The big ones being murder, theft, assault, destruction of property, and bearing false witness. There are some things that are regional crimes, as example, in some parts of `Sulkor`_ damming a stream is a crime. When a crime is committed the town guard is obligated to take the suspected offender into custody and hold them until judgment can be made. This takes longer in some places than others. In general, the larger settlements will have a longer wait time during which the accused is held in a jail of some sort.
 
 Nobles will personally sit in judgment at appointed times. How often depends on the noble, but Imperial mandate requires at least a few hours a week so they all do at least that much. At other times they delegate the task to judges. It is not uncommon for nobles, or more accurately their clerks, to "cherry pick" the cases heard during the noble's session.
 
@@ -2127,11 +2124,11 @@ Slavery
 
 Slavery is not practiced on a grand scale within the Empire. There are, however, regions that do make use of slaves. Most of these take the form of prisoners sentenced to some amount of time as indentured servants to repay debt of some sort. On rare occasion it can be a lifetime sentence but that only happens in the shadier borderland freeholds.
 
-A different form of slavery is practiced by some of the tribal humans of Sulkor. An enemy defeated can be taken "Hylee" by the victor rather than being killed. Most often, they act as a servant for a year and then return to their home. While outsiders often call this slavery, the tribes that practice it do not agree.
+A different form of slavery is practiced by some of the tribal humans of `Sulkor`_. An enemy defeated can be taken "Hylee" by the victor rather than being killed. Most often, they act as a servant for a year and then return to their home. While outsiders often call this slavery, the tribes that practice it do not agree.
 
 The truly brutal forms of slavery are found among the orc tribes. They constantly raid borderland settlements for slaves and anything else they can steal. The life of such slaves is not often long or pleasant. While not as harsh, some of the northern human tribals also take part in raiding other tribes or settlements for slaves. They often use branding to identify slaves and who owns them.
 
-There are rumored to be places in the Spice Kingdoms where the slave trade is a profitable industry. The same is said of Unetor. Tattoos, brands, piercings, and collars are some of the methods rumored to be used to identify slaves in these cultures. Some claim that a black-market exist to smuggle abducted people out of the Empire for sale in these faraway lands.
+There are rumored to be places in the Spice Kingdoms where the slave trade is a profitable industry. The same is said of `Unetor`_. Tattoos, brands, piercings, and collars are some of the methods rumored to be used to identify slaves in these cultures. Some claim that a black-market exist to smuggle abducted people out of the Empire for sale in these faraway lands.
 
 
 Record Keeping
@@ -2139,7 +2136,7 @@ Record Keeping
 
 Recording events and information is of vital importance in the Empire. Every settlement has a chief secretary or clerk who is responsible for local record keeping. Births, deaths, marriages, census counts, crop yield, bookkeeping, property exchange, crimes, judgments, and any other event of public note is recorded. These records are kept by the settlement in a secure location. A few times a year a summary is sent to the next level of noble above the local noble. At that level the information is condensed and passed on to the next higher level, until it reaches the Imperial Clerks. It is rumored that the Imperial Clerks use magic to manage the immense amounts of information that they are required to sift, analyze, and record.
 
-For the smallest of settlements, a single book of 100 pages would be enough to record several years of normal activity. In a major city, the same book may only cover a single month's worth of information. The Empire requires every settlement keep at least one-hundred years worth of records but most try to keep more when they can. It is to their advantage to do so. They do this by recopying and condensing the older information so it takes less space. Space is most often the key factor in how much information a settlement can store. The smallest of settlements may be able to store a couple of centuries worth of records on a single bookshelf. While a major city would require several dozen shelves for each decade. Indexing systems become increasingly important as the volume of information rises. It is rumored that the Sage City, Sapreen, has over five centuries of city records.
+For the smallest of settlements, a single book of 100 pages would be enough to record several years of normal activity. In a major city, the same book may only cover a single month's worth of information. The Empire requires every settlement keep at least one-hundred years worth of records but most try to keep more when they can. It is to their advantage to do so. They do this by recopying and condensing the older information so it takes less space. Space is most often the key factor in how much information a settlement can store. The smallest of settlements may be able to store a couple of centuries worth of records on a single bookshelf. While a major city would require several dozen shelves for each decade. Indexing systems become increasingly important as the volume of information rises. It is rumored that the Sage City, `Sapreen`_, has over five centuries of city records.
 
 Every sizable settlement has its scholars and historians. These are the people that often try to save the documents a settlement throws out. Many settlements will send these documents off to the closest university where they are sorted and stored. Vast reference libraries are built as these documents turn out to be very important for research. Tomes on genealogy, criminology, economics, and forecasting are just a few of the things that scholars produce with this information. Historians use it too, but for less abstract information. These details can often be useful in finding the reasons behind or motivations for historical events.
 
@@ -2157,7 +2154,7 @@ The Village of Red Oak Grove
 
 ALCC/BW:4.02/3.99
 
-Located just off the Imperial Road, less than two days east of Rocrest, this village was founded over two hundred years ago and is known for the wool they export. They also have a small inn which brings in travelers from the road. The area is far from the wilderness so it is fairly safe. With the main road so close they also see regular patrols from both the Imperial Guard and from the Rocrest Guards whose domain extends just past Red Oak. There are even occasional patrols from the local Countess, located ten miles down the road. Finally, the local constables are in the village every day keeping the peace and watching for danger.
+Located just off the Imperial Road, less than two days east of `Rocrest`_, this village was founded over two hundred years ago and is known for the wool they export. They also have a small inn which brings in travelers from the road. The area is far from the wilderness so it is fairly safe. With the main road so close they also see regular patrols from both the Imperial Guard and from the `Rocrest`_ Guards whose domain extends just past Red Oak. There are even occasional patrols from the local Countess, located ten miles down the road. Finally, the local constables are in the village every day keeping the peace and watching for danger.
 
 The settlement is on a hilltop. It is centered around the Old Watchtower, a stone tower thirty-five feet tall which houses the local office of the constables, the city clerk's office, and the magister's office. The square outside the tower is used for public addresses and other such displays and gatherings. Including the Oak Roof Inn and Tavern, there around two dozen businesses in this central section of the village. About half the local population also resides in this area. The others are spread out in farms and ranches within a mile or two of the village.
 
@@ -2173,7 +2170,7 @@ The Barony of Bone Pass
 
 **ALCC/BW**: 5.01/5.31
 
-The barony is located in the mountains of `Fellice`_, a few days north of Ghuntos, and was founded only forty-three years ago. It is a borderland territory with a great deal of orc activity and hence, not the safest of places to live. As a result, there is only one settlement and it is surrounded by strong stone walls. They do not grow much food here but do have some livestock, most of their food is imported. Naturally, the supply caravans are targets of orc raiding. The attraction for settling here is the silver mine.
+The barony is located in the mountains of `Fellice`_, a few days north of `Ghuntos`_, and was founded only forty-three years ago. It is a borderland territory with a great deal of orc activity and hence, not the safest of places to live. As a result, there is only one settlement and it is surrounded by strong stone walls. They do not grow much food here but do have some livestock, most of their food is imported. Naturally, the supply caravans are targets of orc raiding. The attraction for settling here is the silver mine.
 
 Being far from the main roads, there are almost no patrols from the outside. As is the case with most borderland territories, there is no safety net as help is not close at hand. The only guards are the local guards, the only law the baron's law. The baron's law is very strict and punishment is harsh. In extreme cases criminals are often sentenced to hard labor in the mines. Due to the remote location, the city guard is thrice the size it is required to be under Imperial Law. So, one hundred warriors work for the city guard and they really have their work cut out for them. The orcs are unrelenting and the miners love a good bar fight. There is never a dull moment for the guards. They face each day with a grim determination, all the while waiting for the next big orc attack. Waiting and wondering when they will feed the high pass' Field of Bone.
 
@@ -2191,7 +2188,7 @@ The County of Sweet River
 
 **ALCC/BW**: by settlement
 
-Found on the northern most stretch of the Yahsur river is a tributary called the Sweet River, which runs through the relatively new county called Sweet River County. Twenty miles down river the Imperial Road crosses the Yahsur and another two hundred miles down river is the capital of Celyd, Southflo. The county has five settlements, three on the river and the other two a few miles inland. The largest, Mahlcam's Bridge, is less than a mile from where the Sweet joins the Yahsur, it is also home to the Countess Sahrah Lo Teshren, the seat of House Teshren, and it acts as the shipping hub of the county. To the south, the area along much of the Yahsur is well populated, while not as densely populated as the Danchu, it is enough to provide a safe area that makes the river easier to travel on. The northern most reaches of the Yahsur are not as well populated and are still classified as borderlands. Sweet River is the northern most civilized area and it has only been declared "pacified" for about forty years.
+Found on the northern most stretch of the Yahsur river is a tributary called the Sweet River, which runs through the relatively new county called Sweet River County. Twenty miles down river the Imperial Road crosses the Yahsur and another two hundred miles down river is the capital of `Celyd`_, `Southflo`_. The county has five settlements, three on the river and the other two a few miles inland. The largest, Mahlcam's Bridge, is less than a mile from where the Sweet joins the Yahsur, it is also home to the Countess Sahrah Lo Teshren, the seat of House Teshren, and it acts as the shipping hub of the county. To the south, the area along much of the Yahsur is well populated, while not as densely populated as the Danchu, it is enough to provide a safe area that makes the river easier to travel on. The northern most reaches of the Yahsur are not as well populated and are still classified as borderlands. Sweet River is the northern most civilized area and it has only been declared "pacified" for about forty years.
 
 Being far from the Imperial Road, the only regular outside patrols they see are the Duke's and they only come up the Old River Road every few weeks. Once or twice each year a Republican Guard patrol will pass through the area. Apart from those patrols, the county handles it's own security. When combined, all the city guards in the county number two-hundred-ten warriors. Each day there are at least three Tridents from various city guards patrolling the county's roads. Because the surrounding land has been largely pacified and cleansed of aggressive monsters this is enough to keep order and maintain safety in the area. The most problematic safety issues are from criminal elements and the rare river creature.
 
@@ -2213,7 +2210,7 @@ Major Cities and Centers of Civilization
 There are too many villages, towns and cities to name, much less detail here, so this section will deal with the major ones. What defines a major city? Well, all are centers of population, trade, culture, wealth, and power. Each of these cities is a living, growing thing. As such what is put down here is only a starting point. This map shows the location of each of the 18 major cities. All these cities are centuries old, many are older than the empire itself. A little information is then given for each one of them. Population is the number of permanent residence inside the city plus those living within two walking hours of the city gates. ALCC/BW is Average Living Condition Cost vs Base Wage. (see the section on ALCC/BW)
 
 
-.. `Balashar`:
+.. _`Balashar`:
 
 A. Balashar
 =============================
@@ -2229,9 +2226,9 @@ A. Balashar
 
 A major trade hub located on the southern coast, at the mouth of the Danchu river, and the seat of the Empire. Goods from lands across the Narrow Sea come in and go up river while northern goods coming down river head out for places such as the Spice Kingdoms. The harbor of Balashar is the busiest in the known world. The Danchu docks see an average of 120 river vessels (mostly barges) a day and the Seaside docks average another 50 coastal vessels and as many as 25 deep water vessels a day. On top of it all the city's fishing fleet, employing ships of all sizes, provides a near constant stream of vessels entering and leaving the harbor. Just watching the harbor accommodate this daily activity is an awe inspiring spectacle.
 
-The city is home to the queen of Argos, house Dorell, and the Imperial Throne, house Kalistic. Each has a palace; the Imperial Palace at the west end of the Heart Boulevard and the Queen's Palace on the east end. The Six Pillars of the Empire are spaced along the Heart Boulevard. Five of them are one hundred feet high. The sixth being forty-three feet high. Each year a one foot section, decorated with carvings denoting defining moments of the year, is added to the sixth pillar. As with all the other pillars once it reaches a height of one hundred feet a new pillar will be started. The ceremony for adding a new section is part of a week long holiday celebration held each year in remembrance of the founding of the empire. Every city in the Empire holds some type of celebration during this week. The only commonality to these fairs is the theme of celebrating the Empire's birth. It must be noted that the birth of Balashar itself predates the Empire's by several centuries.
+The city is home to the queen of `Argos`_, house Dorell, and the Imperial Throne, house Kalistic. Each has a palace; the Imperial Palace at the west end of the Heart Boulevard and the Queen's Palace on the east end. The Six Pillars of the Empire are spaced along the Heart Boulevard. Five of them are one hundred feet high. The sixth being forty-three feet high. Each year a one foot section, decorated with carvings denoting defining moments of the year, is added to the sixth pillar. As with all the other pillars once it reaches a height of one hundred feet a new pillar will be started. The ceremony for adding a new section is part of a week long holiday celebration held each year in remembrance of the founding of the empire. Every city in the Empire holds some type of celebration during this week. The only commonality to these fairs is the theme of celebrating the Empire's birth. It must be noted that the birth of Balashar itself predates the Empire's by several centuries.
 
-1. **Imperial City**: This area houses the castle, city guard headquarters, Imperial Army barracks, strategic stores, imperial administration offices, the Emperor's Court, Argos' royal court, and a great many other diplomats, nobles, and officials. This is where the government operates from. Security is tight with regular city guard, Imperial Guard, and Imperial Elite Guard operating in the area. Still, with so many government offices, there is a level of accessibility that is maintained.
+1. **Imperial City**: This area houses the castle, city guard headquarters, Imperial Army barracks, strategic stores, imperial administration offices, the Emperor's Court, `Argos`_' royal court, and a great many other diplomats, nobles, and officials. This is where the government operates from. Security is tight with regular city guard, Imperial Guard, and Imperial Elite Guard operating in the area. Still, with so many government offices, there is a level of accessibility that is maintained.
 
 2. **Heart District**: Politically speaking, the most powerful of the Empire's denizens live here. It is said that, in the Heart, one can not throw a stone without hitting a noble. Shops and businesses in the district are high-end and tend to be overpriced. Heart Boulevard is magnificent and a sight that every citizen wants to see at least once. Running the area between the Imperial Palace and the Royal Tower, often called the Queen's palace, it is lined with manicured trees and breathtaking statues. Also, the Pillars of the Empire, five of which stand about one-hundred feet high, run down the Boulevard. The docks in this district are most often used by the military and nobles. Very few trade vessels dock here. Also, the harbor pilots operate from these docks. Each incoming vessel of an appropriate size has a harbor pilot board it out in the bay. The pilot then directs the vessel to a dock in accordance with the Harbor Master's Office. Orders and updates are communicated to the pilots by flag, or mirror, or signal lantern. Smaller vessels are given orders on where to go by the pilot but are not boarded. A hill on the southwestern most section is the lighthouse's location. Known as Heart's Flame, it stands as a beacon for seaward vessels. It is also the office of the Harbor Master who coordinates shipping traffic by telling which ship to go to what dock.
 
@@ -2250,7 +2247,7 @@ The city is home to the queen of Argos, house Dorell, and the Imperial Throne, h
 9. **The New District**: The latest expansion, this district got the needed building approvals only three years ago. Building has been slow but steady with city officials taking what some call an unhealthy amount of interest in what buildings and businesses are moving to the area.
 
 
-.. `Rocrest`:
+.. _`Rocrest`:
 
 B. Rocrest
 ===========================
@@ -2259,10 +2256,10 @@ B. Rocrest
 
 **ALCC/BW**: 10.33/10.30
 
-Located where the Danchu forks off the Lestare river, which leads into the briny waters of the Grey Marsh to the south west. The Grey Marsh is the largest marsh/swamp region in the Middle Lands. The Danchu runs another 500 miles where it meets the sea. Rocrest is a trading city that is known for it's apothecaries and herbal research which thrive due to the city's proximity to such a flora rich marsh/swamp. Tribal wood elves from the western forest often come here to trade. It is not uncommon to find halflings and gnomes from the Dothmas Hills trading here as well. Rocrest was founded after the Latter Formation Wars, in 23 MLE.
+Located where the Danchu forks off the Lestare river, which leads into the briny waters of the Grey Marsh to the south west. The Grey Marsh is the largest marsh/swamp region in the `Middle Lands`_. The Danchu runs another 500 miles where it meets the sea. Rocrest is a trading city that is known for it's apothecaries and herbal research which thrive due to the city's proximity to such a flora rich marsh/swamp. Tribal wood elves from the western forest often come here to trade. It is not uncommon to find halflings and gnomes from the Dothmas Hills trading here as well. Rocrest was founded after the Latter Formation Wars, in 23 MLE.
 
 
-.. `Levloe`:
+.. _`Levloe`:
 
 C. Levloe
 =========================
@@ -2276,7 +2273,7 @@ C. Levloe
 
 **ALCC/BW**: 9.70/9.90
 
-Where the Nocmal river flows from the north into the Danchu river from the west is Levloe's current location. From here, the Danchu flows another thousand miles into the Inner Sea. The main and oldest section of the city sits on a high bluff between and overlooking both rivers. Bridges span each river and connect the Old City district with the Nocmal (northern) district and the Danchu (southern) district. Known as the gateway to Argos, Levloe is important both for trade and as the northern most stronghold of Argos. It is also known for good wine. The vineyards are plentiful to the south of the city. Currently, there is major construction occurring to reenforce the Old City river walls. These walls have been placed to maintain the bluff and keep the rivers from undermining it. The city has an interesting history in that it has moved three times since being founded about four- hundred years ago. The site of the first incarnation of Levloe was washed away in a flood during 207 MLE. The city moved up river but was again wiped out by a massive flood in 258 MLE. Higher ground was utilized for the third founding but the bluff was not correctly maintained and was undermined by the river. In 414 MLE it collapsed in the middle of a spring night, sending a full quarter of the city plunging into the Danchu. Over 10,000 citizens lost their lives within a few minutes. The site was abandoned the next year as it was deemed too unstable to rebuild upon. The current site is fastidiously maintained and very innovative techniques have been employed to minimized erosion. The citizens have not, and may never, forget the Collapse.
+Where the Nocmal river flows from the north into the Danchu river from the west is Levloe's current location. From here, the Danchu flows another thousand miles into the `Inner Sea`_. The main and oldest section of the city sits on a high bluff between and overlooking both rivers. Bridges span each river and connect the Old City district with the Nocmal (northern) district and the Danchu (southern) district. Known as the gateway to `Argos`_, Levloe is important both for trade and as the northern most stronghold of `Argos`_. It is also known for good wine. The vineyards are plentiful to the south of the city. Currently, there is major construction occurring to reenforce the Old City river walls. These walls have been placed to maintain the bluff and keep the rivers from undermining it. The city has an interesting history in that it has moved three times since being founded about four- hundred years ago. The site of the first incarnation of Levloe was washed away in a flood during 207 MLE. The city moved up river but was again wiped out by a massive flood in 258 MLE. Higher ground was utilized for the third founding but the bluff was not correctly maintained and was undermined by the river. In 414 MLE it collapsed in the middle of a spring night, sending a full quarter of the city plunging into the Danchu. Over 10,000 citizens lost their lives within a few minutes. The site was abandoned the next year as it was deemed too unstable to rebuild upon. The current site is fastidiously maintained and very innovative techniques have been employed to minimized erosion. The citizens have not, and may never, forget the Collapse.
 
 1. **The Bull**: On the highest ground rests the Archduke's castle. Also the city guard headquarters.
 
@@ -2289,7 +2286,7 @@ Where the Nocmal river flows from the north into the Danchu river from the west 
 5. **The New City**: This district has the highest percentage of non-human populations in the city.
 
 
-.. `Murath`:
+.. _`Murath`:
 
 D. Murath
 =========================
@@ -2301,7 +2298,7 @@ D. Murath
 The capital of `Fellice`_ is located centrally in the Cold Plains due south of the Dragon's Backbone mountains. This city serves as a military stronghold first and foremost. It sits on the Fellice Plateau about forty feet above the surrounding plains. A web of beacon towers are centered here and stretch across the plains. They use a signaling system to transmit messages regarding the immediate need for troops in the frontier regions. Non-emergency requests use more traditional communication lines. Murath has existed, in one form or another, in its current location for the past thousand years. It is believed to have had its beginnings as a tribal center for trade. Possibly, having religious meaning as well. A great deal of the early history has been lost so the identity of the original founders is a subject of debate among scholars.
 
 
-.. `Ghuntos`:
+.. _`Ghuntos`:
 
 E. Ghuntos
 ===========================
@@ -2313,9 +2310,7 @@ E. Ghuntos
 Ghuntos is the western stronghold of `Fellice`_ and guardian of the Dagger Mountains. A copious number of mines are found in the area making this a wealthy city. Fine steel and high-grade silver are transported along the Danchu to the rest of the world. The high and thick walls of Ghuntos make a suitable defense against most any foe and give the city's denizens a sense of safety. While many elements of the city's populace would love to project the image of Ghuntos as a "metropolis of cultural riches" the miners and other "real" people of the city project their own style. This is a city of many layers. It is also a relatively new city, having been annexed by the kingdom about 30 years after its founding in 144 MLE. Only about 40% of the local mines are human run enterprises. The remaining mines are owned and worked by dwarves who sell a portion of the ore produced to Ghuntos. As a result there is a significant dwarven presence in and around the city. The Danchu starts its 1400 mile run to the sea here.
 
 
-
-
-.. `Jortice`:
+.. _`Jortice`:
 
 F. Jortice
 ===========================
@@ -2327,7 +2322,7 @@ F. Jortice
 This, the eastern stronghold of `Fellice`_, is located on a mountainside in the Dragon's Fang mountains, close to the source of the Nocmal river which flows about 500 miles where it merges with the Danchu river. The city is nearly inaccessible. That coupled with hidden mountainside terraced farmland, accessible only from within the city, and the river flowing through a ravine above before falling within the city's walls mark Jortice a challenge to siege. The city is divided into two sections (low city and high city) by the mountainside's switchback flow. Trade is secondary here. This city has been a haven since its inception and founding during the reign of the Flayer Prince, over eleven-hundred years ago.
 
 
-.. `Foamrest`:
+.. _`Foamrest`:
 
 G. Foamrest
 =============================
@@ -2336,10 +2331,10 @@ G. Foamrest
 
 **ALCC/BW**: 9.20/9.15
 
-This city is renown for its harvesting of oil fish, production of fine ink, and master lens crafting. There is a major naval presence here, both Imperial and Mostorian, sending dozens of ships on pirate patrols. Foamrest is called, The Red Harbor, for the large Imperial contingent of War Sails based here. This was not always the case. In fact, three-hundred years ago, over half the traders sailing into the harbor would have been classified as pirates under current law. Foamrest was a smaller city then and could not afford to turn away any but the most blatant of pirate traders.
+This city is renown for its harvesting of oil fish, production of fine ink, and master lens crafting. There is a major naval presence here, both Imperial and `Mostorian <Mostor_>`_, sending dozens of ships on pirate patrols. Foamrest is called, The Red Harbor, for the large Imperial contingent of War Sails based here. This was not always the case. In fact, three-hundred years ago, over half the traders sailing into the harbor would have been classified as pirates under current law. Foamrest was a smaller city then and could not afford to turn away any but the most blatant of pirate traders.
 
 
-.. `Sapreen`:
+.. _`Sapreen`:
 
 H. Sapreen
 ===========================
@@ -2349,11 +2344,13 @@ H. Sapreen
    :target: _static/img/map_sarpreen(big).jpg
    :align: right
 
+*a.k.a. The Sage City*
+
 **Population**: 189,000
 
 **ALCC/BW**: 11.44/11.51
 
-The capital of Mostor is a trading city but is known to house the best libraries in the Middle Lands. Largest among the libraries is the eighty-eight domes of the Lelot Library which is owned by the Gleamdon University and run by the Prime Order. The sprawling walled complex spans parts of several city blocks and sports above street bridges connecting the sections. Sapreen, the Sage City, is one of the few cities having a concentration of wizards higher than normal. Some say there are over a hundred in the city at any given time. Mining the stone quarries and trade with Rekton are major sources of income for the city.
+The capital of `Mostor`_ is a trading city but is known to house the best libraries in the `Middle Lands`_. Largest among the libraries is the eighty-eight domes of the Lelot Library which is owned by the Gleamdon University and run by the Prime Order. The sprawling walled complex spans parts of several city blocks and sports above street bridges connecting the sections. Sapreen, the Sage City, is one of the few cities having a concentration of wizards higher than normal. Some say there are over a hundred in the city at any given time. Mining the stone quarries and trade with Rekton are major sources of income for the city.
 
 1. **The Citadel**: Houses the city's stronghold, the council's hall, the Archduchess's manor, the city guard operations center, their barracks, and strategic store warehouses. As is the case with any stronghold, the Citadel sits on the highest ground in the area.
 
@@ -2372,7 +2369,7 @@ The capital of Mostor is a trading city but is known to house the best libraries
 8. **Quarry District**: Many businesses dealing with the quarries that surround Sapreen are here. There are strong ties to the South City as most of the workers live there.
 
 
-.. `Covehaven`:
+.. _`Covehaven`:
 
 I. Covehaven
 ===============================
@@ -2381,10 +2378,10 @@ I. Covehaven
 
 **ALCC/BW**: 9.90/9.88
 
-The city of Covehaven has both a major fishing industry and a substantial trade hub. One thing that sets fishing here apart is the fact that they preserve and can a fair portion of their stock. Each can includes a key so no can opener is required. The secret canning process ensures a shelf life of up to one year, longer in cooler environments. Salted, smoked, dried, and spiced fish are canned year round. In addition, the same technique is applied to some fruits, vegetables and other meats on a smaller scale. All these items are popular rations for soldiers and sailors alike. Covehaven brand canned rations are known and trusted across the Middle Lands and beyond. In scholarly circles at least, Covehaven is know for a more important reason. It is the oldest still occupied city in the empire. While the name has changed several times, the original city was called Jhanfruzzahltok. It is believed to have been founded more than fifteen- hundred years ago and to have served as the seat of the Moon Empire. It is common for new construction within the city and surrounding area to unearth bits of ancient items. Historians are always willing to part with some silver or even gold for such items. On rare occasions, ruins are unearthed. This will send the local scholars into a frenzy of activity as they clamor for the opportunity to study the site. Such a study will delay the new construction so city officials will not always grant them the chance.
+The city of Covehaven has both a major fishing industry and a substantial trade hub. One thing that sets fishing here apart is the fact that they preserve and can a fair portion of their stock. Each can includes a key so no can opener is required. The secret canning process ensures a shelf life of up to one year, longer in cooler environments. Salted, smoked, dried, and spiced fish are canned year round. In addition, the same technique is applied to some fruits, vegetables and other meats on a smaller scale. All these items are popular rations for soldiers and sailors alike. Covehaven brand canned rations are known and trusted across the `Middle Lands`_ and beyond. In scholarly circles at least, Covehaven is know for a more important reason. It is the oldest still occupied city in the empire. While the name has changed several times, the original city was called Jhanfruzzahltok. It is believed to have been founded more than fifteen- hundred years ago and to have served as the seat of the Moon Empire. It is common for new construction within the city and surrounding area to unearth bits of ancient items. Historians are always willing to part with some silver or even gold for such items. On rare occasions, ruins are unearthed. This will send the local scholars into a frenzy of activity as they clamor for the opportunity to study the site. Such a study will delay the new construction so city officials will not always grant them the chance.
 
 
-.. `Rascool`:
+.. _`Rascool`:
 
 J. Rascool
 ===========================
@@ -2393,10 +2390,10 @@ J. Rascool
 
 **ALCC/BW**: 14.81/15.27
 
-At the edge of the Nojala Mountains is the trading city of Rascool. Gold and precious stones are mined just south of the city and then moved out on trade routes all over the Middle Lands. The wealth of this city has made a large upper-class, many of whom pursue a life devoted to art, music and the like. Well over 80% of these mines are owned and operated by humans. The remainder being dwarven mines. There has been tension with the dwarves over mineral rights in the area so relations are strained. In general, the dwarves want very little to do with the humans of Rascool.
+At the edge of the Nojala Mountains is the trading city of Rascool. Gold and precious stones are mined just south of the city and then moved out on trade routes all over the `Middle Lands`_. The wealth of this city has made a large upper-class, many of whom pursue a life devoted to art, music and the like. Well over 80% of these mines are owned and operated by humans. The remainder being dwarven mines. There has been tension with the dwarves over mineral rights in the area so relations are strained. In general, the dwarves want very little to do with the humans of Rascool.
 
 
-.. `Ahlabim`:
+.. _`Ahlabim`:
 
 K. Ahlabim
 ===========================
@@ -2408,7 +2405,7 @@ K. Ahlabim
 Known as the gateway to the spice road, all land based trade with the Spice Kingdoms starts in Ahlabim. As dictated by the White Sands accord all caravans are escorted by tribal scouts comprised of representatives of the clans who's territory they will pass through. This is the basis of the travel dues paid to each clan as outlined in the treaty. Caravans are required to bring in all the water they will need for each crossing. Ahlabim is also known for its master glass blowers.
 
 
-.. `Shalamahkib`:
+.. _`Shalamahkib`:
 
 L. Shalamahkib
 ===================================
@@ -2420,10 +2417,10 @@ L. Shalamahkib
 
 **ALCC/BW**: 9.80/9.77
 
-The harbor of Shalamahkib transports goods to and from the coastal towns of Celyd and has done so for the past seven-hundred years. The Sea of Storms makes this one of the most dangerous trade routes in the Middle Lands. This also makes it the most profitable. A south bound sea route is exceptionally difficult as the storms along that coast are even more deadly then the ones to the north. One of the most notable things about Shalamahkib is the yearly bard competition. In truth, it is open to all manner of entertainers, singers, dancers, musicians, poets, jesters, and so on. The archduchess, Clarin Avan Nentus, has sponsored the competition for the past 28 years. Hence the name of the event, Clarin's Competition, and the nick name given to the winners, Clarin's Choice. During the month long event, entertainers perform in inns and taverns and on street corners across the city. Those that manage to draw significant public attention are invited to perform for the archduchess. The best of those preform during the final week to massive crowds in Noble's Square, just outside the archduchess' palace. Of those, the top five entertainers, chosen by the archduchess, each receive one-thousand pieces of gold, a bronze medallion, and bragging rights for their victory.
+The harbor of Shalamahkib transports goods to and from the coastal towns of `Celyd`_ and has done so for the past seven-hundred years. The `Sea of Storms`_ makes this one of the most dangerous trade routes in the `Middle Lands`_. This also makes it the most profitable. A south bound sea route is exceptionally difficult as the storms along that coast are even more deadly then the ones to the north. One of the most notable things about Shalamahkib is the yearly bard competition. In truth, it is open to all manner of entertainers, singers, dancers, musicians, poets, jesters, and so on. The archduchess, Clarin Avan Nentus, has sponsored the competition for the past 28 years. Hence the name of the event, Clarin's Competition, and the nick name given to the winners, Clarin's Choice. During the month long event, entertainers perform in inns and taverns and on street corners across the city. Those that manage to draw significant public attention are invited to perform for the archduchess. The best of those preform during the final week to massive crowds in Noble's Square, just outside the archduchess' palace. Of those, the top five entertainers, chosen by the archduchess, each receive one-thousand pieces of gold, a bronze medallion, and bragging rights for their victory.
 
 
-.. `Lechwed`:
+.. _`Lechwed`:
 
 M. Lechwed
 ===========================
@@ -2435,7 +2432,7 @@ M. Lechwed
 Found on the border of the Lesmah Swamp the city of Lechwed is a thriving trade hub between north and south. They are known for perfume and rare herbs. The perfume district demands large quantities of fragrant materials, fresh, dried, and magically packaged. Alcohol is also in high demand by perfumers. The center of the city was transformed into a magnificence public park after so much of it burned in the fires set on the order of Bartimus, the black-heart. Now called New Dawn Park, it is the site of weddings, fairs, markets, and celebrations year round. It also has several memorials to those that gave (or lost) their lives during the rebellion and monuments to the rebellion's heroes.
 
 
-.. `Southflo`:
+.. _`Southflo`:
 
 N. Southflo
 =============================
@@ -2444,10 +2441,10 @@ N. Southflo
 
 **ALCC/BW**: 8.79/8.83
 
-This trade city is surrounded by some of the most fertile farmland in the Middle Lands. They produce exceptional wine and spirits with a myriad of subtle flavors. Southflo is the capital of Celyd and the seat of the Senate. It was founded over 800 years ago or, as some contend, re-founded. Near the end of the second fall refugees from many lands came to the area this city now occupies. Some historians think the city was founded as a city of outcasts. Another, not so minor, claim to fame is the city's role as a backdrop for a very popular story, To the Surprise of the Silk Princess found in the Saga of Tazral, vol IV.
+This trade city is surrounded by some of the most fertile farmland in the `Middle Lands`_. They produce exceptional wine and spirits with a myriad of subtle flavors. Southflo is the capital of `Celyd`_ and the seat of the Senate. It was founded over 800 years ago or, as some contend, re-founded. Near the end of the second fall refugees from many lands came to the area this city now occupies. Some historians think the city was founded as a city of outcasts. Another, not so minor, claim to fame is the city's role as a backdrop for a very popular story, To the Surprise of the Silk Princess found in the Saga of Tazral, vol IV.
 
 
-.. `Hilldale`:
+.. _`Hilldale`:
 
 O. Hilldale
 =============================
@@ -2461,7 +2458,7 @@ O. Hilldale
 
 **ALCC/BW**: 8.52/8.55
 
-Renown for its gnomish clock makers and hillside mines, Hilldale is a thriving seaside city. This is one of the few cities in the Middle Lands to have a substantial non-human population. This is also a major hub for the gnomish airships. It is a common sight to see them in the sky above the city. The city's gnomish wonders attract many spectators. The Clock Plaza being its chief draw, boasting over five- hundred clocks of gnomish make and design. The range and complexity of these spring powered marvels of ingenuity is a sight to behold. The city is full of such sights so it also attracts like minded people. The city's population of tinkers and alchemist is, relatively speaking, huge.
+Renown for its gnomish clock makers and hillside mines, Hilldale is a thriving seaside city. This is one of the few cities in the `Middle Lands`_ to have a substantial non-human population. This is also a major hub for the gnomish airships. It is a common sight to see them in the sky above the city. The city's gnomish wonders attract many spectators. The Clock Plaza being its chief draw, boasting over five- hundred clocks of gnomish make and design. The range and complexity of these spring powered marvels of ingenuity is a sight to behold. The city is full of such sights so it also attracts like minded people. The city's population of tinkers and alchemist is, relatively speaking, huge.
 
 1. **Dove's Roost**: The stronghold of the Duke and the base of operation for Hilldale's city guard. The castle sits on the highest hill and commands a breathtaking view of the city and harbor below.
 
@@ -2477,11 +2474,10 @@ Renown for its gnomish clock makers and hillside mines, Hilldale is a thriving s
 
 7. **Clockwork District**: Gnomes and tinkers and alchemist are concentrated in this area. Traveler's often make a point of seeing this section of the city. It is spectacular and sometimes frightening.
 
-8. **Lighthouse Isle**: On the highest point of the isle stands the harbor's lighthouse. Nicknamed
-"Sentinel" and standing over 100 feet tall, it's light can be seen from sundown to sunup for miles.
+8. **Lighthouse Isle**: On the highest point of the isle stands the harbor's lighthouse. Nicknamed "Sentinel" and standing over 100 feet tall, it's light can be seen from sundown to sunup for miles.
 
 
-.. `Brazhale`:
+.. _`Brazhale`:
 
 P. Brazhale
 =============================
@@ -2493,10 +2489,10 @@ P. Brazhale
 
 **ALCC/BW**: 7.55/7.75
 
-Technically not part of the Middle Land Empire, this city is on Rektor rather than Keltor. This is a major trading center populated mostly by dwarves and gnomes with a fair number of humans. The harbor entrance is a massive cave mouth that leads to underground docks and tunnels to the city. Ships too large to enter the cave, like the Unetor Wave Mistresses, dock outside the cave mouth at the outer annex, which is the mostly human section of the city. Many of the Gnomish Smokers call Brazhale their home port. The black rock mines in the nearby hills make refueling them easier here. These mines are the only known source of black rock.
+Technically not part of the Middle Land Empire, this city is on `Rektor`_ rather than Keltor. This is a major trading center populated mostly by dwarves and gnomes with a fair number of humans. The harbor entrance is a massive cave mouth that leads to underground docks and tunnels to the city. Ships too large to enter the cave, like the Unetor Wave Mistresses, dock outside the cave mouth at the outer annex, which is the mostly human section of the city. Many of the Gnomish Smokers call Brazhale their home port. The black rock mines in the nearby hills make refueling them easier here. These mines are the only known source of black rock.
 
 
-.. `Vesral`:
+.. _`Vesral`:
 
 Q. Vesral
 =========================
@@ -2508,10 +2504,10 @@ Q. Vesral
 
 **ALCC/BW**: 9.01/9.10
 
-Technically not part of the Middle Land Empire, this city is on Rektor rather than Keltor. This is a major trading center populated mostly by dwarves and gnomes with a fair number of humans. It is also one of the few mostly above ground settlements dwarves occupy. The large stone keep, Battle Mound, dominates the city. It's stones are a famous example of dwarven work, both strong and beautiful in a harsh and angular way. Below ground are several layers of dwarven made tunnels that many of the dwarves and gnomes live in. The above ground section is mostly human but has a few additional examples of wonderful dwarven stone masonry scattered among the human built structures.
+Technically not part of the Middle Land Empire, this city is on `Rektor`_ rather than Keltor. This is a major trading center populated mostly by dwarves and gnomes with a fair number of humans. It is also one of the few mostly above ground settlements dwarves occupy. The large stone keep, Battle Mound, dominates the city. It's stones are a famous example of dwarven work, both strong and beautiful in a harsh and angular way. Below ground are several layers of dwarven made tunnels that many of the dwarves and gnomes live in. The above ground section is mostly human but has a few additional examples of wonderful dwarven stone masonry scattered among the human built structures.
 
 
-.. `Mischihoon`:
+.. _`Mischihoon`:
 
 R. Mischihoon
 =================================
@@ -2523,7 +2519,7 @@ R. Mischihoon
 
 **ALCC/BW**: 6.99/6.95
 
-Technically not part of the Middle Land Empire, this city is on Soltor rather than Keltor. Surprisingly small, this seaside city exist solely as a trade center. It is divided into two sections, the foreign quarter along the docks, which is completely walled off with strictly regulated access, and the high quarter, surrounding the foreign quarter on three sides, which is off limits to non-elves. The elves are deathly serious about this. Any non-elf that tries to leave the foreign quarter, in any way other than a boat heading out to sea, faces a death sentence. Established in 219 MLE, Mischihoon is the most heavily regulated city in the known world. Every aspect is controlled by its elven owners, population, new construction, trade and so on. The foreign quarter is built on an artificially raised section of land that was part of the bay floor when the city was founded. Rumor has it that the elven magic responsible for this feat was engineered in such a way that it could, at the whim of the city rulers, be "turned off" allowing the foreign quarter to slip quickly beneath the waves again. The elves will not publicly address this rumor other than to comment on the imagination of humans.
+Technically not part of the Middle Land Empire, this city is on `Soltor`_ rather than Keltor. Surprisingly small, this seaside city exist solely as a trade center. It is divided into two sections, the foreign quarter along the docks, which is completely walled off with strictly regulated access, and the high quarter, surrounding the foreign quarter on three sides, which is off limits to non-elves. The elves are deathly serious about this. Any non-elf that tries to leave the foreign quarter, in any way other than a boat heading out to sea, faces a death sentence. Established in 219 MLE, Mischihoon is the most heavily regulated city in the known world. Every aspect is controlled by its elven owners, population, new construction, trade and so on. The foreign quarter is built on an artificially raised section of land that was part of the bay floor when the city was founded. Rumor has it that the elven magic responsible for this feat was engineered in such a way that it could, at the whim of the city rulers, be "turned off" allowing the foreign quarter to slip quickly beneath the waves again. The elves will not publicly address this rumor other than to comment on the imagination of humans.
 
 
 Guilds, Orders & Armies of the Middle Lands
@@ -2561,7 +2557,7 @@ The army all nobles are required by Imperial law to maintain is the Army of the 
 Imperial Guard
 ===============
 
-The Imperial Guard is the largest, best equipped standing army in the Middle Lands. They have excellent training on top of this. Currently, they number 10,000 which are composed of medium infantry, pike bearers, archers, and cavalry. Of that total, one quarter are assigned naval duty and the rest are land- based forces. Each major city, other than Balashar, has a full battalion contingent, over 200 warriors. Balashar will usually have a bit more than four full battalions of Imperial Guards in/near the city at any given time. The remaining fifty companies will be out on patrol. Most of their time is spent traveling the Imperial Roads. Assignments rotate every few months with soldiers spending a vast majority of their time in areas they are not from. The leadership believes this lessens the likelihood of favoritism. Meanwhile, the naval forces patrol the shipping lanes. The purpose of patrolling is to give the Empire's citizens a sense of safety. The Emperor believes it important to be in the minds and lives of as many citizens as possible, in a favorable way. As such, the patrols are a high priority. The standard Imperial Guard uniform is white and green, officers have silver or gold trim. A common nickname being "Green Shields".
+The Imperial Guard is the largest, best equipped standing army in the `Middle Lands`_. They have excellent training on top of this. Currently, they number 10,000 which are composed of medium infantry, pike bearers, archers, and cavalry. Of that total, one quarter are assigned naval duty and the rest are land- based forces. Each major city, other than `Balashar`_, has a full battalion contingent, over 200 warriors. `Balashar`_ will usually have a bit more than four full battalions of Imperial Guards in/near the city at any given time. The remaining fifty companies will be out on patrol. Most of their time is spent traveling the Imperial Roads. Assignments rotate every few months with soldiers spending a vast majority of their time in areas they are not from. The leadership believes this lessens the likelihood of favoritism. Meanwhile, the naval forces patrol the shipping lanes. The purpose of patrolling is to give the Empire's citizens a sense of safety. The Emperor believes it important to be in the minds and lives of as many citizens as possible, in a favorable way. As such, the patrols are a high priority. The standard Imperial Guard uniform is white and green, officers have silver or gold trim. A common nickname being "Green Shields".
 
 
 Imperial Elite Guard
@@ -2579,7 +2575,7 @@ Mercenary companies are also military bodies but often have a more diverse membe
 Blue Swords
 =============
 
-The Blue Swords are the oldest and most prestigious mercenary company with over two centuries of history. They are known and respected across the Middle Lands as an elite fighting force. The current commander is Rostell Sunchild, a descendant of Kyle Sunchild. Blue Swords maintain their numbers at about eight-hundred, divided into battalions of one-hundred. Five battalions of infantry, two heavy (one of which are pike bearers), two medium and one light armored (the scouts). One battalion of medium cavalry and one each of archers and crossbows. There is also a ninth battalion for siege weaponry but it only has about twenty members. They also employee up to two-hundred camp followers when on the move. These civilians serve as cooks, grooms, blacksmiths, laundry service and the like.
+The Blue Swords are the oldest and most prestigious mercenary company with over two centuries of history. They are known and respected across the `Middle Lands`_ as an elite fighting force. The current commander is Rostell Sunchild, a descendant of Kyle Sunchild. Blue Swords maintain their numbers at about eight-hundred, divided into battalions of one-hundred. Five battalions of infantry, two heavy (one of which are pike bearers), two medium and one light armored (the scouts). One battalion of medium cavalry and one each of archers and crossbows. There is also a ninth battalion for siege weaponry but it only has about twenty members. They also employee up to two-hundred camp followers when on the move. These civilians serve as cooks, grooms, blacksmiths, laundry service and the like.
 
 
 Iron Storm
@@ -2609,7 +2605,7 @@ The Blood Moon is the name of the mercenary group and the name of the ship, a wi
 Fire March
 ~~~~~~~~~~~~
 
-The March is an unconventional mercenary group of recent origin, less than two years old. They are based in Ahlabim and provide "extra" protection to caravans but what is unusual is that they offer a counterstrike service. In recent years, the number of caravan raids from unbound clans, clans not bound to the White Sands Accord, has been increasing. Naturally, more mercenaries have come to offer protection for caravans. The Fire March, commanded by Hazzin Aklu Yeats, is offering to strike back. They investigate caravan raids, and attack the unbound clan responsible in retribution. This is a kind of legal grey area, so as long as they have good evidence the powers that be allow it. However, some are calling this an unwarranted escalation that only serves to damage relations. Yeats is, like many members of the March, part desert tribal but not part of a tribe. For such people, in most cases, a parent or grandparent was a tribal that left or was expelled. The Fire March has eighty-seven members making up six attack groups (tridents) that they use to carry out investigation and counterstrike operations.
+The March is an unconventional mercenary group of recent origin, less than two years old. They are based in `Ahlabim`_ and provide "extra" protection to caravans but what is unusual is that they offer a counterstrike service. In recent years, the number of caravan raids from unbound clans, clans not bound to the White Sands Accord, has been increasing. Naturally, more mercenaries have come to offer protection for caravans. The Fire March, commanded by Hazzin Aklu Yeats, is offering to strike back. They investigate caravan raids, and attack the unbound clan responsible in retribution. This is a kind of legal grey area, so as long as they have good evidence the powers that be allow it. However, some are calling this an unwarranted escalation that only serves to damage relations. Yeats is, like many members of the March, part desert tribal but not part of a tribe. For such people, in most cases, a parent or grandparent was a tribal that left or was expelled. The Fire March has eighty-seven members making up six attack groups (tridents) that they use to carry out investigation and counterstrike operations.
 
 
 Prion's Lances
@@ -2627,7 +2623,7 @@ Winter Beard's boys one and all. Most would call them more a mob than a mercenar
 Wind Blades
 ~~~~~~~~~~~~~
 
-Over the past five years the Wind Blades have been making a reputation for themselves fighting bandits, goblins, orcs, and all manner of beast for some of the freeholds in western Mostor. Their Captain, Lana Tollbren, resigned her commission with the Sapreen Guard after the Marren Street Riot during which she refused what she called an "unlawful" order. The details of this incident are unclear and the rumors are conflicting. Several key members of the Wind Blades are former members of the Sapreen Guard who also resigned not long after the riot. There are currently twenty-seven members of this group, two full tridents. They are a mix of medium infantry, archers, and pike bearers.
+Over the past five years the Wind Blades have been making a reputation for themselves fighting bandits, goblins, orcs, and all manner of beast for some of the freeholds in western `Mostor`_. Their Captain, Lana Tollbren, resigned her commission with the `Sapreen`_ Guard after the Marren Street Riot during which she refused what she called an "unlawful" order. The details of this incident are unclear and the rumors are conflicting. Several key members of the Wind Blades are former members of the `Sapreen`_ Guard who also resigned not long after the riot. There are currently twenty-seven members of this group, two full tridents. They are a mix of medium infantry, archers, and pike bearers.
 
 
 Shadow Organizations
@@ -2701,8 +2697,7 @@ So, this is how the gold flows in nearly every guild, at least the major streams
 
 Getting in as a member can be an adventure in and of itself. A prospective must first make contact. This is done by making your presence known to the guild, either by seeking out a guild member/associate, or by committing illegal acts until the guild takes note and approaches. The latter method is risky as some guilds may just kill the interloper. The former method, being preferred, is facilitated by the use of Thieves' Cant symbols/signs pointing the way to an introduction contact. This is generally not a direct contact but a "polite" way to get guild notice. Once contact is made, the prospective can petition for membership.
 
-It is not uncommon for the guild to do some form of background check, at least checking with their law enforcement contacts. The process can take weeks or longer in some cases. In the intervening time, the prospective is often accepted on a probationary bases and is often assigned a "mentor" who is expected to instruct them on what is required by the guild. At this point the guild is not collecting dues or offering benefits to the probationary. The probationary must still earn the guild's trust. How long that takes depends on a wide range of factors but in general it is never less than one week and at least one or two
-"jobs". Naturally, any jobs will be guild approved, with a vast majority of profit going to the guild.
+It is not uncommon for the guild to do some form of background check, at least checking with their law enforcement contacts. The process can take weeks or longer in some cases. In the intervening time, the prospective is often accepted on a probationary bases and is often assigned a "mentor" who is expected to instruct them on what is required by the guild. At this point the guild is not collecting dues or offering benefits to the probationary. The probationary must still earn the guild's trust. How long that takes depends on a wide range of factors but in general it is never less than one week and at least one or two "jobs". Naturally, any jobs will be guild approved, with a vast majority of profit going to the guild.
 
 Once accepted, the soon to be member must undergo some ceremony. The details will vary from guild to guild but it is at least a witnessed oath of loyalty and sometimes a "job" or other test of skill. Afterward, dues are paid and the new member is welcomed into the fold.
 
@@ -2735,7 +2730,7 @@ The Red Guard
 Also known as the Knights of Tashrune or the Red Knights. These holy warriors seek to perfect themselves and make a better world while following the teachings of the Red Wolf, Tashrune. Each pursues excellence in martial skills, understanding the war mindset, tactical knowledge, and philosophy of life. In understanding war they learn that war's root cause comes from an imbalance, most often a lack of justice. In other cases it comes down to fear. They learn that war is not a solution and should be avoided if possible. At the same time they learn the tactics and martial skill needed to wage war on a level beyond the average warrior. This combination of strength, knowledge, and skill gives them a special perspective.
 
 The Red Guard goes out into the world with a mission. They bring justice to the wronged, protection to the weak, and devotion for life to all. Like Tashrune, they value strength, wisdom, and respect for life
-(knowing when to take it is as important as knowing when not to take it). They often walk the world alone or in pairs. Larger groups are uncommon outside of the order's base of operations, a castle in the central hills of Celyd on the Yahsur river just north of Southflo called the Den. All prospective members must journey to the Den and train for three to seven years. This study is for the mind, body, and soul. It is not easy and many fail. Those that succeed become holy warriors of Tashrune and are blessed by him.
+(knowing when to take it is as important as knowing when not to take it). They often walk the world alone or in pairs. Larger groups are uncommon outside of the order's base of operations, a castle in the central hills of `Celyd`_ on the Yahsur river just north of `Southflo`_ called the Den. All prospective members must journey to the Den and train for three to seven years. This study is for the mind, body, and soul. It is not easy and many fail. Those that succeed become holy warriors of Tashrune and are blessed by him.
 
 
 Seers
@@ -2761,13 +2756,13 @@ It is widely believed that the Syndicate strongly binds all its members by some 
 
 One service offered by the Syndicate is aimed at helping members in need of some gold if they are willing to cast a spell or make an item. Often, some noble or other wealthy person will want a spell casting or a magic item. The Syndicate negotiates with them, finds out what they need, sets realistic expectations regarding the request, and offers solutions/alternatives. At least half of the requests are without merit and the Syndicate makes sure that frivolous requests are understood by all parties to be just that. For example, a request for a pen that never runs out of ink for some noble's clerk is not going to be fulfilled as it is frivolous and if produced in quantities would have an unnecessary negative economic impact on both makers of pens and ink. The Syndicate discourages mages, members or not, from providing such services independently citing its filtering and negotiation efforts as invaluable to the process. Indeed, the members that have done it independently agree that giving the Syndicate a 10% cut, more if they provide the materials, is worth what they bring to the process. It is a headache to deal with such requests. By way of the Syndicate, some requests are fulfilled and many are not. Also, the service requester and the service provider have minimal direct contact because the Syndicate acts as an intermediary. A wizard can make a little gold if they need it without undue headache. And, in the end, the Syndicate controls the vast majority of new magic item sells and spell casting for hire.
 
-The internal workings of the Syndicate are known only to its members. And even then, only the senior membership have knowledge of the Syndicate's goals and methods. What is publicly known is that members pay dues and there are seven circles of membership, the first circle being for the most junior and the seventh the most senior. There is speculation that there are levels beyond that but nothing has been confirmed. Rumor has it that the Syndicate has secret libraries all over the empire and perhaps even a stronghold deep in the Argos wilderness.
+The internal workings of the Syndicate are known only to its members. And even then, only the senior membership have knowledge of the Syndicate's goals and methods. What is publicly known is that members pay dues and there are seven circles of membership, the first circle being for the most junior and the seventh the most senior. There is speculation that there are levels beyond that but nothing has been confirmed. Rumor has it that the Syndicate has secret libraries all over the empire and perhaps even a stronghold deep in the `Argos`_ wilderness.
 
 
 The Prime Order
 =================
 
-This is a group of scholars who operate the Gleamdon University and fill the role of Prime Advisors to the powerful. For the past six-hundred-twenty-eight years the Prime Order has been based in Sapreen but the earliest evidence of it can be traced back eighteen-hundred years to documents outlining doctrines very much like key doctrines the Order was founded upon. The basic tenant of the Order is that knowledge must be harnessed to temper and direct power for a greater good. As far as the Order is concerned the Savage Time came about because of an unbridled lust for power. When all is said and done the Order aims to see that mistake is never again repeated. They wish to direct leadership down a wiser path. Members of the Order are forbidden the pursuit of power in and of itself; that is their highest crime. Those found guilty are reprimanded and, in extreme cases, can lose their position and prestige within the Order.
+This is a group of scholars who operate the Gleamdon University and fill the role of Prime Advisors to the powerful. For the past six-hundred-twenty-eight years the Prime Order has been based in `Sapreen`_ but the earliest evidence of it can be traced back eighteen-hundred years to documents outlining doctrines very much like key doctrines the Order was founded upon. The basic tenant of the Order is that knowledge must be harnessed to temper and direct power for a greater good. As far as the Order is concerned the Savage Time came about because of an unbridled lust for power. When all is said and done the Order aims to see that mistake is never again repeated. They wish to direct leadership down a wiser path. Members of the Order are forbidden the pursuit of power in and of itself; that is their highest crime. Those found guilty are reprimanded and, in extreme cases, can lose their position and prestige within the Order.
 
 The Prime Order operates the illustrious Gleamdon University, which has been educating students well over five-hundred years. Gleamdon is the largest and the most famous of all universities in the Empire. Every member of the Prime Order is a trained scholar and sage who graduated from the Gleamdon University. Yet only a fraction of Gleamdon University graduates are members of the Prime Order. The Order's dedication to education is well known, in addition to the higher curriculum, the University will teach local children that seek knowledge. These children tend to be one of the larger pools from which the Order replenishes its numbers. They grow up steeped in the Order, so it can easily become a way of life for them.
 
@@ -2781,7 +2776,7 @@ These recent centuries have been the most peaceful and stable time since before 
 The Tinkerers' League
 =======================
 
-Inventors of all types are drawn to the Tinkerers' League. The League also welcomes smiths, clockmakers alchemist and other specialized artisans of similar ilk. This is a very gnome heavy organization, in fact, its mother chapter is based in Hilldale, a city famous for its Gnomish inhabitants. The League has a chapter in nearly every major city across the empire. While not all smiths are members the most ingenious and innovative ones often are. For that reason even the smallest of towns could have at least one member.
+Inventors of all types are drawn to the Tinkerers' League. The League also welcomes smiths, clockmakers alchemist and other specialized artisans of similar ilk. This is a very gnome heavy organization, in fact, its mother chapter is based in `Hilldale`_, a city famous for its Gnomish inhabitants. The League has a chapter in nearly every major city across the empire. While not all smiths are members the most ingenious and innovative ones often are. For that reason even the smallest of towns could have at least one member.
 
 Dues are moderate, as the the purpose of the League is more a network to facilitate inventors inventing. The exchange of knowledge and expertise is the main method the League uses to get this done. Leadership is elected on a local bases. When a wider scope decision is required the leadership of the affected chapters get together and vote on a course of action.
 
@@ -2797,7 +2792,7 @@ Lamp Lighters
 
 As a settlement grows, they do many things to combat crime. It turns out that one of the simplest methods is to deny the criminal an easy place to hide, the darkness. A common solution is a Lamp Lighters guild. The earliest phase of this type of guild are lamp bearers, who walk with people while carrying a lamp. They are not guards. The next step is when the main street is fitted with lampposts. In the hour before dark members of the lamp lighters' guild go around lighting the lamps or candles in the lampposts. Not all streets get this treatment, just the most used ones. How long the lights are tended depends on the settlement. Most don't keep them lit past midnight and lamp bearers are still active in the unlit areas. There are a few cities that have areas which are lit from dusk til dawn. Such a thing is rare.
 
-Balashar has the "High Bay" district which is the only area in the Empire to be lit by magic. It was something the lamp lighters' guild argued against. The Arcane Syndicate had denied similar requests several times over the prior century so it was a surprise when they allowed this one. It has been made clear that the Syndicate will not do this in other places. That suits the Lamp Lighters as magic lighting would put them out of business.
+`Balashar`_ has the "High Bay" district which is the only area in the Empire to be lit by magic. It was something the lamp lighters' guild argued against. The Arcane Syndicate had denied similar requests several times over the prior century so it was a surprise when they allowed this one. It has been made clear that the Syndicate will not do this in other places. That suits the Lamp Lighters as magic lighting would put them out of business.
 
 
 Gong Farmers
@@ -2829,13 +2824,13 @@ However complex the system, their basic service only gets water to the customer 
 
 Normally, once the water gets to the customer the Water Carriers' job is done. But the wealthy customer will often want to buy better services. Examples include things like personal mini cisterns to increase water pressure, water features (like fountains) in their home, and a larger supply for a private bath house.
 
-Overall, the local Water Carriers will become more important as the settlement grows. Indeed, they are among the most powerful group in any of the major cities of the Middle Lands. Most cities learn the hard way that, as they grow, it is vital to keep this group happy or takeover their infrastructure as public works. This is the route that several of the largest cities have taken.
+Overall, the local Water Carriers will become more important as the settlement grows. Indeed, they are among the most powerful group in any of the major cities of the `Middle Lands`_. Most cities learn the hard way that, as they grow, it is vital to keep this group happy or takeover their infrastructure as public works. This is the route that several of the largest cities have taken.
 
 
 Xorn Brokerage
 ================
 
-Named for the city it began in, the Xorn Brokerage is a group of foreign moneylenders from the Spice Kingdoms who have spread across the Empire. While there are many groups for moneylenders in the Middle Lands, none are as powerful and wealthy as the Xorn. They have offices in the largest 100 cities of the Empire. With satellite offices in Rektor and Unetor, they have the largest coffers in the known world.
+Named for the city it began in, the Xorn Brokerage is a group of foreign moneylenders from the Spice Kingdoms who have spread across the Empire. While there are many groups for moneylenders in the `Middle Lands`_, none are as powerful and wealthy as the Xorn. They have offices in the largest 100 cities of the Empire. With satellite offices in `Rektor`_ and `Unetor`_, they have the largest coffers in the known world.
 
 Exacting and harsh yet impersonal, the moneylenders of Xorn are know for business sense. They do not show favoritism, ever. They do not take risks without information and careful calculation. Little things like morality don't get in the way of profit were they are concerned. So, when a noble needs to borrow vast sums of gold, there are none better suited to the task than the Xorn. That assumes the noble can afford the price of their services. If so, then that war can be funded or the destroyed grain stores can be replaced. Be sure of one thing, there is a cost and the Xorn will have what's theirs.
 
@@ -2845,7 +2840,7 @@ There have been those who didn't think they should pay back the loan. Not one ha
 Travel in the Middle Lands
 ###########################
 
-Like any other civilization, travel is the key to commerce and that is the life's blood of any city. In the Middle Lands it is no different. Most common folk travel by land but they don't normally go far. Waterborne travel is mostly for merchants and nobles. A very, very few brave souls can travel by air.
+Like any other civilization, travel is the key to commerce and that is the life's blood of any city. In the `Middle Lands`_ it is no different. Most common folk travel by land but they don't normally go far. Waterborne travel is mostly for merchants and nobles. A very, very few brave souls can travel by air.
 
 
 By Air
@@ -2853,11 +2848,11 @@ By Air
 
 Every major city has a small pegasus stable with between three and six riders and mounts at any given time. These are imperial message runners and are used almost exclusively for state business. It is possible for anyone to hire one of these messengers but the prices are extreme and state deliveries take priority every time. It is also possible that the local lord has blocked public access to the messengers. This can be done for a number of reasons ranging from state security to the noble's whim. Of any moneys collected for a delivery, 85% goes to the imperial coffers and the rest to the rider. Payments are made to the local office of imperial post rather then directly to the rider.
 
-The only route for public air travel would be the gnomish airships. While the gnomes of Rektor are exploring extremes in gnomish design in relation to sea travel, the gnomes of the Middle Lands are working on air travel. There are a dozen or so airships, crewed exclusively by gnomes, traveling the Middle Lands. They circulate between the gnomish settlements and the major human cities. Scheduled routes are not a big thing with the gnomes of the sky. They value freedom and look at the airships as the last place remaining to anyone that truly wants to be free. The gnomish sky captains, called Brown Coats, will take any job if it looks like fun and/or a challenge they just want enough gold to stay in the sky.
+The only route for public air travel would be the gnomish airships. While the gnomes of `Rektor`_ are exploring extremes in gnomish design in relation to sea travel, the gnomes of the `Middle Lands`_ are working on air travel. There are a dozen or so airships, crewed exclusively by gnomes, traveling the `Middle Lands`_. They circulate between the gnomish settlements and the major human cities. Scheduled routes are not a big thing with the gnomes of the sky. They value freedom and look at the airships as the last place remaining to anyone that truly wants to be free. The gnomish sky captains, called Brown Coats, will take any job if it looks like fun and/or a challenge they just want enough gold to stay in the sky.
 
 Their ships vary wildly with no two looking, much less operating, the same way. All are steam powered to one degree or another, use very little or no magic, and emit large clouds of black smoke and/or steam but there the similarities end. Some look like zeppelins, others like clockwork hot air balloons, bugs such as dragonflies are another common look, and still others defy description altogether or make one doubt their own sanity when looking too closely at the contraption. They use anything from hot air to hydrogen to spinning blades to get off the ground. Additional forward movement is supplied by various propellers or flapping wings or steam jets. Most citizens think it insane to ride in one of these monstrosities.
 
-The list below gives general stats for the airship types found in the Middle Lands. The speed listed is squares/minute under normal conditions (square = 30 ft.). Divide speed by three for miles/hour. While the ceiling for most craft is about 8,000 ft, high wind tends to be an issue above 4,000 ft.
+The list below gives general stats for the airship types found in the `Middle Lands`_. The speed listed is squares/minute under normal conditions (square = 30 ft.). Divide speed by three for miles/hour. While the ceiling for most craft is about 8,000 ft, high wind tends to be an issue above 4,000 ft.
 
 .. list-table:: Table: Airships of the Middle Lands
    :header-rows: 1
@@ -2917,7 +2912,7 @@ By Land
 
 Walking is by far the most common land-based transportation mode. Others include cart, wagon, mount, caravan and so on. While not all commoners can afford a riding horse most can afford some type of pack/draft animal even if it is only a mule or an ox. Carts are inexpensive and a travois can be made practically for free. The existing network of roads is impressive. They range from basic dirt trails to the empire build stone trade routes and even ancient brick masterwork roads.
 
-All the major cities of the Middle Lands are connected by a network of imperial roads, shown on this map. They are patrolled by local lords and elements of the Imperial Guard. Note that the map shows only a general line for the road, not the exact path. These main roads are wide, paved and kept in good condition. As a result, travel speed on the road can be maximized and foul weather is not as much of a hindrance as it would be on a dirt road. Many villages and towns have been built along these main roads with the sole purpose of providing services to travelers. Some have even grown beyond that to produce products for trade.
+All the major cities of the `Middle Lands`_ are connected by a network of imperial roads, shown on this map. They are patrolled by local lords and elements of the Imperial Guard. Note that the map shows only a general line for the road, not the exact path. These main roads are wide, paved and kept in good condition. As a result, travel speed on the road can be maximized and foul weather is not as much of a hindrance as it would be on a dirt road. Many villages and towns have been built along these main roads with the sole purpose of providing services to travelers. Some have even grown beyond that to produce products for trade.
 
 Beyond the main roads there are smaller local roads that are maintained by the local lord. Most of the time these are not paved but are simple hard packed dirt. In poorer or remote districts the roads get progressively cruder. Patrols are less common the farther one gets from the main road. Finally there are places in which one can find part of an ancient road. Such roads where old centuries before the empire was born. These are made of cut stone rather then cobble stone like the imperial roads. It is not uncommon for a village or town to mine the stone from these roads as it is of fine quality and well cut. Such strong, well cut, stone is of value for building.
 
@@ -2925,13 +2920,13 @@ Beyond the main roads there are smaller local roads that are maintained by the l
 By Water
 **********
 
-Water is still the primary means of moving goods, this is mostly due to the high population density along coastlines and rivers. River ships are common and most have both sail and oars. One mast is the norm for such vessels. On the eastern coast, the vessels are build for speed and cargo capacity and most lack oars. Due to the relatively mild weather in the Inner Sea these ships are not build to stand against the kind of storms that can strike in the Vast Sea much less the ones in the Sea of Storms. The west coast makes a very different ship. There, durability is prized above speed and cargo. These vessels are made to take as much damage as possible and still make it to safe harbor. In game terms most of the ships made in the Middle Lands and used on the Inner Sea would be classified as coasters while ships made by the people of Unetor, for example, would be seafarers.
+Water is still the primary means of moving goods, this is mostly due to the high population density along coastlines and rivers. River ships are common and most have both sail and oars. One mast is the norm for such vessels. On the eastern coast, the vessels are build for speed and cargo capacity and most lack oars. Due to the relatively mild weather in the `Inner Sea`_ these ships are not build to stand against the kind of storms that can strike in the Vast Sea much less the ones in the `Sea of Storms`_. The west coast makes a very different ship. There, durability is prized above speed and cargo. These vessels are made to take as much damage as possible and still make it to safe harbor. In game terms most of the ships made in the `Middle Lands`_ and used on the `Inner Sea`_ would be classified as coasters while ships made by the people of `Unetor`_, for example, would be seafarers.
 
-In some of the major coastal cities the denizens often times see vessels from other lands. Ships from Unetor are both huge and strangely rigged. Their four masted ships use sails and rigging of a design completely foreign to Middle Land sailors. The wood they use is said to be spell and steel strengthened, iron wood. Rumor says some of them use even larger vessels with up to six masts on the Vast Sea.
+In some of the major coastal cities the denizens often times see vessels from other lands. Ships from `Unetor`_ are both huge and strangely rigged. Their four masted ships use sails and rigging of a design completely foreign to Middle Land sailors. The wood they use is said to be spell and steel strengthened, iron wood. Rumor says some of them use even larger vessels with up to six masts on the Vast Sea.
 
-The gnomes of Rektor have, by far, the strangest vessels. Their ships are build of metal and spew smoke and steam from large pipes in their decks. Some have massive water wheels attached to the vessel's aft or on both sides while others have what the gnomes call "automated oars". Still stranger are the ones that have no oar, sail or wheels. They just churn the water behind them and move as if by magic all the while filling the air with black smoke. It is said this black smoke is made by burning a mysterious black rock. Many people dismiss this as some traveler's joke.
+The gnomes of `Rektor`_ have, by far, the strangest vessels. Their ships are build of metal and spew smoke and steam from large pipes in their decks. Some have massive water wheels attached to the vessel's aft or on both sides while others have what the gnomes call "automated oars". Still stranger are the ones that have no oar, sail or wheels. They just churn the water behind them and move as if by magic all the while filling the air with black smoke. It is said this black smoke is made by burning a mysterious black rock. Many people dismiss this as some traveler's joke.
 
-The elven ships of Soltor are rarely seen but there are tales of glowing white hulls and gossamer sails and speed twice that of the fastest Middle Land sailing ship. Some say the elves store wind on these ships. It is commonly believed that their hulls and masts are made of mystical living wood that heals damage.
+The elven ships of `Soltor`_ are rarely seen but there are tales of glowing white hulls and gossamer sails and speed twice that of the fastest Middle Land sailing ship. Some say the elves store wind on these ships. It is commonly believed that their hulls and masts are made of mystical living wood that heals damage.
 
 
 Water Vessel Types
@@ -2939,7 +2934,7 @@ Water Vessel Types
 
 * **River Barge**: This can be anything from a raft of lashed logs to a flat bottomed boat for cargo. Barges rely on the current and the use of poles to steer when going down stream. A simple collapsible mast and sail provide locomotion for upstream travel, which can be very slow. Again poles are used to guide and push the craft. This type of vessel is practically useless on the open sea but a lake is another matter. Cargo is stored on the main deck, out in the open. Tarps are used to cover and protect such cargo. A small tent like aft cabin is the all purpose crew area (mess, sleeping area, and so on).
 
-* **Ice Raider**: It resembles a viking longboat. Having a long slim body, a single mast, oars, a ram and limited ice breaking ability make this perfect for the Ice Sea. The Mako tribe uses them to raid shipping lanes in the northern parts of the Inner Sea. While it can travel on many rivers, it is often used in open water. These vessels have two levels including the main deck so cargo space is at a minimum. The main deck has space for the the rowers, twelve on each side. This leaves the rest of the crew to operate the sail, rudder, and perform any other needed duties.
+* **Ice Raider**: It resembles a viking longboat. Having a long slim body, a single mast, oars, a ram and limited ice breaking ability make this perfect for the Ice Sea. The Mako tribe uses them to raid shipping lanes in the northern parts of the `Inner Sea`_. While it can travel on many rivers, it is often used in open water. These vessels have two levels including the main deck so cargo space is at a minimum. The main deck has space for the the rowers, twelve on each side. This leaves the rest of the crew to operate the sail, rudder, and perform any other needed duties.
 
 * **Merchant Girth**: This wide body design is favored by merchants for it's cargo capacity. One or two masts and a bank of oars on each side make this a craft for hauling large loads at a slow and steady pace. They can navigate rivers as well as coastal waters with equal ease. Typically having three levels, including the main deck, the lowest level is all cargo space. The next level is crew space and rower stations (35 on each side) and secondary cargo. There is often a small aft cabin on the main deck which is subdivided for use by the captain and mates or paying passengers.
 
@@ -2947,17 +2942,17 @@ Water Vessel Types
 
 * **Spray Seeker**: A medium sized vessel having two or three masts that resembles a schooner. While not unheard of, oars are rare for these ships and largely ineffective. They can travel at respectable speeds and are able to make use of the deeper river channels. These craft are most at home in the ocean. In addition to the main deck they often have three levels below deck. All sport an aft cabin on the main deck and some have a fore cabin as well.
 
-* **Storm Rider**: Produced mainly by those on the western coast of the Middle Lands, these ships are built to weather storms and rough water. While of a similar size and configuration to the spray seeker, they are not as fast and carry a little less cargo but their rough weather survival rate is several times better. This is due to a wider stable design, better construction methods (also more expensive) and different rigging. Unlike other ships, the design of the Storm Rider is much more uniform due to relatively few shipyards producing them. They all have two masts and three levels below deck and an aft cabin on the main deck.
+* **Storm Rider**: Produced mainly by those on the western coast of the `Middle Lands`_, these ships are built to weather storms and rough water. While of a similar size and configuration to the spray seeker, they are not as fast and carry a little less cargo but their rough weather survival rate is several times better. This is due to a wider stable design, better construction methods (also more expensive) and different rigging. Unlike other ships, the design of the Storm Rider is much more uniform due to relatively few shipyards producing them. They all have two masts and three levels below deck and an aft cabin on the main deck.
 
 * **Wind Beast**: A large sailing vessel with massive cargo capacity and three or four masts. They can be likened to a barque. These craft are not designed for river use and hence will often run a foul in all but the deepest of river channels. Below the main deck are three levels. The lower two being devoted exclusively to cargo storage. The upper most being crew space and supplies and secondary cargo storage. A spacious aft cabin on the main deck is standard.
 
 * **War Sail**: The red war ships of the Middle Land navy resemble a trireme with three masts. They are huge, powerful, fast and not build for cargo. All are equipped with a steel ram, two ballistas (one fore and one aft), a catapult mid-ship (mounted on a turning wheel) and a mobile Greek fire launcher. There are two levels below the main deck. A great deal of that space is devoted to the one-hundred-forty rowers, twenty sailors, and forty warriors standard to the war ship's crew. All that leaves little room for cargo.
 
-* **Wave Mistress**: Used exclusively by the people of Unetor, these vessels are made for long voyages in the open sea. They are larger then most any other sailing vessel known in the Middle Lands and use a very complex sail and rigging design that allows for great speed and wind management abilities. Most have between four and six masts and four levels below their deck. This gives them an impressive amount of space for cargo.
+* **Wave Mistress**: Used exclusively by the people of `Unetor`_, these vessels are made for long voyages in the open sea. They are larger then most any other sailing vessel known in the `Middle Lands`_ and use a very complex sail and rigging design that allows for great speed and wind management abilities. Most have between four and six masts and four levels below their deck. This gives them an impressive amount of space for cargo.
 
-* **Elven Silk Sail**: Exclusive to the elves of Soltor these are hands down the fastest sailing ships known. Long and sleek, having up to four masts and equip with silk like sails and rigging these vessels are unlike any that humans have ever produced. They employ a design somewhat like a catamaran for stability and speed. The trade off being there is very little space for cargo. It is rumored that the elves have some even faster vessels that are reserved for elven nobility.
+* **Elven Silk Sail**: Exclusive to the elves of `Soltor`_ these are hands down the fastest sailing ships known. Long and sleek, having up to four masts and equip with silk like sails and rigging these vessels are unlike any that humans have ever produced. They employ a design somewhat like a catamaran for stability and speed. The trade off being there is very little space for cargo. It is rumored that the elves have some even faster vessels that are reserved for elven nobility.
 
-* **Gnomish Smoker**: The only known metal ships are made and used exclusively by the gnomes of Rektor. They are steam powered, burning wood, charcoal or coal. These vessels are fast and made to last. Aside from that each one is different in design and is decorated according to the taste of the gnome that built it. Most have two levels below the main deck. The first having gnome sized crew quarters and supplies and an "engine" room (often located mid-ship or aft). The lower being a large (taller than normal) cargo only area. The main deck often has a two story structure mid-ship which is outfitted to suit the ship's needs. In the way of drive systems, some use a paddle wheel, others employ an automatic oar rowing system and still others make use of a drive shaft and propeller design. Many are also equipped as ice breakers. Some are cargo vessels, others passenger ships and some are just fishing boats. Many humans question the wisdom of traveling in one of these boats that by the look of it should not float much less move.
+* **Gnomish Smoker**: The only known metal ships are made and used exclusively by the gnomes of `Rektor`_. They are steam powered, burning wood, charcoal or coal. These vessels are fast and made to last. Aside from that each one is different in design and is decorated according to the taste of the gnome that built it. Most have two levels below the main deck. The first having gnome sized crew quarters and supplies and an "engine" room (often located mid-ship or aft). The lower being a large (taller than normal) cargo only area. The main deck often has a two story structure mid-ship which is outfitted to suit the ship's needs. In the way of drive systems, some use a paddle wheel, others employ an automatic oar rowing system and still others make use of a drive shaft and propeller design. Many are also equipped as ice breakers. Some are cargo vessels, others passenger ships and some are just fishing boats. Many humans question the wisdom of traveling in one of these boats that by the look of it should not float much less move.
 
 .. list-table:: Table: Ships of the Middle Lands
    :header-rows: 1
@@ -3089,7 +3084,7 @@ For the average citizen it is safety that makes the Empire a good place to live.
 
 In the civilized areas most citizens don't travel a great deal, with the vast majority of daily trips being under two miles. These people almost never have an issue unless it's a random footpad. A non-humanoid attack, something like goblins or owlbears, would be all but unheard of and would most likely cause a local panic once word got out. It would also generate a military response from local nobles and Imperial forces. This does not mean monsters never invade these safe zones. After all, the denizens of the underworld can make an appearance almost anywhere. The smart ones don't announce themselves and dumb ones have, over the years, learned to avoid some places. So, even this form of infringement is not a common event.
 
-Once outside the safe zone, the monster attack frequency rises dramatically. Longer trips increase the chance one will enter the wilderness areas. Going more than twenty miles is all it takes in many places. As safe as the civilized lands are, they are a small section of the overall area of the Middle Lands.
+Once outside the safe zone, the monster attack frequency rises dramatically. Longer trips increase the chance one will enter the wilderness areas. Going more than twenty miles is all it takes in many places. As safe as the civilized lands are, they are a small section of the overall area of the `Middle Lands`_.
 
 Travel by air or sea is another matter. Patrolling these areas is a more complex task, hence the "safe" area is much smaller, when it exist at all. So, it is much easier to enter "wilderness" areas and therefore encounter monsters. Piracy on the high seas is more common than most would like it to be. In contrast, air travel sees almost no piracy but has more than enough wyvern attacks to makeup for that.
 
@@ -3121,13 +3116,13 @@ Every major city has a pegasus stable with up to six riders and mounts available
 Signal Networks
 ****************
 
-`Fellice`_ has the two largest signal networks in the Middle Lands. The largest is the Central System, a network of signal towers that run the length of the kingdom. It is used only for military purposes and operated by military personnel. Should a settlement be attacked or be in imminent danger of attack they can send a runner to the nearest tower which sends a signal for military aid. The towers are equipped with horns, gongs, mirrors, and large signal lanterns to transmit coded messages between towers as the situation requires. A signal lantern is basically a bullseye lantern with a shutter that one can flip open and closed very quickly. This allows the operator to flash a coded message using something like a Morse code. If it's a clear night they use the lanterns, a foggy day means horns and gongs, a sunny day is mirrors, and so on. Each tower is no more than five miles apart and there are 129 of them. They mostly follow the imperial roads. A complex protocol is used for messages to ensure accuracy and validate authenticity.
+`Fellice`_ has the two largest signal networks in the `Middle Lands`_. The largest is the Central System, a network of signal towers that run the length of the kingdom. It is used only for military purposes and operated by military personnel. Should a settlement be attacked or be in imminent danger of attack they can send a runner to the nearest tower which sends a signal for military aid. The towers are equipped with horns, gongs, mirrors, and large signal lanterns to transmit coded messages between towers as the situation requires. A signal lantern is basically a bullseye lantern with a shutter that one can flip open and closed very quickly. This allows the operator to flash a coded message using something like a Morse code. If it's a clear night they use the lanterns, a foggy day means horns and gongs, a sunny day is mirrors, and so on. Each tower is no more than five miles apart and there are 129 of them. They mostly follow the imperial roads. A complex protocol is used for messages to ensure accuracy and validate authenticity.
 
 Because exercises are common, they are adept at quickly relaying messages with the protocol. It is easily possible for a signal to be relayed to the Hub in Murath from anywhere in the system in just a few hours.
 
 The second largest system is used by the towers on the `Winter Wall`_. While they are not operated by the same people they use the same signal methods. Their message protocol is less complex but it is only used by the Winter Guard for their own purposes so it doesn't need the same flexibility as the one used by the Central System. A signal can run the length of the wall, 114 miles, in an hour.
 
-Finally, signal networks are often employed by a city's guard. For most cities, whistles or bells carried by guard patrols are common. In larger cities, the city guard towers use mirrors and/or signal lanterns. These systems are much cruder than the Central System or what is used on the `Winter Wall`_ but they can get by with that. A city's guard will most often only use these signals to request more guards rather than for complex two-way message exchange. There are exceptions, for example Balashar. Their guard towers are equipped with a mirror/lantern signal system and their protocol is complex enough that they can use signals to relay orders to every guard in the city in a handful of minutes. Everything from guard movement and dispersal to status bulletins and special reports can be transmitted. Spells and Magic Items Magic is not a common means of sending communiques. For that reason it is not the backbone of the communication network that it could be. Outside of the major cities, magic is not even an option in most cases. That being said, for emergencies most settlements will have at least a one-shot method of Animal Messenger if they don't know of a local caster able to do it. Why is it like this? Just as with warfare, users of magic do not wish to be forced into servitude and have their abilities abused and perverted. In some cases the Arcane Syndicate will provide spell casting services but it would have to be for a good reason. Below is a list of spells that are, in some way, useful for communication. This is by no stretch of the imagination a complete list.
+Finally, signal networks are often employed by a city's guard. For most cities, whistles or bells carried by guard patrols are common. In larger cities, the city guard towers use mirrors and/or signal lanterns. These systems are much cruder than the Central System or what is used on the `Winter Wall`_ but they can get by with that. A city's guard will most often only use these signals to request more guards rather than for complex two-way message exchange. There are exceptions, for example `Balashar`_. Their guard towers are equipped with a mirror/lantern signal system and their protocol is complex enough that they can use signals to relay orders to every guard in the city in a handful of minutes. Everything from guard movement and dispersal to status bulletins and special reports can be transmitted. Spells and Magic Items Magic is not a common means of sending communiques. For that reason it is not the backbone of the communication network that it could be. Outside of the major cities, magic is not even an option in most cases. That being said, for emergencies most settlements will have at least a one-shot method of Animal Messenger if they don't know of a local caster able to do it. Why is it like this? Just as with warfare, users of magic do not wish to be forced into servitude and have their abilities abused and perverted. In some cases the Arcane Syndicate will provide spell casting services but it would have to be for a good reason. Below is a list of spells that are, in some way, useful for communication. This is by no stretch of the imagination a complete list.
 
 
 * **Animal Messenger**: Sends a tiny animal (commonly a hawk, owl or raven) to a spot. It can carry a small message tube. 50gp
@@ -3441,25 +3436,25 @@ Here are some rough numbers to help define the world. This is just here to give 
 Other Places
 #############
 
-While the focus thus far has been the Middle Lands of Keltor there is more to the World. This section is here to give a rough idea of the lands beyond Keltor's Middle Lands.
+While the focus thus far has been the `Middle Lands`_ of `Keltor`_ there is more to the World. This section is here to give a rough idea of the lands beyond Keltor's Middle Lands.
 
 
 Keltor
 *******
 
-In addition to the Middle Lands there are two other main sections of Keltor. The `Northern Wilds`_ and the Hot Lands.
+In addition to the `Middle Lands`_ there are two other main sections of Keltor. The `Northern Wilds`_ and the Hot Lands.
 
-The `Northern Wilds`_ are known as the Ice Kingdom or Winter's Kingdom by their inhabitants. They are mostly nomadic tribes of humans and they are hardy; possessing a rich culture and history. Their lives are hard but they relish it and believe themselves stronger then the soft southerners of the Middle Lands. In general, they are content to live their lives out of sight of the `Winter Wall`_ and its Winter Guard. They are happy to let the Middle Landers wallow in ignorance behind their wall as they have done for the better part of the last four-hundred years.
+The `Northern Wilds`_ are known as the Ice Kingdom or Winter's Kingdom by their inhabitants. They are mostly nomadic tribes of humans and they are hardy; possessing a rich culture and history. Their lives are hard but they relish it and believe themselves stronger then the soft southerners of the `Middle Lands`_. In general, they are content to live their lives out of sight of the `Winter Wall`_ and its Winter Guard. They are happy to let the Middle Landers wallow in ignorance behind their wall as they have done for the better part of the last four-hundred years.
 
-The Hot Lands is a name used exclusively by Middle Landers that know no better. Its inhabitants name it the Southern Kingdoms or, more commonly, the Spice Kingdoms. These lands see regular trade with the Middle Lands by sea and by trade route in the `Great Desert`_, which they call the Dry Land. The Spice Kingdoms are known for spices of all kinds but salt is their greatest export by volume. In the far south and west there is rumored to be a massive, dark, jungle said to hold secrets of a lost kingdom and giant lizards larger then a manor. The south has been greatly romanticized by those in the Middle Lands and is know for its beautiful and exotic cities as well as art and high culture. Bards of this land are well liked.
+The Hot Lands is a name used exclusively by Middle Landers that know no better. Its inhabitants name it the Southern Kingdoms or, more commonly, the Spice Kingdoms. These lands see regular trade with the `Middle Lands`_ by sea and by trade route in the `Great Desert`_, which they call the Dry Land. The Spice Kingdoms are known for spices of all kinds but salt is their greatest export by volume. In the far south and west there is rumored to be a massive, dark, jungle said to hold secrets of a lost kingdom and giant lizards larger then a manor. The south has been greatly romanticized by those in the `Middle Lands`_ and is know for its beautiful and exotic cities as well as art and high culture. Bards of this land are well liked.
 
-The population of Keltor, as a whole, is primarily human however, all the races have an indigenous population somewhere in Keltor. The elves have tribes in the Middle Lands, the Ice Kingdom, the Dry Land and the Spice Kingdoms. There are small dwarven cities found in most of the mountain ranges of Keltor. Gnomes and halflings can be found in villages located in some of the remote hills and vales scattered around Keltor. Orcish tribes roam all the wilderness lands with equal fervor.
+The population of Keltor, as a whole, is primarily human however, all the races have an indigenous population somewhere in Keltor. The elves have tribes in the `Middle Lands`_, the Ice Kingdom, the Dry Land and the Spice Kingdoms. There are small dwarven cities found in most of the mountain ranges of Keltor. Gnomes and halflings can be found in villages located in some of the remote hills and vales scattered around Keltor. Orcish tribes roam all the wilderness lands with equal fervor.
 
 
 Rektor
 *******
 
-Is a land of mountains and hills that is dominated by dwarves. There are substantial numbers of humans and gnomes living there as well. As a group, the people of Rektor seem to prefer staying close to home. Dwarven metal work is second to none and the work done by the dwarves of Rektor is believed better than "common" dwarven works. The gnomish City of Steam, found here, is legendary across the Middle Lands and beyond.
+Is a land of mountains and hills that is dominated by dwarves. There are substantial numbers of humans and gnomes living there as well. As a group, the people of Rektor seem to prefer staying close to home. Dwarven metal work is second to none and the work done by the dwarves of Rektor is believed better than "common" dwarven works. The gnomish City of Steam, found here, is legendary across the `Middle Lands`_ and beyond.
 
 
 Soltor
@@ -3479,7 +3474,7 @@ Tribes of Keltor
 
 *Not all the information here should be known to the players at the start of the game.*
 
-There are a variety of tribes spread across the world. In the Middle Lands, these tribes are not part of any kingdom and hence owe no allegiance to any noble or House of the Middle Lands. While the majority are nomadic, not all are. Thinking of them as primitive would be inaccurate. To be sure, they have different cultures and some of their traditions may seem backward yet they will often have knowledge of surprising subjects. There have been instances of scholars rediscovering lost knowledge from these tribes.
+There are a variety of tribes spread across the world. In the `Middle Lands`_, these tribes are not part of any kingdom and hence owe no allegiance to any noble or House of the `Middle Lands`_. While the majority are nomadic, not all are. Thinking of them as primitive would be inaccurate. To be sure, they have different cultures and some of their traditions may seem backward yet they will often have knowledge of surprising subjects. There have been instances of scholars rediscovering lost knowledge from these tribes.
 
 
 Tribes of the Great Desert
@@ -3505,31 +3500,31 @@ The trade routes to and from the Spice Kingdoms have created, among the clans, a
 Tribes of the Middle Lands
 ***************************
 
-There are four main tribes in the Middle Lands. These are largely nomadic (or semi-nomadic) tribes and are not at all closely related. The number of offshoots are very small.
+There are four main tribes in the `Middle Lands`_. These are largely nomadic (or semi-nomadic) tribes and are not at all closely related. The number of offshoots are very small.
 
 
 Bimcho
 =======
 
-A tribe known as the Bimcho live on the open plains of Sulkor. They are nomadic hunters who in centuries past were warlike. While those tendencies have been suppressed they are still unpredictable and even dangerous at times. They commonly use both horses and elephants the later being a holy animal.
+A tribe known as the Bimcho live on the open plains of `Sulkor`_. They are nomadic hunters who in centuries past were warlike. While those tendencies have been suppressed they are still unpredictable and even dangerous at times. They commonly use both horses and elephants the later being a holy animal.
 
 
 Horse Runners
 ==============
 
-The western plains of Mostor are home to the nomadic tribe known as Horse Runners. These people hunt the wild herd animals of the plains from horse back. It is said they do everything from horseback. Sometimes they will raid a freehold or caravan. Mostly, they are peaceful. The horses they raise are highly valued for their speed and stamina. While the Horse Runners will not often trade their horses to outsiders it has happened.
+The western plains of `Mostor`_ are home to the nomadic tribe known as Horse Runners. These people hunt the wild herd animals of the plains from horse back. It is said they do everything from horseback. Sometimes they will raid a freehold or caravan. Mostly, they are peaceful. The horses they raise are highly valued for their speed and stamina. While the Horse Runners will not often trade their horses to outsiders it has happened.
 
 
 Mursha
 =======
 
-The mountain range between `Fellice`_ and Celyd, known as the Dagger Mountains, is a harsh land. In the hills surrounding the Dagger Mountains live the Mursha. Their villages are semi-permanent and they tend to winter in caves. The Mursha are a deeply spiritual people seeing their relationship with the land as a symbol of their worth as a people. "Treat the land as your brother." In their rite of passage they employ a fungus that grows deep in their winter caves which when imbibed as part of a ritual "shows the face of the brother" to them. They wear furs and use herd animal urine to mask their scent when hunting.
+The mountain range between `Fellice`_ and `Celyd`_, known as the Dagger Mountains, is a harsh land. In the hills surrounding the Dagger Mountains live the Mursha. Their villages are semi-permanent and they tend to winter in caves. The Mursha are a deeply spiritual people seeing their relationship with the land as a symbol of their worth as a people. "Treat the land as your brother." In their rite of passage they employ a fungus that grows deep in their winter caves which when imbibed as part of a ritual "shows the face of the brother" to them. They wear furs and use herd animal urine to mask their scent when hunting.
 
 
 Razlanchi
 ==========
 
-The western forest of Argos, near the boarders of Celyd and Sulkor are home to the Razlanchi. They make their villages high in the old trees and live in harmony with nature. Before hunting they pray, asking for both permission and forgiveness for the life taken. After the hunt another ritual is performed to offer thanks. Some of these tribes are elven, marriage between members of the human and elven tribes are not unheard of. The offspring of such unions are well treated.
+The western forest of `Argos`_, near the boarders of `Celyd`_ and `Sulkor`_ are home to the Razlanchi. They make their villages high in the old trees and live in harmony with nature. Before hunting they pray, asking for both permission and forgiveness for the life taken. After the hunt another ritual is performed to offer thanks. Some of these tribes are elven, marriage between members of the human and elven tribes are not unheard of. The offspring of such unions are well treated.
 
 
 Tribes of the Northern Wilds
@@ -3547,13 +3542,13 @@ The central tribe is really many clans, all of which are named after the clan‘
 Jute Rhone
 ===========
 
-The north west coastline is home to a tribe of whale hunters calling themselves Jute Rhone (Ice Runners). On the northern edge of the Sea of Storms the storms are no less fierce but are a little less common. They regularly contend with polar bear and ice giants. Jute Rhone practice plural/group marriage, with family units consisting of 3 or more adults who are mutually married to each other. The women are the primary hunters, as extra body fat and stamina are needed to survive the cold, harsh environment for long journeys across the ice. Parenting is dependent on the gender of the child- boys are only raised by men and girls are only raised by women. Girls are taken along for the hunt beginning at a very early age, but male children are left at home with the fathers to learn other skills, such as weapon making, carving, building and so on.
+The north west coastline is home to a tribe of whale hunters calling themselves Jute Rhone (Ice Runners). On the northern edge of the `Sea of Storms`_ the storms are no less fierce but are a little less common. They regularly contend with polar bear and ice giants. Jute Rhone practice plural/group marriage, with family units consisting of 3 or more adults who are mutually married to each other. The women are the primary hunters, as extra body fat and stamina are needed to survive the cold, harsh environment for long journeys across the ice. Parenting is dependent on the gender of the child- boys are only raised by men and girls are only raised by women. Girls are taken along for the hunt beginning at a very early age, but male children are left at home with the fathers to learn other skills, such as weapon making, carving, building and so on.
 
 
 Mako
 =====
 
-On the mountainous north east coastline live the Mako tribe. They see themselves as predators of the sea and their long boats are feared. The Ice Sea freezes over for two or three months each winter during which the Mako‘s are quiet. During that time ice giants can raid here but don't do so often as it is far from their home. While this tribe hunts seal and whale they also launch raids south into the Inner Sea. They trade with some of the dwarves of northern Rektor.
+On the mountainous north east coastline live the Mako tribe. They see themselves as predators of the sea and their long boats are feared. The Ice Sea freezes over for two or three months each winter during which the Mako‘s are quiet. During that time ice giants can raid here but don't do so often as it is far from their home. While this tribe hunts seal and whale they also launch raids south into the `Inner Sea`_. They trade with some of the dwarves of northern `Rektor`_.
 There are also a number of smaller tribes, most of which live in the mountains around the Frozen Waste. Some are human and a few are elven. They are generally hostile toward the Winter Guard who have a long history of attacking on sight.
 
 
@@ -3566,31 +3561,31 @@ The world is vast. As such, it has many languages even among humans. These langu
 Human Language Families
 ************************
 
-There are five language families for the humans. Three are spoken on Keltor, one north, one middle, and one south. The other two families of human languages are spoken by the people of Unetor and Rektor.
+There are five language families for the humans. Three are spoken on `Keltor`_, one north, one middle, and one south. The other two families of human languages are spoken by the people of Unetor and `Rektor`_.
 
 
 Novaskag
 =========
 
-Spoken in the northern area of Keltor, predominately in the Ice Kingdoms but also bleeding down into `Fellice`_. After the `Winter Wall`_ was built it cut off the north and restricted access to the majority of Novaskag dialects. Only one dialect, called simply Skag, is still spoken south of the Wall. It's seen, by citizens of the `Fellice`_, as a low language used by bumpkins living in remote mountain villages near the `Winter Wall`_. North of the `Winter Wall`_, it is the dominate language having at least a dozen dialects. These are spoken by the various human tribes of the Ice Kingdoms. Cross dialect understanding is very basic for Novaskag.
+Spoken in the northern area of `Keltor`_, predominately in the Ice Kingdoms but also bleeding down into `Fellice`_. After the `Winter Wall`_ was built it cut off the north and restricted access to the majority of Novaskag dialects. Only one dialect, called simply Skag, is still spoken south of the Wall. It's seen, by citizens of the `Fellice`_, as a low language used by bumpkins living in remote mountain villages near the `Winter Wall`_. North of the `Winter Wall`_, it is the dominate language having at least a dozen dialects. These are spoken by the various human tribes of the Ice Kingdoms. Cross dialect understanding is very basic for Novaskag.
 
 
 Luvic
 ======
 
-This is the language of the Middle Lands, as far as humans are concerned. There are half a dozen major dialects, all of which can communicate with some difficulty. The major dialects are:
+This is the language of the `Middle Lands`_, as far as humans are concerned. There are half a dozen major dialects, all of which can communicate with some difficulty. The major dialects are:
 
-* Danchu Luvic (a.k.a. Imperial Luvic) - Dominate along the Danchu river area, in both `Fellice`_ and Argos.
+* Danchu Luvic (*a.k.a. Imperial Luvic*) - Dominate along the Danchu river area, in both `Fellice`_ and `Argos`_.
 
-* Inner Luvic (a.k.a. Eastern Luvic) - Spoken across Mostor and along the eastern shore.
+* Inner Luvic (*a.k.a. Eastern Luvic*) - Spoken across `Mostor`_ and along the eastern shore.
 
-* Mountain Luvic (a.k.a. Northern Luvic) - Heard across `Fellice`_ and in northern sections of Celyd.
+* Mountain Luvic (*a.k.a. Northern Luvic*) - Heard across `Fellice`_ and in northern sections of `Celyd`_.
 
-* Storm Luvic (a.k.a. Western Luvic) - Popular along the western coast of Celyd and Sulkor.
+* Storm Luvic (*a.k.a. Western Luvic*) - Popular along the western coast of `Celyd`_ and `Sulkor`_.
 
-* Plains Luvic (a.k.a. Southern Luvic) - Almost exclusively used in the inland areas of Sulkor.
+* Plains Luvic (*a.k.a. Southern Luvic*) - Almost exclusively used in the inland areas of `Sulkor`_.
 
-* Yahsur Luvic (a.k.a. Republic Luvic) - Used in the interior of Celyd and along the Yahsur river.
+* Yahsur Luvic (*a.k.a. Republic Luvic*) - Used in the interior of `Celyd`_ and along the Yahsur river.
 
 Among the major dialects communication is possible but only with simple, direct language. Another dozen dialects are more removed or older and are spoken in remote areas. They can be hard to understand, even for a fluent speaker of one of the major dialects.
 
@@ -3604,7 +3599,7 @@ At least four dialects are used in the Spice Kingdoms. Also, a few other dialect
 Asurten
 ========
 
-There are three major dialects of this family spoken by the humans of Rektor. All have minor influences from the Dwarven language. It is believed that Asurten shares its origin with Hemtopie as the two follow structures that are either very close by design or an amazing coincidence of circumstance.
+There are three major dialects of this family spoken by the humans of `Rektor`_. All have minor influences from the Dwarven language. It is believed that Asurten shares its origin with Hemtopie as the two follow structures that are either very close by design or an amazing coincidence of circumstance.
 
 
 Quy
@@ -3640,7 +3635,7 @@ In its written form, there is only one version of Elvish in use. It's at least 4
 Gnomish (Tecken)
 =================
 
-Gnomes have three major dialects currently in wide use. One is Ancient, the others being Dawn (spoken in Rektor) and Dusk (spoken in Keltor). Ancient is spoken by historians and other scholars, it was the language used by gnomes before the Savage Time. Tecken has structures for exacting measurements.
+Gnomes have three major dialects currently in wide use. One is Ancient, the others being Dawn (spoken in `Rektor`_) and Dusk (spoken in `Keltor`_). Ancient is spoken by historians and other scholars, it was the language used by gnomes before the Savage Time. Tecken has structures for exacting measurements.
 
 
 Halfling (Looh)
@@ -3669,7 +3664,7 @@ While the history is not widely known, the roots of Common reach back to before 
 
 The Prime Order kept that ancient language from totally dying out. They used it as their language of knowledge and education. The books they wrote were written in it. About seven-hundred years ago, as the Prime Order began to spread across the known lands, Ag'rune was spread as well. It was resurrected. As their influence expanded, so did the use of that language. When they opened schools and began teaching, they taught Ag'rune. The children of the wealthy would learn from them. And, as the Order could, they would teach more and more children, regardless of status.
 
-Everywhere the Prime Order went, Ag'rune followed. But it was when Sapreen became the official home of the Order, just over five-hundred years ago, that changed the game. Sapreen is, just as it was then, a hub of trade on the Inner Sea. It was a simple matter for the Order to encourage their language of knowledge and learning to become the language of trade as well. Over the two-hundred years following that, Ag'rune would morph into Common. It evolved, changing and becoming more of an amalgamation, adding words from other languages. Roughly three-hundred years later, Common is the trade tongue and the language of educational institutions as well as the language books are published in. Half of all the Empire's citizens speak it. Because of the Order's dedication to education, 1 in 4 citizens can read and write Common. At least that many more are literate in another language.
+Everywhere the Prime Order went, Ag'rune followed. But it was when `Sapreen`_ became the official home of the Order, just over five-hundred years ago, that changed the game. `Sapreen`_ is, just as it was then, a hub of trade on the `Inner Sea`_. It was a simple matter for the Order to encourage their language of knowledge and learning to become the language of trade as well. Over the two-hundred years following that, Ag'rune would morph into Common. It evolved, changing and becoming more of an amalgamation, adding words from other languages. Roughly three-hundred years later, Common is the trade tongue and the language of educational institutions as well as the language books are published in. Half of all the Empire's citizens speak it. Because of the Order's dedication to education, 1 in 4 citizens can read and write Common. At least that many more are literate in another language.
 
 The current trend shows that Common has been displacing more and more human languages over the past two hundred years. This is expected to continue as the momentum shows no sign of slowing. Indeed, it is projected that the Empire will, for all practical purposes, have no other human languages in another two centuries. This is in sharp contrast to the last thousand years, at the beginning of which scholars estimate that over 50 human languages saw popular use. Having one language emerge as the dominate human tongue is having a positive effect on human cohesiveness and cooperation.
 
@@ -3697,7 +3692,7 @@ Dead Languages
 
 There are also a number of dead languages, some of which are dialects of existing families and others being of completely different, now extinct, families. Even if such a dead language is a dialect of a currently used language family it can easily be so far removed by time as to be completely foreign. To be clear, a dead language is no longer spoken for the purposes of everyday communication. Such a language may still be known by historians or other scholars and yet remain "dead" for all practical purposes.
 
-While not really common, there is a well documented practice of using words from dead languages for naming places. It is true that some of these places are so old that they may have been named before the language died, however, in many cases it is done to make the place seem older (more established) than it is. The borderlands in Mostor see this more often than other areas.
+While not really common, there is a well documented practice of using words from dead languages for naming places. It is true that some of these places are so old that they may have been named before the language died, however, in many cases it is done to make the place seem older (more established) than it is. The borderlands in `Mostor`_ see this more often than other areas.
 
 It is also common for ancient dead languages to find use in magic and rituals. Indeed, while Ag'rune, the bases of Common, was the language for knowledge, it was not the language of magic. Any scraps of magical text that have survived the Savage Time would be in any of a dozen, now dead, languages. Other dead languages are used to encode magical works of this age. It is likely that the more powerful/dangerous the magic is, the more obscure the dead language. Or possibly, the more paranoid the writer is.
 
@@ -3757,9 +3752,9 @@ History
 
 *Not all the information here should be known to the players at the start of the game.*
 
-The recorded history of the Middle Lands goes back about 2000 years to the "Savage Time". In this era it is said that "war raged and blood flowed and the sun hid while Death walked the land in mad glee". Records are spotty up until the last 500 or so years, when the Empire was founded. Some of the gaps are huge, covering centuries. The more recent times, such as the era of the Twelve Kingdoms, have smaller gaps. A basic time line of eras, as defined by scholars, is shown to the right.
+The recorded history of the `Middle Lands`_ goes back about 2000 years to the "Savage Time". In this era it is said that "war raged and blood flowed and the sun hid while Death walked the land in mad glee". Records are spotty up until the last 500 or so years, when the Empire was founded. Some of the gaps are huge, covering centuries. The more recent times, such as the era of the Twelve Kingdoms, have smaller gaps. A basic time line of eras, as defined by scholars, is shown to the right.
 
-The standard used by scholars and historians is the Simple Calendar (SC). It starts with the Savage Time, or at least where they think the Savage Time started. Most SC dates are not exact, at least the ones in the distant past aren't, but it gives a useful scale for historians. Most people are only concerned with the current era, the Middle Land Empire era (MLE). Naturally, these calendars are used by people of the Middle Lands and people in other lands have their own calendars. It is currently the year 543 MLE.
+The standard used by scholars and historians is the Simple Calendar (SC). It starts with the Savage Time, or at least where they think the Savage Time started. Most SC dates are not exact, at least the ones in the distant past aren't, but it gives a useful scale for historians. Most people are only concerned with the current era, the Middle Land Empire era (MLE). Naturally, these calendars are used by people of the `Middle Lands`_ and people in other lands have their own calendars. It is currently the year 543 MLE.
 
 
 The Savage Time
@@ -3813,13 +3808,13 @@ Fully garrisoned, the `Winter Wall`_ can contain over thirty-thousand troops plu
 Song of the Elves
 ******************
 
-The summer of 211 MLE saw the Inner Sea become a battleground between the Kingdom of Mostor and the Silk Web Kingdom, a.k.a. the Soltor elves. This war began with expansionist elements of House Canitus landing on Soltor late in 210 MLE with the intent of establishing a settlement. The elves living there were, and still are, a rather xenophobic lot and did not take kindly to the intrusion. When their warnings to leave were not heeded the elves killed every inhabitant of the new village and burned it to the ground. So began a conflict that would quickly escalate over the next few months taking hundreds of lives and disrupting a significant portion of trade in the Narrow Sea.
+The summer of 211 MLE saw the `Inner Sea`_ become a battleground between the Kingdom of `Mostor`_ and the Silk Web Kingdom, a.k.a. the Soltor elves. This war began with expansionist elements of House Canitus landing on Soltor late in 210 MLE with the intent of establishing a settlement. The elves living there were, and still are, a rather xenophobic lot and did not take kindly to the intrusion. When their warnings to leave were not heeded the elves killed every inhabitant of the new village and burned it to the ground. So began a conflict that would quickly escalate over the next few months taking hundreds of lives and disrupting a significant portion of trade in the Narrow Sea.
 
 Understanding the enemy is paramount but it was very difficult for human to understand elf. Elves see centuries as humans see decades. Their long memory took the vast majority of elves to Soltor in the early part of the Savage Time. There they remain to this day, sequestered away from the rest of the world and determined not to allow non-elf settlement of Soltor. The one exception being a tribe of halflings that have some claim to Soltor. The elves keep secret what is held in their memory. So, the humans had little to no understanding of their elven neighbors or elven motives. This led to war.
 
-House Canitus retaliated against the elves and the elves went on the offensive. The combat steadily escalated over the next year. While there was considerable bloodshed resulting from the clash between naval forces of Mostor and the Silk Web, it was the economic impact that would draw imperial attention. Trade in the southern section of the Inner Sea slowed as the elves began to attack all human vessels indiscriminately. Basically, any human ship coming within fifty miles of the Soltor coastline was in danger of being attacked. By making use of Keltor's elven tribes to liaise, House Kalistic made contact with Soltor and directly negotiated the Treaty of Song to restore peace to the region.
+House Canitus retaliated against the elves and the elves went on the offensive. The combat steadily escalated over the next year. While there was considerable bloodshed resulting from the clash between naval forces of `Mostor`_ and the Silk Web, it was the economic impact that would draw imperial attention. Trade in the southern section of the `Inner Sea`_ slowed as the elves began to attack all human vessels indiscriminately. Basically, any human ship coming within fifty miles of the Soltor coastline was in danger of being attacked. By making use of `Keltor`_'s elven tribes to liaise, House Kalistic made contact with Soltor and directly negotiated the Treaty of Song to restore peace to the region.
 
-The treaty is verbose, the main thing that it does is provide trade routes that open Soltor to the rest of the world. The city of Mischihoon being established as a direct result. Another main point is that anyone making landfall outside of Mischihoon is subject to elven law which will classify such parties as invaders. Under elven law invaders can be repulsed by any means necessary.
+The treaty is verbose, the main thing that it does is provide trade routes that open Soltor to the rest of the world. The city of `Mischihoon`_ being established as a direct result. Another main point is that anyone making landfall outside of `Mischihoon`_ is subject to elven law which will classify such parties as invaders. Under elven law invaders can be repulsed by any means necessary.
 
 
 Establishing the Spice Road
@@ -3836,7 +3831,7 @@ Under the treaty every clan gets a fee for allowing a caravan to move within the
 The treaty, in addition to laying down rules for fees and movement in the `Great Desert`_, also outlines rules of behavior for anyone in the caravan. These provisos are there to smooth relations between the people of the caravan and the clan guides and guards. Such activities as a morning greeting to any that offer one and which foods are not allowed and set times of day for pauses and which plants must never be damaged go a long way to fostering good relations with the desert clans. They see respecting their culture as a direct relation to how well they themselves are respected. Caravan workers that fail to follow the rules are quickly dismissed from service as the caravan can be fined for not living up to the treaty. By far the most harsh rule is that caravans must carry in all the water they will need and can not resupply from water sources found in the desert without special permission from the clan owning that source. As water is a matter of life and death to the clan, such permission is rarely given.
 
 Eventually, the treaty was frozen because each time a new clan was added it would cut the amount of compensation for all the other clans. This has led to open hostility from some of the clans that want in and are denied. At times such a clan has been known to raid a caravan or two a season in way of revenge. There are currently five distinct routes that are part of the White Sands accord. Each has advantages and disadvantages. Some are faster or come out closer to one southern city then another or have a smaller chance of bandit encounters. All routes have dangers; the beasts of the desert and the restless ones [#restless]_ have no respect for tribal boundaries.
-Out of all this, House Roesoon also got some special treatment. Caravans backed by them get a substantial price break on passage fees. As to the fees, all of them are collected in Ahlabim and distributed to each clan in bulk, eight times a year. Four of those times, the fees are taken to the clans and the other four times representatives of each clan go to Ahlabim to collect. Record keeping is meticulous on both sides and in the event of a discrepancy, third party arbitration is used to settle the matter. So far the system has worked out well and both sides have profited under the treaty.
+Out of all this, House Roesoon also got some special treatment. Caravans backed by them get a substantial price break on passage fees. As to the fees, all of them are collected in `Ahlabim`_ and distributed to each clan in bulk, eight times a year. Four of those times, the fees are taken to the clans and the other four times representatives of each clan go to `Ahlabim`_ to collect. Record keeping is meticulous on both sides and in the event of a discrepancy, third party arbitration is used to settle the matter. So far the system has worked out well and both sides have profited under the treaty.
 
 .. [#restless] The term "Restless Ones" is used by desert people as a general reference to undead.
 
@@ -3844,29 +3839,29 @@ Out of all this, House Roesoon also got some special treatment. Caravans backed 
 Founding a Republic
 ********************
 
-In 478 MLE, king Bartimus Arrnas puts a plan into motion to take the Imperial Throne from House Kalistic. He was cruel and ruled by fear, both traits for which his people resented him. This resentment was the key to his downfall. While king Arrnas worked on his plan, lord Gavin Nentus worked on a counter movement to overthrow him. Many influential citizens of Celyd sided with House Nentus and the revolution gained both form and momentum.
+In 478 MLE, king Bartimus Arrnas puts a plan into motion to take the Imperial Throne from House Kalistic. He was cruel and ruled by fear, both traits for which his people resented him. This resentment was the key to his downfall. While king Arrnas worked on his plan, lord Gavin Nentus worked on a counter movement to overthrow him. Many influential citizens of `Celyd`_ sided with House Nentus and the revolution gained both form and momentum.
 
 Once hard evidence of House Arrnas' plan was in lord Nentus' hands he took it to the Imperial Throne along with his plans to overthrow king Arrnas. Presented with the problem and a convenient solution that would keep imperial forces from being tied up in a protracted war, the rebellion gain imperial consent and a level of legitimacy that drastically increased its chance of success. In less then a year's time, House Arrnas found itself alone and in a pitched battle for survival. The fact that no help was given by the empire told House Arrnas that their secret plans for taking control of the empire were not as secret as they had hoped.
 
-With his desire to take the Imperial Throne dashed and the looming possibility of losing his kingdom, king Arrnas enacted desperate measures to retain his power base. Thousands of rebels were executed in the most public and horrible manners possible. Their corpses hung from Lechwed's walls was suppose to take the, mostly peasant, rebel army's will to fight. However, the effect it had was not the one king Arrnas had wanted. The rebels were enraged and more citizens joined them. By the end, an army of over one- hundred-thousand peasants and warriors from other Houses stormed the city of Lechwed. Entire sections of the city were burned, under orders of king Arrnas, killing masses of rebels and non-rebel commoners. It was a bloody battle and would be remembered for generations.
+With his desire to take the Imperial Throne dashed and the looming possibility of losing his kingdom, king Arrnas enacted desperate measures to retain his power base. Thousands of rebels were executed in the most public and horrible manners possible. Their corpses hung from `Lechwed`_'s walls was suppose to take the, mostly peasant, rebel army's will to fight. However, the effect it had was not the one king Arrnas had wanted. The rebels were enraged and more citizens joined them. By the end, an army of over one- hundred-thousand peasants and warriors from other Houses stormed the city of `Lechwed`_. Entire sections of the city were burned, under orders of king Arrnas, killing masses of rebels and non-rebel commoners. It was a bloody battle and would be remembered for generations.
 
-Former king Bartimus Arrnas was captured and quickly killed by a peasant mob. It was a very bloody death made all the more humiliating in that it was at the hands of commoners. Stories say, he was ripped apart by the mob's bare hands and pure hate. House Nentus quickly took steps to carry out covert orders from the Imperial Throne, killing all the heirs of king Arrnas. Then the turning point came. House Nentus surprised everyone by fulfilling a promise it made to various key commoner players in the rebellion. They suggested and backed a reformation plan that would make Celyd a republic rather than reinstalling the traditional monarchy.
+Former king Bartimus Arrnas was captured and quickly killed by a peasant mob. It was a very bloody death made all the more humiliating in that it was at the hands of commoners. Stories say, he was ripped apart by the mob's bare hands and pure hate. House Nentus quickly took steps to carry out covert orders from the Imperial Throne, killing all the heirs of king Arrnas. Then the turning point came. House Nentus surprised everyone by fulfilling a promise it made to various key commoner players in the rebellion. They suggested and backed a reformation plan that would make `Celyd`_ a republic rather than reinstalling the traditional monarchy.
 
 There has been speculation that a rebellion based more in the power of the commoners caused no small amount of fear in House Nentus that a similar event would occur should they buy off the major commoner supporters rather then fulfill semi-secret promises to back an alternate form of government. In the end, it was the need for imperial support that altered the reformation plan and allowed nobles to maintain the level of control they have. There was a big difference between overthrowing a cruel king with the empire's support and breaking away from the empire altogether.
 
-In the end, House Arrnas was torn apart. The nobles of Celyd retained a fair portion of their power and wealth. The commoners were appeased. House Nentus gained considerable power and wealth. The peace of the empire was maintained and a republic was born.
+In the end, House Arrnas was torn apart. The nobles of `Celyd`_ retained a fair portion of their power and wealth. The commoners were appeased. House Nentus gained considerable power and wealth. The peace of the empire was maintained and a republic was born.
 
-It is worth noting that the mostly peasant army that took Lechwed was, and still is, the largest army put to field in the history of the empire. Wars are most often fought on a smaller scale. Prior to this event, the distinction of largest fighting forces mobilized was held by the Latter Formation Wars of 14 MLE during which all sides fielded an estimated 63,000 warriors. Historically speaking, a typical battle during MLE would have 4,000 to 6,000 combatants total.
+It is worth noting that the mostly peasant army that took `Lechwed`_ was, and still is, the largest army put to field in the history of the empire. Wars are most often fought on a smaller scale. Prior to this event, the distinction of largest fighting forces mobilized was held by the Latter Formation Wars of 14 MLE during which all sides fielded an estimated 63,000 warriors. Historically speaking, a typical battle during MLE would have 4,000 to 6,000 combatants total.
 
 
 Magic
 ######
 
-Not all the information here should be known to the players at the start of the game. While magic is not unknown in the Middle Lands it could be called rare outside of the major cities. The same is true of magical items. Potions are common enough in most places (at least the herbal based healing variety) but magic weapons and the like are rare beyond major population centers. Magic inspires awe as easily as fear in the common people.
+Not all the information here should be known to the players at the start of the game. While magic is not unknown in the `Middle Lands`_ it could be called rare outside of the major cities. The same is true of magical items. Potions are common enough in most places (at least the herbal based healing variety) but magic weapons and the like are rare beyond major population centers. Magic inspires awe as easily as fear in the common people.
 
 Divine magic is the most common by far but it's not so common that everyone has access to it. In fact, herbal remedies are how the common folk get by. The average person can easily go their whole life without having been healed of any disease or injury by divine magic. A large city will typically have several hundred casters of divine magic among its populous. A small town is lucky to have one. Expressed as a ratio of divine casters to the general population 1 : 200 would be a fair estimate.
 
-Arcane magic is very rare. The average large city may only have a few dozen casters of arcane magic at best. An estimated ratio of arcane casters to the general population would be on the order of 1 : 3000. As a side effect, most common folk have no idea what an arcane caster is capable of and hence wild rumors abound. This leads to fear and the possibility of hostility toward arcane magic users in the more remote areas of the Middle Lands. The smart wizard will keep a low profile in such remote regions. All wizards remember that legends told by commoners say magic was responsible for the Savage Time.
+Arcane magic is very rare. The average large city may only have a few dozen casters of arcane magic at best. An estimated ratio of arcane casters to the general population would be on the order of 1 : 3000. As a side effect, most common folk have no idea what an arcane caster is capable of and hence wild rumors abound. This leads to fear and the possibility of hostility toward arcane magic users in the more remote areas of the `Middle Lands`_. The smart wizard will keep a low profile in such remote regions. All wizards remember that legends told by commoners say magic was responsible for the Savage Time.
 
 The use of magic in warfare is limited. This is both a factor of how rare it is as well as an active campaign by users of magic to avoid being tools in the hands of nobles and other wagers of war. Due to this, exceptionally few wizards will even think of setting up a school in a city not ruled by wizards. This does not mean a wizard will not take an apprentice or two regardless of where they live. Those that dare open true schools in unapproved cities will find an endless stream of wizards coming to close it down by whatever means are necessary. Priest are not so extreme but they also have a faith to spread as well. They tend toward frightening nobles and leaders with retribution from their deity should the noble try to force a distasteful service from the priest. All firmly hold that casting spells is not a business and doing so for gold is generally distasteful. This makes spell casters for hire rare.
 
@@ -4488,18 +4483,31 @@ Just as with spells, some magic items are very hard to come by. Anything that br
 Some of the items that are almost impossible to get are listed below, this is far from a complete list:
 
 * Amulet of the Planes
+
 * Candle of Invocation (No Gate effect)
+
 * Cloak of Etherealness
+
 * Cubic Gate
+
 * Dimensional Shackles
+
 * Efreeti Bottle
+
 * Elemental Gem
+
 * Iron Flask
+
 * Ring of Djinni Calling
+
 * Ring of Elemental Command
+
 * Ring of Three Wishes (or any # of wishes)
+
 * Staff of Passage
+
 * Strand of Prayer Beads (No Summoning beads)
+
 * Well of Many Worlds
 
 Alternate items are available in some cases. As example, both the Candle of Invocation and the Strand of Prayer Beads can have alternate versions which don't include the restricted effects (Gate/Summon). This can be the case for many items with multiple effects where only one or two are on the restricted list.
@@ -4571,7 +4579,7 @@ This item appears to be a very finely crafted tablecloth. Once each day, when th
 Deities
 ########
 
-There are a number of religions in the Middle Lands and hence a number of deities. Every race has their own deities but some are worshipped by members of more than one race. What follows are many of the major deities of the Middle Lands. The list given for each race is not a complete list.
+There are a number of religions in the `Middle Lands`_ and hence a number of deities. Every race has their own deities but some are worshipped by members of more than one race. What follows are many of the major deities of the `Middle Lands`_. The list given for each race is not a complete list.
 
 
 Dwarven
@@ -4689,7 +4697,7 @@ The god of hearth, home and hospitality. Zaphkah is the power of the hearth, the
 Human - New Gods
 *****************
 
-These are the majority of gods worshiped by humans since the end of the Savage Time. When humans turned their backs on the Old Gods many of them found that they still needed something to inspire them and give faith and hope. So, other deities were embraced to fill that spiritual void. What mattered most, at the time, was that these deities have nothing to do with the carnage of the Savage Time. Now called the New Gods, ironically, some came from older pantheons that were no longer worshipped. Others came from tribal cultures. A few were co-opted from other races. In the end, humans of the Middle Lands were very flexible when it came to deities. Faith and belief were important and finding something to believe in again was necessary in those dark times. The same is true today, a few humans can be found worshiping just about any deity in the Middle Lands even if they are outside this pantheon.
+These are the majority of gods worshiped by humans since the end of the Savage Time. When humans turned their backs on the Old Gods many of them found that they still needed something to inspire them and give faith and hope. So, other deities were embraced to fill that spiritual void. What mattered most, at the time, was that these deities have nothing to do with the carnage of the Savage Time. Now called the New Gods, ironically, some came from older pantheons that were no longer worshipped. Others came from tribal cultures. A few were co-opted from other races. In the end, humans of the `Middle Lands`_ were very flexible when it came to deities. Faith and belief were important and finding something to believe in again was necessary in those dark times. The same is true today, a few humans can be found worshiping just about any deity in the `Middle Lands`_ even if they are outside this pantheon.
 
 So, the New Gods are kind of a hodgepodge and until the seal broke they were worshiped without being able to interact with their followers. When the seal did break they reached out to their followers and gave the most devout the gift of magic. Without that it would have taken longer for people to see magic was back in the World.
 
@@ -4719,7 +4727,7 @@ Janumorn
 
 *a.k.a. Water Rider*
 
-Favored among the west coastline settlements, the Water Rider is seen as a god of luck and the sea. Any who sail the Sea of Storms would do well to honor Janumorn. He is said to ride a horse of living water that dances across the sea spray. Both dawn and dusk are holy times for his followers. The sea horse is his symbol.
+Favored among the west coastline settlements, the Water Rider is seen as a god of luck and the sea. Any who sail the `Sea of Storms`_ would do well to honor Janumorn. He is said to ride a horse of living water that dances across the sea spray. Both dawn and dusk are holy times for his followers. The sea horse is his symbol.
 
 Nisvaloon
 ==========
@@ -4771,7 +4779,7 @@ The Old Gods are no longer widely worshipped because they are blamed for the des
 
 Some scholars think that the stories which have survived to the current time are not representative of the Old Gods. The surviving stories show a distrust and unease between mortal and immortal. Regardless of if the legends are wrong or right or have only the smallest grain of truth left in them is irrelevant. It all serves to keep the Old Gods alive in the hearts and minds of the people.
 
-While the Old Gods are mostly forsaken not everyone has turned from them. Some of the remote tribes worship them as do some of the citizens of the Middle Lands. It is not overly popular to call upon them but, in most places, it is not forbidden either. Very few settlements have temples for them however, some ruined temples can be found in the wilderness. There are even secret societies devoted to them. To be worshiped or feared makes little difference to the Old Gods so long as they are remembered, that is all that matters to them.
+While the Old Gods are mostly forsaken not everyone has turned from them. Some of the remote tribes worship them as do some of the citizens of the `Middle Lands`_. It is not overly popular to call upon them but, in most places, it is not forbidden either. Very few settlements have temples for them however, some ruined temples can be found in the wilderness. There are even secret societies devoted to them. To be worshiped or feared makes little difference to the Old Gods so long as they are remembered, that is all that matters to them.
 
 
 Bantus
@@ -4909,13 +4917,13 @@ Deceit and plotting are like breathing to followers of Untah. As a result, these
 Creatures
 ##########
 
-Not all the information here should be known to the players at the start of the game. Not all monsters are found in the Middle Lands. In fact, when compared to other areas of the world, the Middle Lands have a lower density of monsters and less variety. With that in mind, remember that the GM can do as they like.
+Not all the information here should be known to the players at the start of the game. Not all monsters are found in the `Middle Lands`_. In fact, when compared to other areas of the world, the `Middle Lands`_ have a lower density of monsters and less variety. With that in mind, remember that the GM can do as they like.
 
 
 Creatures of Keltor
 ********************
 
-Below is a list of creatures indigenous to the Middle Lands of Keltor and a recommended encounter frequency. Encountering any creature is always possible thanks to summoning and the like. This section is broken into three groups, above ground creatures, underground creatures, and normal animals. It should be noted that the lack of extra-planar creatures is due to this world's history.
+Below is a list of creatures indigenous to the `Middle Lands of Keltor <Middle Lands_>`_ and a recommended encounter frequency. Encountering any creature is always possible thanks to summoning and the like. This section is broken into three groups, above ground creatures, underground creatures, and normal animals. It should be noted that the lack of extra-planar creatures is due to this world's history.
 
 In the below lists more than one encounter frequency are listed when rates are specific for one kind of location.
 
@@ -5329,7 +5337,7 @@ In the below lists more than one encounter frequency are listed when rates are s
 Extended Creature Details
 **************************
 
-This section has more details dealing with the creatures that live in the Middle Lands.
+This section has more details dealing with the creatures that live in the `Middle Lands`_.
 
 
 Boggards
@@ -5337,7 +5345,7 @@ Boggards
 
 Boggards stand 5 feet tall and weigh close to 200 pounds, however they tend to look shorter due to a hunched posture. While they are often found in swampy areas, the boggard also inhabit rain forests, damp caves, and any other places that are wet and shady as they need to dampen their skin often. Another key factor will be spawning pools which boggards will want to protect.
 
-In the Middle Lands, boggards are a bit smarter than the normal variety, gaining a +1 to intelligence. This translates to better tactics. In particular, their use of "the chorus". This strategy is used to maximize the usefulness of their Terrifying Croak ability. The first three rounds of any combat one third of the boggards use their Terrifying Croak. In this way they ensure maximum fear. Additionally, when their numbers are great enough, they will employ their Sticky Tongue to pacify an opponent, by making grapple attacks with a minimum of three boggards using their tongues on a single opponent and working together in the grapple. Coupled with ambush tactics, this makes boggards a more feared opponent.
+In the `Middle Lands`_, boggards are a bit smarter than the normal variety, gaining a +1 to intelligence. This translates to better tactics. In particular, their use of "the chorus". This strategy is used to maximize the usefulness of their Terrifying Croak ability. The first three rounds of any combat one third of the boggards use their Terrifying Croak. In this way they ensure maximum fear. Additionally, when their numbers are great enough, they will employ their Sticky Tongue to pacify an opponent, by making grapple attacks with a minimum of three boggards using their tongues on a single opponent and working together in the grapple. Coupled with ambush tactics, this makes boggards a more feared opponent.
 
 Boggards form organized bands and are always led by a large and powerful individual. On average, these groups number 30 to 40 boggards. They will make small settlements of mud huts. While they are aggressive, they do not often seek raiding with the fervor of goblins or orcs. The exception being when their shaman motivate them with religious rantings of star alignments and the like.
 
@@ -5355,7 +5363,7 @@ Bugbears do not build large settlements, their nature is too volatile for that. 
 Centaurs
 =========
 
-Centaurs average 7 feet tall and about 2,000 pounds. They live in semi-nomadic tribes on the plains and in the forests of the Middle Lands. These tribes average around 20 to 30 mated pairs and another 20 to 30 young centaurs and another 10 or so elders. For the most part, centaur tribes have peaceful interactions with their brethren. They are natural storytellers with a rich oral history. While they do keep written records, it is considered a backup for the oral tradition. The legends of centaur prowess with the bow are not without base. While bow hunting feeds most centaur they do grow some crops as well. Their herb gardens are almost as legendary as their abilities with a bow.
+Centaurs average 7 feet tall and about 2,000 pounds. They live in semi-nomadic tribes on the plains and in the forests of the `Middle Lands`_. These tribes average around 20 to 30 mated pairs and another 20 to 30 young centaurs and another 10 or so elders. For the most part, centaur tribes have peaceful interactions with their brethren. They are natural storytellers with a rich oral history. While they do keep written records, it is considered a backup for the oral tradition. The legends of centaur prowess with the bow are not without base. While bow hunting feeds most centaur they do grow some crops as well. Their herb gardens are almost as legendary as their abilities with a bow.
 
 Centaurs are not generally friendly with dwarves. They tolerate gnomes and halflings. They are friendly with elves and like wood elves. Humans have a special place in the hearts of most centaurs, a place filled with deep hatred. Centaur history says humans are the cause of the Savage Time and the centaur nation suffered greatly during that era. The great old cities were destroyed and the centaurs were scattered. Additionally, the centaur bloodline was cursed. They call this curse the Sorrow. According to the old tales the curse demands that any city they seek to build will fall until "no stone stands upon another". All centaur believe this to be true as there are many stories of centaur since that time trying to start cities and having them destroyed at every turn. So, this leaves the centaur, as a people, feeling bereft and vagabond like. They still blame humans and as a result the hatred of them is widespread. While they do not go so far as to attack humans on sight, they are unpleasant toward them and will use the slightest of provocations to justify an escalation of hostility.
 
@@ -5367,7 +5375,7 @@ Lone centaur do roam the land and from time to time they will enter the settleme
 Cyclopes
 =========
 
-These beasts are all but unknown in the Middle Lands. They are more common in the Spice Kingdoms and on very rare occasion found inhabiting the warm islands in the Narrow Sea. While finding a cyclops on one of these islands is rare, it is even more rare that the explorer gets away from them. There are legends of ruins in the deep south jungles of the Spice Kingdoms which are suppose to be from a mighty cyclops civilization.
+These beasts are all but unknown in the `Middle Lands`_. They are more common in the Spice Kingdoms and on very rare occasion found inhabiting the warm islands in the Narrow Sea. While finding a cyclops on one of these islands is rare, it is even more rare that the explorer gets away from them. There are legends of ruins in the deep south jungles of the Spice Kingdoms which are suppose to be from a mighty cyclops civilization.
 
 
 Derro
@@ -5411,7 +5419,7 @@ The names of the not so well known fey vary from place to place. Local environme
 The Death Portent
 ~~~~~~~~~~~~~~~~~~
 
-Some fey are drawn to death. When the specter of death cast its shadow on a mortal's soul, such fey may come around. This is a rare event, most mortals fated to die will never know. However, when they do show up, sometimes it is for the spectacle of the death and other times for their own reasons. There are several legends of the Death Portent fey spirit found in the folklore of the Middle Lands. Two well known examples follow.
+Some fey are drawn to death. When the specter of death cast its shadow on a mortal's soul, such fey may come around. This is a rare event, most mortals fated to die will never know. However, when they do show up, sometimes it is for the spectacle of the death and other times for their own reasons. There are several legends of the Death Portent fey spirit found in the folklore of the `Middle Lands`_. Two well known examples follow.
 
 
 Ember Eyes
@@ -5437,7 +5445,7 @@ This type of fey is bound to a dwelling, commonly a rural dwelling. Urban places
 Belnik
 ++++++++
 
-The people of the Middle Lands have half a dozen different common names for the house spirit (Belnik, Flingsom, Muldrez, Hopwevs, Ulfston and Aprozi), all referring to the same type of fey. Appearance also differs with region and name. In Sulkor the most common manifestation is called a Belnik, which resembles a five inch tall, bald, elderly male, with dark green leathery skin, a wide brim hat, a cane, and a pipe. Belnik warn their family of dangers like fires and intruders, often doing so by striking metal pots or pans with their cane. They have a taste for beer when the moon is full.
+The people of the `Middle Lands`_ have half a dozen different common names for the house spirit (Belnik, Flingsom, Muldrez, Hopwevs, Ulfston and Aprozi), all referring to the same type of fey. Appearance also differs with region and name. In `Sulkor`_ the most common manifestation is called a Belnik, which resembles a five inch tall, bald, elderly male, with dark green leathery skin, a wide brim hat, a cane, and a pipe. Belnik warn their family of dangers like fires and intruders, often doing so by striking metal pots or pans with their cane. They have a taste for beer when the moon is full.
 
 
 Flingsom
@@ -5449,25 +5457,25 @@ People along the Nocmal river have their own brand of house spirit called a Flin
 Hopwev
 ++++++++
 
-House spirits found on the western coast, along the Sea of Storms, are called Hopwevs and look like hares with hands at the end of their long ears. They commonly scream to scare off intruders and throw tiny rocks at the front windows to warn the family when livestock is getting sick. Families should leave a gift of dried fruit on the hearth to appease the Hopwev.
+House spirits found on the western coast, along the `Sea of Storms`_, are called Hopwevs and look like hares with hands at the end of their long ears. They commonly scream to scare off intruders and throw tiny rocks at the front windows to warn the family when livestock is getting sick. Families should leave a gift of dried fruit on the hearth to appease the Hopwev.
 
 
 Aprozi
 +++++++
 
-Mostor's most common type of house spirit is dubbed an Aprozi. Appearing as a two foot tall, red skinned woman with bat-like ears, tiny sharp teeth, and almond shaped eyes which have cat like pupils. She is attracted to babies and small children whom she will watch over, biting anything that threatens her ward. Indeed, children will often see them until they lose their first baby tooth, at which point the fey will consider the child too old for such contact but will still protect the child unseen. She will also steal the teeth as they are lost. Aprozi will move on should the home have no children with baby teeth remaining. The legends warn that should the Aprozi love the child too much they will take it away to the fey city in the Between Land. Aprozi should never be fed by the child as that may make them become too attached to their ward.
+`Mostor`_'s most common type of house spirit is dubbed an Aprozi. Appearing as a two foot tall, red skinned woman with bat-like ears, tiny sharp teeth, and almond shaped eyes which have cat like pupils. She is attracted to babies and small children whom she will watch over, biting anything that threatens her ward. Indeed, children will often see them until they lose their first baby tooth, at which point the fey will consider the child too old for such contact but will still protect the child unseen. She will also steal the teeth as they are lost. Aprozi will move on should the home have no children with baby teeth remaining. The legends warn that should the Aprozi love the child too much they will take it away to the fey city in the Between Land. Aprozi should never be fed by the child as that may make them become too attached to their ward.
 
 Ulfston
 ++++++++
 
-One of the common house spirits of Argos, the Ulfston, has a special love of horses. They will often braid the mane and/or tail of any horses on the property. These braids are very complex and beautiful. Sometimes the Ulfston will even shoe a horse in exchange for a cup of hot very sweet tea and a bit of buttered toast. Finally, while they are never seen, Ulfston are heard, from time to time, to whistle. The whistle often warns of danger.
+One of the common house spirits of `Argos`_, the Ulfston, has a special love of horses. They will often braid the mane and/or tail of any horses on the property. These braids are very complex and beautiful. Sometimes the Ulfston will even shoe a horse in exchange for a cup of hot very sweet tea and a bit of buttered toast. Finally, while they are never seen, Ulfston are heard, from time to time, to whistle. The whistle often warns of danger.
 
 Muldrez
 ++++++++
 
-The Muldrez are only known to inhabit dwellings in the hills or mountainous regions of the Middle Lands. While rarely seen, they appear as a squat porcupine like, bipedal, critter standing little more than fifteen inches high yet having hands the size of a grown man's. Muldrez fiercely protect their home and its occupants. Any that seek to harm these people will be viciously cursed by the fey. More importantly, at least to most of those lucky enough to live with a Muldrez, they will fetch water every morning. One or more buckets of water will be placed on the front doorstep without fail. This service is not free, the fey expects a refreshing beverage will be left on the front doorstep in the evening, one for each bucket of water brought that morning. A small cup of milk or tea or wine will suffice but which depends on the tastes of the individual fey. Failing to put out the cups will annoy the Muldrez. The first time is forgiven if extra cups are put out later. But if three consecutive nights go by without, then the water stops as well. The fey will spend the next lunar cycle making life unbearable for the inhabitants before moving on.
+The Muldrez are only known to inhabit dwellings in the hills or mountainous regions of the `Middle Lands`_. While rarely seen, they appear as a squat porcupine like, bipedal, critter standing little more than fifteen inches high yet having hands the size of a grown man's. Muldrez fiercely protect their home and its occupants. Any that seek to harm these people will be viciously cursed by the fey. More importantly, at least to most of those lucky enough to live with a Muldrez, they will fetch water every morning. One or more buckets of water will be placed on the front doorstep without fail. This service is not free, the fey expects a refreshing beverage will be left on the front doorstep in the evening, one for each bucket of water brought that morning. A small cup of milk or tea or wine will suffice but which depends on the tastes of the individual fey. Failing to put out the cups will annoy the Muldrez. The first time is forgiven if extra cups are put out later. But if three consecutive nights go by without, then the water stops as well. The fey will spend the next lunar cycle making life unbearable for the inhabitants before moving on.
 
-While these are the most common house spirits in the Middle Lands they are not the only ones to be found. Many others are out there, perhaps dozens more. All are a little different and all are tied to local myth and legend.
+While these are the most common house spirits in the `Middle Lands`_ they are not the only ones to be found. Many others are out there, perhaps dozens more. All are a little different and all are tied to local myth and legend.
 
 
 The Sad Ones
@@ -5477,7 +5485,7 @@ This group of fey spirits are unique in that they all began as mortals. Mortal c
 
 The Sad Ones have many of the memories of the child whose death spawned them. They are lonely and want to play with other children but they are bound to the place they died, or places very much like them, hence the wide spread popularity of some of the Sad Ones. These are all places children are not allowed to play in. So, the Sad Ones must lure the children in and then, try to keep them. Alive or not.
 
-When parents warn their children to stay away from those caves on the hill or they'll join Bloody Bradly, who died there some years ago, they are birthing a legend that could become real by way of fey magic and their belief. Some of the commonly known Sad Ones in the Middle Lands include, Mickey "the White" Bryce who uses his long bony arms to pull children through the ice. Laughing Lana cunningly tricks children into looking down the well then pushes them in where she keeps them until they die, licking their tears for pleasure. Then there's Wee Abner who catches children unaware as they look over the edge of the precipice and pushes them into the ravine. Finally, Annie Blackeye lures children into the bog where her strong hands pull them into the muck. In all these cases the local folklore says the former child, now beast, died and inhabits a nearby place that fits its legend. As example, Wee Abner is always near a canyon or an overlook or a ravine. Some high place that a child could fall, or be pushed, from.
+When parents warn their children to stay away from those caves on the hill or they'll join Bloody Bradly, who died there some years ago, they are birthing a legend that could become real by way of fey magic and their belief. Some of the commonly known Sad Ones in the `Middle Lands`_ include, Mickey "the White" Bryce who uses his long bony arms to pull children through the ice. Laughing Lana cunningly tricks children into looking down the well then pushes them in where she keeps them until they die, licking their tears for pleasure. Then there's Wee Abner who catches children unaware as they look over the edge of the precipice and pushes them into the ravine. Finally, Annie Blackeye lures children into the bog where her strong hands pull them into the muck. In all these cases the local folklore says the former child, now beast, died and inhabits a nearby place that fits its legend. As example, Wee Abner is always near a canyon or an overlook or a ravine. Some high place that a child could fall, or be pushed, from.
 
 There are many more forms of fey then the ones described here. The folklore has hundreds of stories regarding fey. While Fey often stay in the Between Land many spend significant time in this world.
 
@@ -5485,7 +5493,7 @@ There are many more forms of fey then the ones described here. The folklore has 
 Giants
 ========
 
-In the Middle Lands, when someone talks about a giant they mean a hill giant as that is the common type of giant familiar to people of the Empire. While stone giants can be found in the mountains they are so rare as to be virtually unknown by most people. There has not been a credible recorded sighting of a frost or fire giant in three hundred years. And a storm, or cloud giant in over a thousand years. So, the tales of larger, more powerful, and smarter giants than the hill variety are dismissed as travelers' exaggerations. That is not to say they don't exist, only that none have lived to tell the tale. That said, fire giants are found in the Spice Kingdoms. Frost giants are north of the winter wall. Cloud giants live mostly in Rektor. Finally, storm giants may have vanished from the mortal world altogether. The last
+In the `Middle Lands`_, when someone talks about a giant they mean a hill giant as that is the common type of giant familiar to people of the Empire. While stone giants can be found in the mountains they are so rare as to be virtually unknown by most people. There has not been a credible recorded sighting of a frost or fire giant in three hundred years. And a storm, or cloud giant in over a thousand years. So, the tales of larger, more powerful, and smarter giants than the hill variety are dismissed as travelers' exaggerations. That is not to say they don't exist, only that none have lived to tell the tale. That said, fire giants are found in the Spice Kingdoms. Frost giants are north of the winter wall. Cloud giants live mostly in `Rektor`_. Finally, storm giants may have vanished from the mortal world altogether. The last
 "documented" encounter with storm giants took place on an uncharted island deep in the Sea of Storm.
 
 
@@ -5509,7 +5517,7 @@ While goblins will dig warrens, something they do well, they will also take over
 
 As individuals, goblins are generally weak, frightened, and stupid creatures. In groups they are belligerent, rambunctious, and stupid creatures. Goblins follow strength out of both fear and awe. They want to win so following the strong is a step in the right direction for any goblin. The strongest leaders can gather a substantial horde of goblins. While most tribes number only a few hundred the largest are currently about eight-thousand. The largest known tribe ever was under the goblin king Utty Face Chewer who gathered nearly twenty-five-thousand goblins to his banner. Much land burned and many fell before the Face Chewer tribe.
 
-Every tribe of goblins has a "goblin king" that rules them and from whom the tribe's name is taken. A king rules the tribe absolutely and they follow him for his strength. Showing weakness is a quick way for a king to become a former king. Some of the currently famous kings are Mumbro the Fish Eater, Torek Eye Biter, and Zippy the Paw Taker. Their tribes are large and well known in the Middle Lands. These large tribes launch raids on other settlements at every turn. They even get bold enough to engage the armies of the Empire from time to time.
+Every tribe of goblins has a "goblin king" that rules them and from whom the tribe's name is taken. A king rules the tribe absolutely and they follow him for his strength. Showing weakness is a quick way for a king to become a former king. Some of the currently famous kings are Mumbro the Fish Eater, Torek Eye Biter, and Zippy the Paw Taker. Their tribes are large and well known in the `Middle Lands`_. These large tribes launch raids on other settlements at every turn. They even get bold enough to engage the armies of the Empire from time to time.
 
 Goblins at war are a terrible sight. The large tribes will flood the battlefield with a few thousand screaming goblins that just wash over whatever is in the way. They often use a multi-prong attack strategy in which the main force slams the enemy's front line with utter abandon while worg riders sweep wide right and left then turn to hit the enemy's flank and/or rear as they can. The smaller tribes like to force an enemy into a defensive position and firebomb them. Goblins love to use fire in war. Goblins love to use fire anytime at all. Some of the essentials of cooking may escape them, but they still build the cook fire, even if they just use it to light the slaughtering ground. "Fun glowy glowy!"
 
@@ -5519,8 +5527,7 @@ Hobgoblins
 
 An average hobgoblin stands 5 feet tall and weighs 160 pounds. They are the builders and visionaries of the goblinoid races. That is not to say that they themselves build things, they direct slaves to build things for the most part. The exception being that they are fantastic weapon and armor smiths and war engine designers. They are also marvelous tacticians and their excellent organization skill make them wonderful clerks as well. Hobgoblins have the ambition to build empires, fortunately for the rest of the World, they never seem to get enough slaves to realize that ambition.
 
-Hobgoblins are the most orderly of the goblinoid races. They are organized by tribe, which they call a
-"kindom". Other races commonly and incorrectly use the term kingdom rather than kindom. When members of different kindoms encounter each other, it often ends in bloodshed and death. There are six well known kindoms of hobgoblins, Ahthrogs, Ganron, Hahvrin, Murlashdu, Sulthgoth, Yovvan and another score not so well known. A kindom is made up of clans that are related by bloodline. Clans are a little more volatile than kindoms and seem to come and go, sometimes with alarming speed.
+Hobgoblins are the most orderly of the goblinoid races. They are organized by tribe, which they call a "kindom". Other races commonly and incorrectly use the term kingdom rather than kindom. When members of different kindoms encounter each other, it often ends in bloodshed and death. There are six well known kindoms of hobgoblins, Ahthrogs, Ganron, Hahvrin, Murlashdu, Sulthgoth, Yovvan and another score not so well known. A kindom is made up of clans that are related by bloodline. Clans are a little more volatile than kindoms and seem to come and go, sometimes with alarming speed.
 
 The largest kindoms have 20,000 to 30,000 hobgoblins in them. They are not all in one settlement, in fact, it is rare that a settlement has more than three-thousand hobgoblins in it. A typical hobgoblin settlement is a war camp with up to a thousand warriors, a few hundred slaves, up to a hundred bugbears, and maybe two-hundred goblins who are kept out of the main camp and away from sources of fire. More than one camp has been put to the torch by goblins playing with "The fun glowy glowy!"
 
@@ -5586,7 +5593,7 @@ Ogres keep slaves but end up eating them within a few days. The idea of slave la
 Orcs
 ======
 
-Savage and strong, the average orc is roughly 6 feet tall and 210 pounds. They are, without a doubt, the most problematic marauders in the Middle Lands. The combination of a high level of hostility and high reproductive rates and environmental flexibility makes the orc a constant obstacle. While they favor mountainous or hilly regions they are also fairly common in the forest, on the plains, and in coastal regions. Caves, ruins, or freshly abandoned structures are often taken over by orcs and used as a base. No settlement within two days of an orc encampment will have to wait long for an attack or raid.
+Savage and strong, the average orc is roughly 6 feet tall and 210 pounds. They are, without a doubt, the most problematic marauders in the `Middle Lands`_. The combination of a high level of hostility and high reproductive rates and environmental flexibility makes the orc a constant obstacle. While they favor mountainous or hilly regions they are also fairly common in the forest, on the plains, and in coastal regions. Caves, ruins, or freshly abandoned structures are often taken over by orcs and used as a base. No settlement within two days of an orc encampment will have to wait long for an attack or raid.
 
 Orcs are quick to paint their faces and attack. With a weaker adversary they ride in on dire wolves, making a great show of it, and roll over any resistance before taking what they want, which is everything. But strong enemies are harried, supply lines are attacked, patrols are ambushed, snipers are used, and terror is encouraged. Orcs do not play fair and, while not the smartest of creatures, they are cunning enough to use complex strategies. Sadly, for the orcs, they are often a victim of their own success. The better they do the more orcs come to "get a piece of the action" and the more chaotic things become. It gets harder and harder for the orcs to carry out indirect warfare like that for long. Soon, different bands are stepping on each others feet and they start fighting one another. At this point a smart orc war chief switches to the direct assault so all the orcs can focus on attacking the same thing at the same time. Often, that change in strategy will allow the orcs to excel again.
 
@@ -5596,7 +5603,7 @@ But, as horrifying as these attacks are it is not death that frightens most peop
 
 Female slaves can expect additional horrors for they are often used as breeding stock. It is not at all unknown for female orcs to pick a male slave and couple with them. Most orcs think of this as foul because the male slaves are rarely strong enough to make good breeding stock. In the end, orcs value half-orcs. The half-orc can often be as cruel as any orc and are very often more intelligent. If they are of the right temperament, the half-orc can do very well among orcs, even becoming a leader. Those that lack such a temperament often die young or slip away in search of a better, less brutal, place.
 
-Orcs are tribal creatures. Every band of orcs is part of a tribe. Tribes are based on bloodline. The largest and most well known tribes in the Middle Lands are the Bloody Blade, Bone Breakers, Death Eye, Ear Takers, Rotting Hand, Rune Tooth, Sly Tongue, and Vile Blood. There are dozens of other, smaller, tribes and new ones form all the time as others vanish. Every tribe has its sign, used as a battle standard, honor tattoo, and an ownership brand. Tribe status is measured by the power of its warriors, the number of its slaves, the cruelty of its leader, and the gold they take.
+Orcs are tribal creatures. Every band of orcs is part of a tribe. Tribes are based on bloodline. The largest and most well known tribes in the `Middle Lands`_ are the Bloody Blade, Bone Breakers, Death Eye, Ear Takers, Rotting Hand, Rune Tooth, Sly Tongue, and Vile Blood. There are dozens of other, smaller, tribes and new ones form all the time as others vanish. Every tribe has its sign, used as a battle standard, honor tattoo, and an ownership brand. Tribe status is measured by the power of its warriors, the number of its slaves, the cruelty of its leader, and the gold they take.
 
 
 Rakshasa
@@ -5614,7 +5621,7 @@ Rakshasa must eat one mortal, there by consuming their soul, every lunar cycle o
 Sahuagins
 ===========
 
-A sahuagin stands 7 feet tall and weighs about 250 pounds. In the Middle Lands about one fifth of all sahuagins have the amphibious mutation. Commonly called "sea devils", sahuagins kill for sport as much as out of need. Next to pirates, sahuagins are the bane of both shipping lanes and coastal settlements. They come in the night, sliding silently over the sand from the sea, into small fishing villages to whisk people away. There are tales of entire villages being emptied over the course of a single night. Many seaside villages keep nightly vigils, most especially during moonless nights & the highest tides of the year.
+A sahuagin stands 7 feet tall and weighs about 250 pounds. In the `Middle Lands`_ about one fifth of all sahuagins have the amphibious mutation. Commonly called "sea devils", sahuagins kill for sport as much as out of need. Next to pirates, sahuagins are the bane of both shipping lanes and coastal settlements. They come in the night, sliding silently over the sand from the sea, into small fishing villages to whisk people away. There are tales of entire villages being emptied over the course of a single night. Many seaside villages keep nightly vigils, most especially during moonless nights & the highest tides of the year.
 
 Ships anchored in harbor are vulnerable to these nightly incursions as well. Vessels carrying large amounts of dried meat and/or sweet peanut cream are most likely to draw sahuagin attention. Their amphibious raiding parties will often sneak onto such a ship, kill the crew and investigate its stores. They will take any valuables and/or foodstuff they like. This often includes the crew's bodies.
 
@@ -5630,7 +5637,7 @@ Troglodytes
 
 A typical troglodyte stands about 5 feet tall and weighs 140 pounds. While numerous, infighting has kept troglodytes in check for centuries. Prior to the last decade, encounters with them were rare. But something is changing and more troglodytes are coming to the surface to hunt. There are even reports of the mythic dark elves of the Underworld being seen commanding troglodytes. While the lore is sparse, what is known of dark elves says this is very unlikely. Yet something is happening below.
 
-Raiding parties often number between 12 and 20 troglodytes. In the borderlands they are more common but caves can be anywhere and any cave could lead to a troglodyte lair. It is the increased attacks in the "civilized" lands that has generated much worry. Southern Mostor is one of the latest hotbeds of activity.
+Raiding parties often number between 12 and 20 troglodytes. In the borderlands they are more common but caves can be anywhere and any cave could lead to a troglodyte lair. It is the increased attacks in the "civilized" lands that has generated much worry. Southern `Mostor`_ is one of the latest hotbeds of activity.
 
 Troglodytes do not get along with those outside their tribe. A typical tribe being 50 to 60 mated pairs, with at least as many young and half again as many eggs. Tribes settle in cave systems or ruins. They are ruled by the chief troglodyte who is often a priest as well.
 
@@ -5672,7 +5679,7 @@ A typical worg pack is about ten strong. But, in rare cases, they have been know
 Creatures Unique to the Middle Lands
 *************************************
 
-Just like any other place, there are creatures in the Middle Lands that exist nowhere else. What follows are a few examples of such critters.
+Just like any other place, there are creatures in the `Middle Lands`_ that exist nowhere else. What follows are a few examples of such critters.
 
 
 Fet'louse
@@ -5731,7 +5738,7 @@ If one could lift a fet'louse off the ground and examine it, one would find a cr
 
 The most surprising thing about fet'louse is that they are intelligent and can even speak the common language. While it is possible to speak to them, they are not interested in the affairs of humanoids. Coin is not important to them but they do recognize that it can be useful to get other things. Food is more enticing. A promise of food can lead to fet'louse being employed as guardians, assuming the area they are guarding is a swampy area.
 
-Every wetland area of the Middle Lands supports fet'louse and, as a result of their widespread population, there are regional names for them. In addition to marsh trapper, they are also called bog bo, slip, or mud crik. The average citizen of the Empire sees them as vermin, dangerous and deadly, but still vermin. As fet'louse don't go out of their way to communicate, the common belief is that they are animals. While some of the more knowledgeable sages know different, the idea that they are at least as intelligent as people has not caught on with the general population. Other swampland humanoids, such as lizardfolk, don't have this delusion and are more likely to interact with a fet'louse.
+Every wetland area of the `Middle Lands`_ supports fet'louse and, as a result of their widespread population, there are regional names for them. In addition to marsh trapper, they are also called bog bo, slip, or mud crik. The average citizen of the Empire sees them as vermin, dangerous and deadly, but still vermin. As fet'louse don't go out of their way to communicate, the common belief is that they are animals. While some of the more knowledgeable sages know different, the idea that they are at least as intelligent as people has not caught on with the general population. Other swampland humanoids, such as lizardfolk, don't have this delusion and are more likely to interact with a fet'louse.
 
 
 Jor Lizard
@@ -5784,7 +5791,7 @@ Similar in appearance to a large zebra-tailed lizard, the jor lizard is used as 
 
 Jor'ledos means "great sand lizard," they are often called a jor lizard or a jor for short. A typical jor, having a slim and sleek build, is 400lbs and stands about 4.5 feet tall at the shoulder. They are 10 to 12 feet long, nearly half of which is tail.
 
-These lizards are carnivorous, desert dwelling reptiles that inhabit the dry southern plains of Sulkor and some areas of the `Great Desert`_. Jor are almost as adept at water retention as camels and faster in the open desert. In addition, they are very strong for their slight build and relative size. For these reasons, some desert tribes have domesticated jor, using them as mounts.
+These lizards are carnivorous, desert dwelling reptiles that inhabit the dry southern plains of `Sulkor`_ and some areas of the `Great Desert`_. Jor are almost as adept at water retention as camels and faster in the open desert. In addition, they are very strong for their slight build and relative size. For these reasons, some desert tribes have domesticated jor, using them as mounts.
 
 In the wild, jor eat a variety of desert insects. Domesticated jor live off beetles raised by tribals. The jor's teeth are small and designed for crushing insect exoskeletons. While insects are their main food, any jor will eat whatever meat they can put teeth into. Typically, small prey is taken as it comes.
 
@@ -5792,7 +5799,7 @@ The average lifespan of a jor is fifteen years. They reach adulthood in their se
 
 A jor's skin is tough and they tend toward earthy color tones with black rings running down the tail. Tribals, however, have a fondness for other colors and domesticated jor have been bred for different colors and patterns when possible. Often times, the brighter and/or more extravagant skin patterns are used by tribal members with higher social status.
 
-The breeding has led to a healthy jor trade among the tribals. In the past half century more non-tribals have been acquiring jor for use as mounts, at least in southern Sulkor. Over the last decade jor racing has been spreading. Some of the cities in Sulkor now have large, sandy rings used as jor tracks. They hold daily races for both sport and gambling. Likewise, jor breeding is moving beyond the tribals.
+The breeding has led to a healthy jor trade among the tribals. In the past half century more non-tribals have been acquiring jor for use as mounts, at least in southern `Sulkor`_. Over the last decade jor racing has been spreading. Some of the cities in `Sulkor`_ now have large, sandy rings used as jor tracks. They hold daily races for both sport and gambling. Likewise, jor breeding is moving beyond the tribals.
 
 
 Basic Encounter Table Format
@@ -5986,8 +5993,7 @@ The encounter chance for this area is 1 in 8 and should be checked twice a day.
 Forest, Cold Locations
 ***********************
 
-This random encounter table should be used for travel within the northern forests of the Middle Lands. On
-the map these areas are marked by fir trees, see the section "About the Maps" for marker information.
+This random encounter table should be used for travel within the northern forests of the `Middle Lands`_. On the map these areas are marked by fir trees, see the section `"About the Maps" <About the Maps_>`_ for marker information.
 
 The encounter chance for this area is 1 in 6 and should be checked once a day.
 
@@ -6082,7 +6088,7 @@ The encounter chance for this area is 1 in 6 and should be checked once a day.
 Forest, Temperate Locations
 ****************************
 
-This random encounter table should be used for travel within the non-northern forests of the Middle Lands. On the map these areas are marked by trees, see the section "About the Maps" for marker information.
+This random encounter table should be used for travel within the non-northern forests of the `Middle Lands`_. On the map these areas are marked by trees, see the section `"About the Maps" <About the Maps_>`_ for marker information.
 
 The encounter chance for this area is 1 in 8 and should be checked once a day.
 
@@ -6177,7 +6183,7 @@ The encounter chance for this area is 1 in 8 and should be checked once a day.
 Hill and Mountain, Cold Locations
 **********************************
 
-This random encounter table should be used for travel within the northern mountains of the Middle Lands.
+This random encounter table should be used for travel within the northern mountains of the `Middle Lands`_.
 
 The encounter chance for this area is 1 in 4 and should be checked once a day.
 
@@ -6272,7 +6278,7 @@ The encounter chance for this area is 1 in 4 and should be checked once a day.
 Hill and Mountain, Temperate Locations
 ***************************************
 
-This random encounter table should be used for travel within all the hills of the Middle Lands. There are no mountains in the Middle Lands that are considered temperate. The encounter chance for this area is 1 in 8 and should be checked once a day.
+This random encounter table should be used for travel within all the hills of the `Middle Lands`_. There are no mountains in the Middle Lands that are considered temperate. The encounter chance for this area is 1 in 8 and should be checked once a day.
 
 .. list-table:: Encounters: Hill and Mountain, Temperate Locations
    :header-rows: 1
@@ -6365,7 +6371,7 @@ This random encounter table should be used for travel within all the hills of th
 Hill and Mountain, Hot Locations
 *********************************
 
-This random encounter table should be used for travel within all the southern hills and mountains of the Middle Lands.
+This random encounter table should be used for travel within all the southern hills and mountains of the `Middle Lands`_.
 
 The encounter chance for this area is 1 in 6 and should be checked twice a day.
 
@@ -6460,7 +6466,7 @@ The encounter chance for this area is 1 in 6 and should be checked twice a day.
 Marsh/Swamp, Temperate Locations
 *********************************
 
-This random encounter table should be used for travel within all the marsh/swamp areas of the Middle Lands. These areas are marked on the map, see the section "About the Maps" for marker information.
+This random encounter table should be used for travel within all the marsh/swamp areas of the `Middle Lands`_. These areas are marked on the map, see the section `"About the Maps" <About the Maps_>`_ for marker information.
 
 The encounter chance for this area is 1 in 5 and should be checked twice a day.
 
@@ -6555,7 +6561,7 @@ The encounter chance for this area is 1 in 5 and should be checked twice a day.
 Plains, Temperate Locations
 ****************************
 
-This random encounter table should be used for travel within all the plains of the Middle Lands. These areas are marked on the map by the absence of other markers and are color coded, see the section "About the Maps" for more information. It should also be noted that while these areas are mostly flat grassland that does not mean a complete absence of bodies of water, trees and hills.
+This random encounter table should be used for travel within all the plains of the `Middle Lands`_. These areas are marked on the map by the absence of other markers and are color coded, see the section `"About the Maps" <About the Maps_>`_ for more information. It should also be noted that while these areas are mostly flat grassland that does not mean a complete absence of bodies of water, trees and hills.
 
 The encounter chance for this area is 1 in 10 and should be checked once a day.
 
@@ -6758,7 +6764,7 @@ Battle songs
 
 Battle songs have been sung by warriors since the first war was fought. Traditionally, these songs are a testament of grim defiance to enemies and long odds and death. Some will summon reminders of what the warrior fights for. Some will be heartbreakingly melancholy laments for the fallen. Some will be humorous. All are a way for a soldier to scream, "We will win!"
 
-Normally sung while marching, they have a rhythm that works well with a strong and steady drum beat. Generally, one soldier starts the song by singing the verse and all thunder out the chorus together. Call and response songs are common. While every troop has their own collection of verse and chorus they favor, there are some old favorites sung across the Middle Lands. It is common to have dozens of verses and some minor variation in the chorus of a song, here are examples of versus for some of the songs.
+Normally sung while marching, they have a rhythm that works well with a strong and steady drum beat. Generally, one soldier starts the song by singing the verse and all thunder out the chorus together. Call and response songs are common. While every troop has their own collection of verse and chorus they favor, there are some old favorites sung across the `Middle Lands`_. It is common to have dozens of verses and some minor variation in the chorus of a song, here are examples of versus for some of the songs.
 
 +------------------------------------------+--------------------------------------------+
 | | Wolf of War (4 of 18 verses)           | | Victory's Reward (3 of 7 verses)         |
@@ -6848,7 +6854,7 @@ These songs are almost a game to sing. As example, "I Used to Work in Balashar" 
 
 Many other songs, generally sung in drunker states, are lewd things and not for civil ears. "Six Drunken Knights" and "Another Damned Sailor" are prime examples of explicitly provocative songs. The things those knights get up to, shameful. And, if one is drunk enough, hilarious.
 
-Sulkor has a unique tradition in drinking songs. They call this genre "the Lament" and it has style all it's own. The lute, and mouth harp are popular accompaniments there. Note the lutes are tuned a bit differently, the sound is deeper, lower, more bass like. The rhythm is trance-like. The lyrics are not happy, in fact, they are often painful subjects (such as heartbreak, loss, and oppression). But they are relatable, they describe problems everyone understands. There's a catharsis in sharing it. Also, there's something deep and sensual about the music. Bards that specialize in this form have inspired parents across the realm to lockup sons and daughters for fear loosing them to the sultry sounds. Some villages outside of Sulkor have even banned such music after their first exposure.
+`Sulkor`_ has a unique tradition in drinking songs. They call this genre "the Lament" and it has style all it's own. The lute, and mouth harp are popular accompaniments there. Note the lutes are tuned a bit differently, the sound is deeper, lower, more bass like. The rhythm is trance-like. The lyrics are not happy, in fact, they are often painful subjects (such as heartbreak, loss, and oppression). But they are relatable, they describe problems everyone understands. There's a catharsis in sharing it. Also, there's something deep and sensual about the music. Bards that specialize in this form have inspired parents across the realm to lockup sons and daughters for fear loosing them to the sultry sounds. Some villages outside of `Sulkor`_ have even banned such music after their first exposure.
 
 
 Working Songs
